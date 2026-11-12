@@ -60,6 +60,36 @@
       "company": "FyndTech",
       "title": "APAC Business Manager (Remote)",
       "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://boards.greenhouse.io/datadog/jobs/7131726",
+      "company": "Datadog",
+      "title": "Strategic Account Executive (Indonesia)",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://boards.greenhouse.io/groupib/jobs/5024592101",
+      "company": "Group-IB",
+      "title": "Business Development Manager (Indonesia)",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/pragmatike/42adcdc4-0ae6-439d-b08f-d58ba48d18ea",
+      "company": "Pragmatike",
+      "title": "Outbound Account Executive",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/supabase/9a48e441-16c8-488d-a056-0e132f09d65d",
+      "company": "Supabase",
+      "title": "Account Executive - ASEAN",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://jobs.smartrecruiters.com/coinscope/743999982129713-business-development-manager-apac-",
+      "company": "CyberScope (TAC Security)",
+      "title": "Business Development Manager, APAC",
+      "first_sent": "2026-11-12"
     }
   ],
   "rejected": [
@@ -70,6 +100,18 @@
     {
       "url": "https://jobs.ashbyhq.com/chainalysis-careers/f599f983-6def-43cc-be31-777d968260ff",
       "reason": "hybrid Singapore, bukan remote Indonesia"
+    },
+    {
+      "url": "https://boards.greenhouse.io/edb/jobs/7969956003",
+      "reason": "Requires 10+ yrs Indonesia IT sales and 5+ yrs selling databases."
+    },
+    {
+      "url": "https://wellfound.com/jobs/5034866-business-development-manager",
+      "reason": "Pay built around commission, base optional; needs fintech/payments buyer experience; apply via generic hr@ email."
+    },
+    {
+      "url": "https://web3.career/web3-business-development-certik/155979",
+      "reason": "Candidates must be based in Europe, UAE or North America."
     }
   ],
   "applications": []
