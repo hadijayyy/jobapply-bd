@@ -1,0 +1,13 @@
+{
+  "_note": "Daftar lowongan yang SUDAH dikirim ke user. Routine wajib baca file ini, buang yang sudah ada (cocokkan url), dan tambahkan yang baru setelah dikirim.",
+  "jobs": [
+    {"url": "https://jobs.ashbyhq.com/bjakcareer/818f615d-7416-4912-9988-041048343130", "company": "Bjak", "title": "Head of Business Development", "first_sent": "2026-11-12"},
+    {"url": "https://jobs.lever.co/BTSE/8cc49283-4de0-40db-a45e-c5d09551a103", "company": "BTSE", "title": "Listing Business Development Manager", "first_sent": "2026-11-12"},
+    {"url": "https://bebee.com/id/jobs/senior-merchant-acquisition-faspay-gambir-jakarta--t7xk-928525519", "company": "Faspay", "title": "Senior Merchant Acquisition", "first_sent": "2026-11-12"}
+  ],
+  "rejected": [
+    {"url": "https://job-boards.greenhouse.io/okx/jobs/5986780003", "reason": "closed 2026-11-12"},
+    {"url": "https://jobs.ashbyhq.com/chainalysis-careers/f599f983-6def-43cc-be31-777d968260ff", "reason": "hybrid Singapore, bukan remote Indonesia"}
+  ],
+  "applications": []
+}
