@@ -170,17 +170,56 @@ def letter(r):
 
 
 BAD = re.compile(r"—|passionate|thrilled|fast-paced|results-driven|synerg|I am writing to apply", re.I)
-FORM = """## Standard form answers (from profile.md)
+FORM = """## Standard form answers (confirmed by Ryan, 12 Nov 2026)
 - Full name: Ryan Hadi
 - Email: ryanhadi.career@gmail.com | Phone: +62 821 9997 5090
 - Location: Jakarta, Indonesia (UTC+7)
 - LinkedIn: linkedin.com/in/ryanhadi
 - Languages: Indonesian (native), English (professional working proficiency)
-- Work authorization: Indonesia only (citizen status to be confirmed by Ryan). Any other country: do not answer, ask Ryan.
-- Salary expectation: ask Ryan, never invent (floor stated: USD 1,000/month, higher is better)
-- Notice period / start date: ask Ryan (not in profile)
-- Demographic / EEO questions: leave to Ryan or choose "decline to self-identify"
+- Current employer: Sinar Mas Land (OneSmartServices), Business Development Manager since Mar 2023
+- Notice period: 1 month
+- Salary expectation: Negotiable (floor Ryan stated: USD 1,000/month, higher is better). If a form forces a number, ask Ryan.
+- Work authorization: Indonesian citizen, eligible to work in Indonesia. Needs visa sponsorship for any other country. Open to relocation with sponsorship.
+- Demographic / EEO questions: choose "decline to self-identify" or leave to Ryan
+- Facts NOT in the profile (never fill): years of experience in specific tools/industries beyond the CV, willingness to travel, US/Singapore working hours
 """
+
+
+BLOCK = {
+ "datadog": "Greenhouse form embedded on careers.datadoghq.com. Not tested.",
+ "kaltura": "Comeet form, reCAPTCHA. Automated submit blocked. Listing is tagged TH (Thailand), remote 'location dep.' so check location. Asks willingness to travel SEA (not in profile).",
+ "groupib": "Apply button opens Greenhouse embed on group-ib.com. Not tested.",
+ "supabase": "Ashby, reCAPTCHA. Extra questions: passport country, residence, async-work essay, open source essay.",
+ "pragmatike": "Ashby, reCAPTCHA. Asks total years of experience (5+) and ideal compensation in USD/year (needs a number from Ryan).",
+ "temporal": "Ashby, reCAPTCHA. Singapore-based role.",
+ "okx": "Greenhouse, reCAPTCHA. Asks eligibility, visa sponsorship, last employer, notice period (1 month).",
+ "ampd": "Lever, page timed out in headless browser; hCaptcha likely.",
+ "branch": "Rippling. Not tested past first page.",
+ "cyberscope": "SmartRecruiters. Not tested past first page.",
+ "ampifire": "Teamtailor, starts with email field. Needs US hours.",
+ "wiley": "Workday, needs account creation.",
+}
+
+
+def queue():
+    order = {"A": 0, "B": 1}
+    rs = sorted(ROLES, key=lambda r: (order[r["tier"]], r["id"] not in ("datadog", "kaltura", "kglobalhub", "cloudmile")))
+    L = ["# Apply queue (submit in this order)", "",
+         "Each kit has the cover letter text. CV files named per company are in cv/by-company/.",
+         "No application has been submitted by Claude. All forms with reCAPTCHA need a human.", "",
+         "| # | Tier | Company | Role | Apply link | CV file | Kit | Notes |", "|---|---|---|---|---|---|---|---|"]
+    for i, r in enumerate(rs, 1):
+        cvn = f"cv/by-company/Ryan-Hadi-CV-{re.sub(r'[^A-Za-z0-9]+','-',r['co']).strip('-')}.pdf"
+        L.append(f"| {i} | {r['tier']} | {r['co']} | {r['role']} | {r['url']} | {cvn} | applications/{r['id']}.md | {BLOCK.get(r['id'], 'Find the official apply page first (listing is an aggregator link)') } |")
+    (HERE / "APPLY-QUEUE.md").write_text("\n".join(L) + "\n")
+    import shutil
+    d = HERE / "cv" / "by-company"; d.mkdir(parents=True, exist_ok=True)
+    for r in ROLES:
+        shutil.copy(HERE / "cv" / f"Ryan-Hadi-CV-{r['cv']}.pdf", HERE / cvn_path(r))
+
+
+def cvn_path(r):
+    return f"cv/by-company/Ryan-Hadi-CV-{re.sub(r'[^A-Za-z0-9]+','-',r['co']).strip('-')}.pdf"
 
 
 def main():
@@ -200,6 +239,7 @@ def main():
 {FORM}"""
         (OUT / f"{r['id']}.md").write_text(md)
         rows.append((r["id"], words))
+    queue()
     print(len(rows), "kits;", "word range", min(w for _, w in rows), max(w for _, w in rows))
 
 
