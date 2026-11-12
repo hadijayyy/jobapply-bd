@@ -1,13 +1,76 @@
 {
   "_note": "Daftar lowongan yang SUDAH dikirim ke user. Routine wajib baca file ini, buang yang sudah ada (cocokkan url), dan tambahkan yang baru setelah dikirim.",
   "jobs": [
-    {"url": "https://jobs.ashbyhq.com/bjakcareer/818f615d-7416-4912-9988-041048343130", "company": "Bjak", "title": "Head of Business Development", "first_sent": "2026-11-12"},
-    {"url": "https://jobs.lever.co/BTSE/8cc49283-4de0-40db-a45e-c5d09551a103", "company": "BTSE", "title": "Listing Business Development Manager", "first_sent": "2026-11-12"},
-    {"url": "https://bebee.com/id/jobs/senior-merchant-acquisition-faspay-gambir-jakarta--t7xk-928525519", "company": "Faspay", "title": "Senior Merchant Acquisition", "first_sent": "2026-11-12"}
+    {
+      "url": "https://jobs.ashbyhq.com/bjakcareer/818f615d-7416-4912-9988-041048343130",
+      "company": "Bjak",
+      "title": "Head of Business Development",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://jobs.lever.co/BTSE/8cc49283-4de0-40db-a45e-c5d09551a103",
+      "company": "BTSE",
+      "title": "Listing Business Development Manager",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://bebee.com/id/jobs/senior-merchant-acquisition-faspay-gambir-jakarta--t7xk-928525519",
+      "company": "Faspay",
+      "title": "Senior Merchant Acquisition",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/id/job/channel-sales-manager--jakarta-pusat--ef366f5ff4806903ce89f40d0cc8c9a2f",
+      "company": "KGlobal Hub Pte Ltd",
+      "title": "Channel Sales Manager (Partner Manager)",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/id/job/business-development-manager--jakarta-pusat--e8c8e74da0aa350c6a632ff5f273fcead",
+      "company": "Ingram Micro",
+      "title": "Business Development Manager (Jakarta)",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/id/job/enterprise-account-executive-asean-markets--indonesia--e568785dd8f78388a90d32fd545eeece3",
+      "company": "Deel",
+      "title": "Enterprise Account Executive, ASEAN Markets",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/id/job/enterprise-saas-solutions-account-manager--jakarta-selatan--e32cb8a80c6b740f2fc214e9993f6c571",
+      "company": "PT Exabytes Network Indonesia",
+      "title": "Enterprise SaaS Solutions Account Manager",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/id/job/saas-account-executive-for-sea-growth-new-business--indonesia--e485ab1ee46aadcc5ecd6e8ae79edb397",
+      "company": "Sensor Tower",
+      "title": "SaaS Account Executive, SEA Growth",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/sg/job/enterprise-growth-manager-apac-remote--singapore--ef1d71bd7293f9c7c60c1c4cc868ecc6f",
+      "company": "90 Seconds",
+      "title": "Enterprise Growth Manager APAC (Remote)",
+      "first_sent": "2026-11-12"
+    },
+    {
+      "url": "https://www.jobleads.com/sg/job/apac-business-manager-remote-regional-ownership--singapore--e88c8611b9b9c0f2761ed72d82f19f2c8",
+      "company": "FyndTech",
+      "title": "APAC Business Manager (Remote)",
+      "first_sent": "2026-11-12"
+    }
   ],
   "rejected": [
-    {"url": "https://job-boards.greenhouse.io/okx/jobs/5986780003", "reason": "closed 2026-11-12"},
-    {"url": "https://jobs.ashbyhq.com/chainalysis-careers/f599f983-6def-43cc-be31-777d968260ff", "reason": "hybrid Singapore, bukan remote Indonesia"}
+    {
+      "url": "https://job-boards.greenhouse.io/okx/jobs/5986780003",
+      "reason": "closed 2026-11-12"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/chainalysis-careers/f599f983-6def-43cc-be31-777d968260ff",
+      "reason": "hybrid Singapore, bukan remote Indonesia"
+    }
   ],
   "applications": []
 }
