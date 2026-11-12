@@ -1,0 +1,6 @@
+{
+  "greenhouse": ["datadog", "groupib", "okx", "rzr", "edb", "cloudflare", "gitlab", "mongodb", "elastic", "twilio", "stripe", "coinbase", "okta", "databricks", "samsara", "figma", "xendit", "gojek", "grab", "bitget", "bybit", "kraken", "chainalysis", "anchorage", "ripple", "circle", "fireblocks", "sumsub", "tiktok", "shopee", "sea", "traveloka", "tokopedia", "kredivo", "finaccel", "akulaku"],
+  "lever": ["spotify", "BTSE", "ampd-energy", "palantir", "wati", "mekari", "qiscus", "nium", "thunes", "coda", "binance", "crypto", "kyberswap"],
+  "ashby": ["airwallex", "supabase", "deel", "vinci", "pragmatike", "bjakcareer", "ramp", "notion", "linear", "vercel", "openai", "anthropic", "retool", "clickhouse", "sensortower", "kong", "temporal", "airbyte", "neon", "cohere"],
+  "smartrecruiters": ["Visa", "accorhotel", "coinscope", "tinvio", "Salesforce", "ServiceNow"]
+}
