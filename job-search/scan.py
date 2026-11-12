@@ -9,6 +9,7 @@ Usage:
     python3 job-search/scan.py                # print table
     python3 job-search/scan.py --days 14      # only jobs published in last 14 days
     python3 job-search/scan.py --out new.md   # also write to a file
+    python3 job-search/scan.py --check-live   # drop postings confirmed expired
 
 Sources: Remotive, Himalayas (search API), RemoteOK, We Work Remotely (RSS),
 Greenhouse / Lever / Ashby company boards listed in boards.json.
@@ -204,6 +205,7 @@ def main():
     ap.add_argument("--days", type=int, default=30)
     ap.add_argument("--out")
     ap.add_argument("--limit", type=int, default=60)
+    ap.add_argument("--check-live", action="store_true", help="drop postings confirmed expired (ATS API check, no browser)")
     a = ap.parse_args()
 
     tasks = [("Remotive", remotive), ("Himalayas", himalayas), ("RemoteOK", remoteok), ("WWR", wwr)]
@@ -240,6 +242,14 @@ def main():
         keep.append(j)
     keep.sort(key=lambda j: (-j["score"], j["date"] or NOW), reverse=False)
     keep = keep[: a.limit]
+    if a.check_live:
+        import liveness
+        verdict = liveness.check_many([j["url"] for j in keep])
+        dropped = [j for j in keep if verdict.get(j["url"]) == "expired"]
+        keep = [j for j in keep if verdict.get(j["url"]) != "expired"]
+        for j in keep:
+            j["extra"] = (j["extra"] + " " if j["extra"] else "") + "[" + verdict.get(j["url"], "uncertain") + "]"
+        print(f"liveness: dropped {len(dropped)} expired", file=sys.stderr)
 
     lines = [f"# New matches ({len(keep)}), {NOW:%Y-%m-%d}", "",
              "| Score | Date | Company | Title | Location | Pay | Source | Link |", "|---|---|---|---|---|---|---|---|"]
