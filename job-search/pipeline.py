@@ -184,6 +184,15 @@ def cmd_tailor(a):
     store.save(); export_tracker(store)
 
 
+def cmd_applysheet(a):
+    """out/APPLY-SHEET.md: real Greenhouse form fields per ready job, pre-answered, + cover letter PDFs."""
+    from jobpipe import applysheet
+    store = Store()
+    ats_of = lambda j: (j.get("ats") or {}).get("after") or 0
+    jobs = sorted(store.by_status("ready"), key=lambda j: -ats_of(j))
+    print(applysheet.build(jobs).relative_to(ROOT))
+
+
 def cmd_lint(a):
     store = Store()
     jobs = store.by_status("kit_draft") if a.ref == "all" else [store.find(a.ref)]
@@ -262,6 +271,7 @@ def main():
     p = sp.add_parser("review", help="setelah halaman asli dibuka"); p.add_argument("ref"); p.add_argument("verdict", choices=["ok", "reject"]); p.add_argument("note", nargs="?", default=""); p.set_defaults(f=cmd_review)
     p = sp.add_parser("kit", help="buat CV + kit (ref atau 'all')"); p.add_argument("ref"); p.add_argument("--force", action="store_true"); p.set_defaults(f=cmd_kit)
     p = sp.add_parser("tailor", help="CV per JD + skor ATS (ref atau 'all')"); p.add_argument("ref", nargs="?", default="all"); p.add_argument("--target", type=int, default=90); p.set_defaults(f=cmd_tailor)
+    p = sp.add_parser("applysheet", help="jawaban form Greenhouse + cover letter PDF untuk semua job ready"); p.set_defaults(f=cmd_applysheet)
     p = sp.add_parser("lint", help="cek kit; lolos -> ready"); p.add_argument("ref", nargs="?", default="all"); p.set_defaults(f=cmd_lint)
     p = sp.add_parser("applied", help="catat sudah disubmit"); p.add_argument("ref"); p.add_argument("--via", default="form", choices=["form", "email", "referral"]); p.add_argument("--date"); p.add_argument("--force", action="store_true"); p.set_defaults(f=cmd_applied)
     p = sp.add_parser("status"); p.add_argument("ref"); p.add_argument("status", choices=STATUSES); p.add_argument("note", nargs="?", default=""); p.set_defaults(f=cmd_status)
