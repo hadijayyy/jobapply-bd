@@ -1,0 +1,143 @@
+{
+ "name": "Ryan Hadi",
+ "headline": "Business Development Manager | B2B Sales | Channel Partnerships",
+ "contact": {
+  "city": "Jakarta, Indonesia",
+  "phone": "+62 821 9997 5090",
+  "email": "ryanhadi.career@gmail.com",
+  "linkedin": "linkedin.com/in/ryanhadi"
+ },
+ "signature": "Ryan Hadi\nJakarta, Indonesia | +62 821 9997 5090 | ryanhadi.career@gmail.com | linkedin.com/in/ryanhadi",
+ "proofs": {
+  "deals": "At Sinar Mas Land (OneSmartServices) I closed IDR 10B+ in contract value across eight enterprise deals, averaging IDR 1.25B each, and finished 2025 at 115%+ of quota for smart CCTV and network infrastructure",
+  "partners": "I run a program of 20 active channel partners. Quarterly business reviews and joint sales plans grew our partner-sourced pipeline 25%, from IDR 2B to IDR 2.5B, in 12 months",
+  "signing": "I led a three-person BD team and signed four new channel partners, cutting proposal-to-signature time from 60 to 48 days by running Legal, Finance and Operations reviews in parallel",
+  "ai": "I built AI workflows with ChatGPT and Claude for prospect research, outreach and proposal drafting. They tripled our monthly prospect research volume, doubled discovery meetings and cut proposal turnaround from several days to one",
+  "siloam": "At Siloam Hospitals Group I built an outbound pipeline in HubSpot aimed at HR and procurement, with about 20 qualified prospects and 10 discovery meetings a month, which brought in 12 new corporate accounts and IDR 750M in first-year team revenue",
+  "renew": "I also ran medical check-up programs for 12 corporate clients covering 1,500 employees and renewed 10 of 12 eligible contracts (83%)"
+ },
+ "cv": {
+  "summary": {
+   "years": "Business Development Manager with 5+ years of full-cycle B2B sales and channel partnerships in enterprise IT and corporate healthcare.",
+   "years_ch": "Business Development Manager with 5+ years of channel partnerships and full-cycle B2B sales in enterprise IT and corporate healthcare.",
+   "deals": "Closed IDR 10B+ across eight enterprise IT deals, exceeding 2025 quota by 15%+, and delivered 120%+ of new-business target in corporate healthcare.",
+   "ai": "Builds AI-powered sales workflows that tripled prospecting capacity and doubled discovery meetings.",
+   "ent": "Runs consultative, multi-stakeholder deals end to end and manages a 20-partner channel program.",
+   "ch": "Manages a 20-partner channel program and grew partner-sourced pipeline 25% in 12 months.",
+   "target": "Targeting B2B partnerships and sales roles in technology and SaaS across APAC."
+  },
+  "bullets": {
+   "deals": "Closed IDR 10B+ in total contract value across eight enterprise deals (avg. IDR 1.25B+ per deal) for OneSmartServices’ smart CCTV and network infrastructure solutions, averaging 100%+ of annual quota and exceeding 2025 quota by 15%+.",
+   "ai": "Built AI-powered workflows (ChatGPT, Claude) for prospect research, outreach, and proposal drafting, saving 10+ hours per week. Tripled monthly prospect research volume, doubled discovery meetings, and cut proposal turnaround from several days to one.",
+   "pipe": "Grew qualified partner-sourced pipeline by 25% (IDR 2B to IDR 2.5B) in 12 months by launching quarterly business reviews and joint sales plans with 20 active channel partners.",
+   "team": "Led a three-person BD team and signed four new channel partner agreements by running Legal, Finance, and Operations reviews in parallel, cutting average proposal-to-signature time from 60 to 48 days."
+  },
+  "siloam": [
+   "Exceeded both personal and team new-business targets by 20%+. Built and ran an individual outbound pipeline in HubSpot targeting HR and procurement (avg. 20 qualified prospects and 10 discovery meetings per month), contributing to 12 new corporate accounts and IDR 750M in first-year team revenue.",
+   "Co-managed a 20-account corporate portfolio with a senior account manager, growing revenue 15% YoY (IDR 1B to IDR 1.15B) by mapping gaps in employee health coverage and cross-selling inpatient and outpatient services.",
+   "Owned the commercial side of medical check-up programs for 1,500 employees across 12 corporate clients, working with Operations on delivery; renewed 10 of 12 eligible contracts (83%) and generated IDR 150M in follow-up service revenue."
+  ],
+  "skills": [
+   [
+    "B2B Sales & Account Growth",
+    "Outbound Prospecting, Discovery, Consultative Selling, Multi-stakeholder Negotiation, Account Management, Cross-Selling, Renewals"
+   ],
+   [
+    "Channel Partnerships",
+    "Partner Recruitment & Onboarding, Joint Sales Planning, Quarterly Business Reviews, Pipeline Management"
+   ],
+   [
+    "Sales Automation & Analytics",
+    "AI Workflows (ChatGPT, Claude), Prompt Engineering, Power BI, HubSpot CRM, Advanced Excel"
+   ],
+   [
+    "Commercial Strategy",
+    "Market Sizing, Feasibility Analysis, Business Case Development, Executive Presentations"
+   ]
+  ],
+  "variants": {
+   "Enterprise": {
+    "summary": [
+     "years",
+     "deals",
+     "ai",
+     "ent",
+     "target"
+    ],
+    "bullets": [
+     "deals",
+     "ai",
+     "pipe",
+     "team"
+    ],
+    "skills": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "Channel": {
+    "summary": [
+     "years_ch",
+     "ch",
+     "deals",
+     "ai",
+     "target"
+    ],
+    "bullets": [
+     "pipe",
+     "team",
+     "deals",
+     "ai"
+    ],
+    "skills": [
+     1,
+     0,
+     2,
+     3
+    ]
+   },
+   "AI-Sales": {
+    "summary": [
+     "years",
+     "ai",
+     "deals",
+     "ent",
+     "target"
+    ],
+    "bullets": [
+     "ai",
+     "deals",
+     "pipe",
+     "team"
+    ],
+    "skills": [
+     2,
+     0,
+     1,
+     3
+    ]
+   }
+  }
+ },
+ "form_answers": [
+  "Full name: Ryan Hadi",
+  "Email: ryanhadi.career@gmail.com | Phone: +62 821 9997 5090",
+  "Location: Jakarta, Indonesia (UTC+7)",
+  "LinkedIn: linkedin.com/in/ryanhadi",
+  "Languages: Indonesian (native), English (professional working proficiency)",
+  "Current employer: Sinar Mas Land (OneSmartServices), Business Development Manager since Mar 2023",
+  "Notice period: 1 month",
+  "Salary expectation: Negotiable (floor Ryan stated: USD 1,000/month, higher is better). If a form forces a number, ask Ryan.",
+  "Work authorization: Indonesian citizen, eligible to work in Indonesia. Needs visa sponsorship for any other country. Open to relocation with sponsorship.",
+  "Demographic / EEO questions: choose \"decline to self-identify\" or leave to Ryan",
+  "Facts NOT in the profile (never fill): years of experience in specific tools/industries beyond the CV, willingness to travel, US/Singapore working hours"
+ ],
+ "facts": [
+  "OneSmartServices delivers cloud, managed services and smart city infrastructure to 110+ corporate clients (IT unit of Sinar Mas Land, developer of BSD City)",
+  "five years of B2B sales and channel partnerships",
+  "UTC+7, one hour behind Singapore time",
+  "Planning horizons that are not claims: 30, 60, 90 days"
+ ]
+}

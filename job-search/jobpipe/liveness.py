@@ -10,13 +10,11 @@ page). Anything ambiguous is "uncertain", never "expired".
 Approach and expired-phrase list adapted from career-ops-hq/career-ops
 (MIT License, Copyright (c) 2026 Santiago Fernandez de Valderrama).
 
-Usage:
-    python3 job-search/liveness.py URL [URL ...]
-    python3 job-search/liveness.py --tracker          # check tracker.csv Link column
+Used by pipeline.py (verify stage). Quick manual check:
+    python3 -c "from jobpipe.liveness import check_many; print(check_many(['URL']))"
 """
-import csv, functools, json, re, sys, threading, urllib.error, urllib.request
+import functools, json, re, threading, urllib.error, urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from pathlib import Path
 
 UA = {"User-Agent": "Mozilla/5.0 (job-liveness)"}
 SEG = r"[A-Za-z0-9._-]+"
@@ -120,20 +118,3 @@ def check_many(urls, workers=8):
     urls = list(dict.fromkeys(urls))
     with ThreadPoolExecutor(workers) as ex:
         return dict(zip(urls, ex.map(check, urls)))
-
-
-def main():
-    args = sys.argv[1:]
-    if not args:
-        print(__doc__); return
-    if args[0] == "--tracker":
-        rows = csv.DictReader((Path(__file__).parent / "tracker.csv").open())
-        urls = [r["Link"] for r in rows if r.get("Link") and r.get("Tier") in ("A", "B")]
-    else:
-        urls = args
-    for u, v in check_many(urls).items():
-        print(f"{v:9} {u}")
-
-
-if __name__ == "__main__":
-    main()

@@ -1,0 +1,301 @@
+{
+ "_note": "Satu-satunya file konfigurasi pipeline. Edit di sini, bukan di kode.",
+ "timezone": "Asia/Jakarta",
+ "schedule": {
+  "cron": "CRON_TZ=Asia/Jakarta 7 7 * * 1-5",
+  "note": "Sekali sehari Senin-Jumat pagi WIB"
+ },
+ "freshness_days": 14,
+ "followup_days": [
+  5,
+  10
+ ],
+ "tier_threshold": {
+  "A": 65,
+  "B": 45
+ },
+ "report_max_items": 10,
+ "queries": [
+  "business development",
+  "partnerships",
+  "partner manager",
+  "channel sales",
+  "account executive",
+  "enterprise sales",
+  "alliances"
+ ],
+ "title_include": "business development|partnership|partner manager|partner development|channel|alliance|account executive|enterprise sales|enterprise account|sales manager|sales director|head of (sales|bd|business|partner)|growth manager|strategic account|solutions sales|\\bbdm\\b|\\bbd manager|country manager|market development",
+ "title_exclude": "intern\\b|internship|junior|graduate|entry|assistant|engineer|developer|designer|analyst|recruit|accountant|support|customer success|marketing manager|payroll|legal|representative|\\bsdr\\b|\\bbdr\\b|commission[- ]only|freelance",
+ "location_ok": "indonesia|jakarta|apac|asia|southeast|sea\\b|asean|singapore|malaysia|australia|worldwide|anywhere|global|everywhere|remote",
+ "location_bad": "\\b(us|usa|u\\.s\\.|united states|canada|uk|united kingdom|europe|emea|eu|latam|north america|germany|france|india|brazil|mexico|israel|dubai|uae)\\b[- ]*(only|based)?",
+ "location_good": "indonesia|jakarta|apac|asia|southeast|asean|singapore|malaysia|australia|worldwide|anywhere|everywhere|global",
+ "hard_blockers": [
+  {
+   "id": "license",
+   "label": "Butuh lisensi WPE/WAPERD/OJK",
+   "pattern": "waperd|\\bwpe\\b|wakil perantara|licensed (securities|insurance)|OJK licen"
+  },
+  {
+   "id": "mandarin",
+   "label": "Mandarin wajib",
+   "pattern": "(mandarin|chinese)[^.\\n]{0,40}(fluen|required|must|mandatory|native)|(fluen|proficien)[^.\\n]{0,30}(mandarin|chinese)"
+  },
+  {
+   "id": "crypto",
+   "label": "Pengalaman crypto/Web3 wajib",
+   "pattern": "(experience|background|track record)[^.\\n]{0,40}(crypto|web3|blockchain|defi)(?![^.\\n]{0,40}(preferred|plus|nice|bonus|advantage))"
+  },
+  {
+   "id": "years7",
+   "label": "Syarat 7+ tahun",
+   "pattern": "\\b(?:7|8|9|10|12|15)\\s*\\+?\\s*(?:-\\s*\\d+\\s*)?(?:years|yrs)[^.\\n]{0,40}(experience|sales|business development|enterprise)"
+  },
+  {
+   "id": "commission",
+   "label": "Komisi saja",
+   "pattern": "commission[- ]only|100% commission|no base salary|unpaid"
+  },
+  {
+   "id": "onsite_abroad",
+   "label": "Onsite/hybrid di luar Jakarta",
+   "pattern": "(on-?site|hybrid|in[- ]office)[^.\\n]{0,30}(singapore|kuala lumpur|malaysia|bangkok|manila|sydney|hong kong|tokyo|seoul|dubai)"
+  },
+  {
+   "id": "residency",
+   "label": "Wajib residen negara lain",
+   "pattern": "(must|need to|required to)[^.\\n]{0,30}(reside|be located|be based|live)[^.\\n]{0,30}(singapore|malaysia|australia|thailand|philippines|vietnam|hong kong)|(singapore|malaysia|australia)[^.\\n]{0,15}(citizen|pr|permanent resident)[^.\\n]{0,15}(only|required)"
+  }
+ ],
+ "red_flags": [
+  {
+   "id": "pay_to_apply",
+   "label": "Minta bayar/deposit",
+   "pattern": "registration fee|training fee|deposit|pay (a|the) fee|biaya (pendaftaran|pelatihan)"
+  },
+  {
+   "id": "wallet",
+   "label": "Minta connect wallet/seed phrase",
+   "pattern": "seed phrase|connect (your )?wallet|private key"
+  },
+  {
+   "id": "mlm",
+   "label": "MLM/investasi/trading",
+   "pattern": "\\bmlm\\b|multi-?level|downline|binary option|forex trading signal"
+  },
+  {
+   "id": "dm_only",
+   "label": "Rekrut lewat DM/Gmail pribadi saja",
+   "pattern": "(dm|message) (me|us) (to apply|on (telegram|whatsapp))|apply via (telegram|whatsapp)"
+  }
+ ],
+ "soft_flags": [
+  {
+   "id": "us_hours",
+   "label": "Jam kerja US/EU",
+   "pattern": "\\b(us|est|pst|cst|eastern|pacific|uk|cet) (hours|time ?zone)|overlap with (us|eu)"
+  },
+  {
+   "id": "years6",
+   "label": "Syarat 6 tahun (Ryan 5+)",
+   "pattern": "\\b6\\s*\\+?\\s*(?:years|yrs)[^.\\n]{0,40}(experience|sales|business development|enterprise)"
+  },
+  {
+   "id": "travel",
+   "label": "Perlu willingness to travel (tidak ada di profil)",
+   "pattern": "willing(ness)? to travel|travel (up to|extensively|\\d+%)"
+  },
+  {
+   "id": "sg_based",
+   "label": "Berbasis Singapura",
+   "pattern": "based in singapore|singapore[- ]based"
+  }
+ ],
+ "industry_fit": "saas|software|cloud|\\bit\\b|infrastructure|platform|cyber|security|network|data|ai\\b|digital|technology",
+ "email_regex": "[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}",
+ "banned_phrases": "—|passionate|thrilled|fast-paced|results-driven|synerg|I am writing to apply|dynamic|rockstar",
+ "cover_letter_words": [
+  150,
+  250
+ ],
+ "boards": {
+  "greenhouse": [
+   "abnormalsecurity",
+   "ada18",
+   "airtable",
+   "akulaku",
+   "amplemarket",
+   "anchorage",
+   "anthropic",
+   "arizeai",
+   "bishopfox",
+   "bitget",
+   "boomilp",
+   "bugcrowd",
+   "bybit",
+   "celonis",
+   "chainalysis",
+   "chainguard",
+   "circle",
+   "clara",
+   "cloudflare",
+   "cobre",
+   "coinbase",
+   "contentful",
+   "coreweave",
+   "databricks",
+   "datadog",
+   "ebanx",
+   "edb",
+   "elastic",
+   "figma",
+   "finaccel",
+   "fireblocks",
+   "getyourguide",
+   "gitlab",
+   "gleanwork",
+   "gojek",
+   "grab",
+   "groupib",
+   "hellofresh",
+   "helsing",
+   "hootsuite",
+   "humeai",
+   "huntress",
+   "intercom",
+   "isomorphiclabs",
+   "jumia",
+   "kraken",
+   "kredivo",
+   "later",
+   "mongodb",
+   "moniepoint",
+   "n26",
+   "okta",
+   "okx",
+   "physicsx",
+   "planetscale",
+   "praetorian",
+   "ripple",
+   "rzr",
+   "safariai",
+   "samsara",
+   "scandit",
+   "sea",
+   "shopee",
+   "speechmatics",
+   "stabilityai",
+   "stripe",
+   "sumsub",
+   "sumup",
+   "tiktok",
+   "tokopedia",
+   "traderepublicbank",
+   "traveloka",
+   "twilio",
+   "vercel",
+   "wizinc",
+   "xendit"
+  ],
+  "lever": [
+   "BTSE",
+   "ampd-energy",
+   "binance",
+   "coalfire",
+   "coda",
+   "contentsquare",
+   "crypto",
+   "deuna",
+   "dlocal",
+   "kyberswap",
+   "mekari",
+   "nium",
+   "palantir",
+   "pigment",
+   "qiscus",
+   "sophos",
+   "spotify",
+   "thunes",
+   "tinybird",
+   "wati",
+   "yuno"
+  ],
+  "ashby": [
+   "1password",
+   "AlephAlpha",
+   "DeepL",
+   "addi",
+   "airbyte",
+   "airwallex",
+   "andela",
+   "anthropic",
+   "attio",
+   "bjakcareer",
+   "black-forest-labs",
+   "bland",
+   "causaly",
+   "claylabs",
+   "clerk",
+   "clickhouse",
+   "cohere",
+   "corti",
+   "cradlebio",
+   "decagon",
+   "deel",
+   "deepgram",
+   "elevenlabs",
+   "faculty",
+   "forto",
+   "glacis-ai",
+   "hackerone",
+   "inngest",
+   "klue",
+   "kong",
+   "lakera.ai",
+   "langchain",
+   "legora",
+   "linear",
+   "lovable",
+   "mistral.ai",
+   "mollie",
+   "n8n",
+   "neon",
+   "notion",
+   "nubank",
+   "openai",
+   "perk",
+   "perplexity",
+   "photoroom",
+   "pinecone",
+   "pleo",
+   "pragmatike",
+   "qonto",
+   "ramp",
+   "resend",
+   "retool",
+   "runpod",
+   "runway-ml",
+   "semgrep",
+   "sensortower",
+   "sierra",
+   "simetrik",
+   "supabase",
+   "synthesia",
+   "temporal",
+   "todoist-inc",
+   "vapi",
+   "vercel",
+   "vinci",
+   "wayve",
+   "workos",
+   "zapier"
+  ],
+  "smartrecruiters": [
+   "Visa",
+   "accorhotel",
+   "coinscope",
+   "tinvio",
+   "Salesforce",
+   "ServiceNow"
+  ]
+ }
+}

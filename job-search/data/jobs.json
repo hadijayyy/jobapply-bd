@@ -1,0 +1,1685 @@
+{
+ "jobs": {
+  "029a652a": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 280M-560M (aggregator; period unverified)",
+   "company": "CloudMile",
+   "cv": "out/cv/Ryan-Hadi-CV-CloudMile.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "lint lolos",
+     "status": "ready"
+    }
+   ],
+   "id": "029a652a",
+   "kit": "out/kits/cloudmile.md",
+   "location": "Jakarta Pusat / On-site",
+   "notes": "Posted ~10 days ago. 5+ yrs BD in IT/SaaS/Cloud; channel partners/SIs/ISVs co-sell. Closest fit.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "ready",
+   "tier": "A",
+   "title": "Cloud Growth & Partnerships Manager (Indonesia)",
+   "url": "https://www.jobleads.com/id/job/cloud-growth-partnerships-manager-indonesia--jakarta-pusat--e48de14e0ec4c4ccc29201525fb075d16"
+  },
+  "02ecc804": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Okta",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "02ecc804",
+   "kit": null,
+   "location": "Singapore-based",
+   "notes": "Requires 10+ yrs enterprise technology sales.",
+   "posted": null,
+   "score": null,
+   "source": "Scanner -> Greenhouse",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Enterprise Regional Sales Manager - Indonesia",
+   "url": "https://www.okta.com/company/careers/opportunity/8299819?gh_jid=8299819"
+  },
+  "2846b35d": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Uncapped commission (base not listed)",
+   "company": "Valutico",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "2846b35d",
+   "kit": null,
+   "location": "Remote Indonesia/SEA",
+   "notes": "Posted 2026-06-02, ghost 47%. Needs 2+ yrs selling VDR/M&A software.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Workable",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Account Executive - Virtual Data Rooms, APAC",
+   "url": "https://apply.workable.com/valutico-2/j/781AECB51D"
+  },
+  "2970b7c7": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Base + uncapped commission (amount not listed)",
+   "company": "Kaltura",
+   "cv": "out/cv/Ryan-Hadi-CV-Kaltura.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "2970b7c7",
+   "kit": "out/kits/kaltura.md",
+   "location": "Remote Asia; travel across SEA",
+   "notes": "Posted 2026-10-02 (~41 days), ghost 10%, checked open. 2-5 yrs B2B SaaS/enterprise software/tech sales. Bahasa Indonesia is a plus. Gap: no telecom/media/video experience.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Comeet",
+   "status": "ready",
+   "tier": "A",
+   "title": "Account Executive - Media and Telecom (APAC)",
+   "url": "https://www.comeet.com/jobs/kaltura/E2.00D/account-executive---media-and-telecom-apac/57.376"
+  },
+  "2e6ff11f": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Supabase",
+   "cv": "out/cv/Ryan-Hadi-CV-Supabase.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "2e6ff11f",
+   "kit": "out/kits/supabase.md",
+   "location": "Remote worldwide",
+   "notes": "Posted ~2026-11-10. 5+ yrs technical sales; needs dev tools/database/cloud/open source experience (gap). Ghost 25%.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Ashby",
+   "status": "ready",
+   "tier": "A",
+   "title": "Account Executive - ASEAN",
+   "url": "https://jobs.ashbyhq.com/supabase/9a48e441-16c8-488d-a056-0e132f09d65d"
+  },
+  "346ad6e1": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 300M-700M/yr (aggregator)",
+   "company": "Kong",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "346ad6e1",
+   "kit": null,
+   "location": "Indonesia",
+   "notes": "Requires 10+ yrs enterprise software sales.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Enterprise Account Executive, AI & API Platform",
+   "url": "https://www.jobleads.com/id/job/enterprise-account-executive-ai-api-platform--indonesia--ec064dc2ddb81592a5e2c933e04fa907b"
+  },
+  "38d0e892": {
+   "applied": null,
+   "blockers": [],
+   "comp": "SGD 90K-180K/yr (aggregator)",
+   "company": "90 Seconds",
+   "cv": "out/cv/Ryan-Hadi-CV-90-Seconds.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "38d0e892",
+   "kit": "out/kits/90seconds.md",
+   "location": "Remote (Singapore entity)",
+   "notes": "Posted 2026-09-30 (43 days). Video production/ad knowledge needed.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "kit_draft",
+   "tier": "B",
+   "title": "Enterprise Growth Manager APAC (Remote)",
+   "url": "https://www.jobleads.com/sg/job/enterprise-growth-manager-apac-remote--singapore--ef1d71bd7293f9c7c60c1c4cc868ecc6f"
+  },
+  "3b90efdc": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Pragmatike",
+   "cv": "out/cv/Ryan-Hadi-CV-Pragmatike.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "3b90efdc",
+   "kit": "out/kits/pragmatike.md",
+   "location": "Remote (SG/ID/PH/AU/TH...), SGT hours",
+   "notes": "Posted ~2026-11-12. No years stated; B2B/SaaS discovery and negotiation. Employer type unclear, no salary listed.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Ashby",
+   "status": "ready",
+   "tier": "A",
+   "title": "Outbound Account Executive",
+   "url": "https://jobs.ashbyhq.com/pragmatike/42adcdc4-0ae6-439d-b08f-d58ba48d18ea"
+  },
+  "4126e155": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "RZR",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "4126e155",
+   "kit": null,
+   "location": "Remote Jakarta",
+   "notes": "Mandatory adtech/programmatic sales experience.",
+   "posted": null,
+   "score": null,
+   "source": "Firecrawl agent",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Senior Account Executive (Indonesia)",
+   "url": "https://boards.greenhouse.io/rzr/jobs/4468021009"
+  },
+  "44843d89": {
+   "applied": null,
+   "blockers": [],
+   "company": "(unknown)",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-13",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "hybrid Singapore, bukan remote Indonesia",
+     "status": "rejected"
+    }
+   ],
+   "id": "44843d89",
+   "kit": null,
+   "location": "",
+   "notes": "",
+   "posted": null,
+   "score": null,
+   "source": "legacy seen.json",
+   "status": "rejected",
+   "tier": null,
+   "title": "(legacy rejected)",
+   "url": "https://jobs.ashbyhq.com/chainalysis-careers/f599f983-6def-43cc-be31-777d968260ff"
+  },
+  "4728a247": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Ampd Energy",
+   "cv": "out/cv/Ryan-Hadi-CV-Ampd-Energy.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "4728a247",
+   "kit": "out/kits/ampd.md",
+   "location": "Jakarta / Remote",
+   "notes": "Needs mining/power-industry sales experience (gap). Distributor training matches channel background.",
+   "posted": null,
+   "score": null,
+   "source": "Lever",
+   "status": "ready",
+   "tier": "B",
+   "title": "Business Development Manager (Indonesia)",
+   "url": "https://jobs.lever.co/ampd-energy/fe8158ed-b98d-4281-b6cc-0b1fa443b92a"
+  },
+  "47faedde": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Commission-led",
+   "company": "NevkaSystems",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "47faedde",
+   "kit": null,
+   "location": "Remote worldwide",
+   "notes": "Pay built around commission, base optional; needs fintech/payments buyer experience; apply via generic hr@ email.",
+   "posted": null,
+   "score": null,
+   "source": "Wellfound",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Business Development Manager",
+   "url": "https://wellfound.com/jobs/5034866-business-development-manager"
+  },
+  "4836725d": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "CyberScope (TAC Security)",
+   "cv": "out/cv/Ryan-Hadi-CV-CyberScope-TAC-Security.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "4836725d",
+   "kit": "out/kits/cyberscope.md",
+   "location": "Remote Asia",
+   "notes": "Posted 2026-10-30. Needs cybersecurity and blockchain BDR/SDR experience (gap).",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> SmartRecruiters",
+   "status": "ready",
+   "tier": "B",
+   "title": "Business Development Manager, APAC",
+   "url": "https://jobs.smartrecruiters.com/coinscope/743999982129713-business-development-manager-apac-"
+  },
+  "4a124e92": {
+   "applied": null,
+   "blockers": [],
+   "company": "Faspay",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-13",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "legacy: pernah dilaporkan, tidak ada aksi tercatat",
+     "status": "skipped"
+    }
+   ],
+   "id": "4a124e92",
+   "kit": null,
+   "location": "",
+   "notes": "",
+   "posted": null,
+   "score": null,
+   "source": "legacy seen.json",
+   "status": "skipped",
+   "tier": null,
+   "title": "Senior Merchant Acquisition",
+   "url": "https://bebee.com/id/jobs/senior-merchant-acquisition-faspay-gambir-jakarta--t7xk-928525519"
+  },
+  "5154e9f0": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Hamilton",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "5154e9f0",
+   "kit": null,
+   "location": "Remote (home office Singapore)",
+   "notes": "10+ yrs medtech capital goods required.",
+   "posted": null,
+   "score": null,
+   "source": "Jobgether",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Business Development Manager Asia Pacific",
+   "url": "https://jobgether.com/offer/6ae0fc1422c2644c03fc7610-business-development-manager-asia-pacific-80---100-f-m-d"
+  },
+  "672be126": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 350M-600M/yr (aggregator)",
+   "company": "KGlobal Hub Pte Ltd",
+   "cv": "out/cv/Ryan-Hadi-CV-KGlobal-Hub.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "672be126",
+   "kit": "out/kits/kglobalhub.md",
+   "location": "Jakarta Pusat, on-site",
+   "notes": "Posted 2026-11-11. Recruit/onboard distributors, resellers, SI, ISV; QBR and joint business plans. Mirrors CV. Company not yet verified. Jakarta on-site (outside chosen markets).",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "kit_draft",
+   "tier": "A",
+   "title": "Channel Sales Manager (Partner Manager)",
+   "url": "https://www.jobleads.com/id/job/channel-sales-manager--jakarta-pusat--ef366f5ff4806903ce89f40d0cc8c9a2f"
+  },
+  "717e37c5": {
+   "applied": null,
+   "blockers": [],
+   "company": "Bjak",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-13",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "legacy: pernah dilaporkan, tidak ada aksi tercatat",
+     "status": "skipped"
+    }
+   ],
+   "id": "717e37c5",
+   "kit": null,
+   "location": "",
+   "notes": "",
+   "posted": null,
+   "score": null,
+   "source": "legacy seen.json",
+   "status": "skipped",
+   "tier": null,
+   "title": "Head of Business Development",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/818f615d-7416-4912-9988-041048343130"
+  },
+  "72d7927a": {
+   "applied": null,
+   "blockers": [],
+   "company": "BTSE",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-13",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "legacy: pernah dilaporkan, tidak ada aksi tercatat",
+     "status": "skipped"
+    }
+   ],
+   "id": "72d7927a",
+   "kit": null,
+   "location": "",
+   "notes": "",
+   "posted": null,
+   "score": null,
+   "source": "legacy seen.json",
+   "status": "skipped",
+   "tier": null,
+   "title": "Listing Business Development Manager",
+   "url": "https://jobs.lever.co/BTSE/8cc49283-4de0-40db-a45e-c5d09551a103"
+  },
+  "7c131732": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Wiley",
+   "cv": "out/cv/Ryan-Hadi-CV-Wiley.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "7c131732",
+   "kit": "out/kits/wiley.md",
+   "location": "Remote Indonesia",
+   "notes": "Posted 2026-08-27, ghost 37%, open per aggregator. No years stated; B2B/enterprise BD, ideally education/EdTech/SaaS/solution selling. Gap: education sector.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Workday",
+   "status": "kit_draft",
+   "tier": "A",
+   "title": "Enterprise Business Development Manager (Indonesia)",
+   "url": "https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/remote-idn/enterprise-business-development-manager--indonesia_r2601160"
+  },
+  "809e7d7b": {
+   "applied": null,
+   "blockers": [],
+   "comp": "SGD 115K-192K (aggregator)",
+   "company": "FyndTech",
+   "cv": "out/cv/Ryan-Hadi-CV-FyndTech.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "809e7d7b",
+   "kit": "out/kits/fyndtech.md",
+   "location": "Remote (Singapore entity)",
+   "notes": "Posted 2026-08-17 (87 days). 4+ yrs IT services/SaaS account mgmt.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "kit_draft",
+   "tier": "B",
+   "title": "APAC Business Manager (Remote)",
+   "url": "https://www.jobleads.com/sg/job/apac-business-manager-remote-regional-ownership--singapore--e88c8611b9b9c0f2761ed72d82f19f2c8"
+  },
+  "840db94b": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 200M-350M/yr (aggregator)",
+   "company": "Ingram Micro",
+   "cv": "out/cv/Ryan-Hadi-CV-Ingram-Micro.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "840db94b",
+   "kit": "out/kits/ingram.md",
+   "location": "Jakarta Pusat, on-site",
+   "notes": "Posted 2026-11-11. 5+ yrs functional, 3+ yrs specific. IT distributor, channel ecosystem. Generic JD. Jakarta on-site.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "kit_draft",
+   "tier": "A",
+   "title": "Business Development Manager (Jakarta)",
+   "url": "https://www.jobleads.com/id/job/business-development-manager--jakarta-pusat--e8c8e74da0aa350c6a632ff5f273fcead"
+  },
+  "84a2621a": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Group-IB",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "verified"
+    }
+   ],
+   "id": "84a2621a",
+   "kit": null,
+   "location": "Remote Indonesia",
+   "notes": "First seen 2026-11-04; ghost score 10%. 5+ yrs quota-carrying in software, preferably security. Gap: infrastructure not software.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Greenhouse",
+   "status": "verified",
+   "tier": "A",
+   "title": "Business Development Manager (Indonesia)",
+   "url": "https://boards.greenhouse.io/groupib/jobs/5024592101"
+  },
+  "84e4f8bb": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 350M-900M",
+   "company": "Talent Insider",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "84e4f8bb",
+   "kit": null,
+   "location": "Jakarta Pusat",
+   "notes": "Requires 15+ yrs; posted 2025-09 (stale).",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Head of Channel Sales - IT Infrastructure",
+   "url": "https://www.jobleads.com/id/job/head-of-channel-sales-it-infrastructure-growth--jakarta-pusat--e3dcae1c54f3200f769f05e0560971159"
+  },
+  "84f6204d": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "3M",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "84f6204d",
+   "kit": null,
+   "location": "Listed remote Indonesia; Kalimantan territory",
+   "notes": "Field role for mining/oil and gas PPE; Chinese preferable; Jakarta Selatan listing.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Workday",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Sales Specialist (Personal Safety)",
+   "url": "https://3m.wd1.myworkdayjobs.com/search/job/id-dki-jakarta-selatan/sales-specialist_r01173522"
+  },
+  "89deaff7": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Okta",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "89deaff7",
+   "kit": null,
+   "location": "Singapore/Hong Kong",
+   "notes": "Requires 10+ yrs SaaS/cyber channel; Mandarin or Cantonese listed.",
+   "posted": null,
+   "score": null,
+   "source": "Scanner -> Greenhouse",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Alliance Partnership Manager",
+   "url": "https://www.okta.com/company/careers/opportunity/8348116?gh_jid=8348116"
+  },
+  "89ec2a77": {
+   "applied": null,
+   "blockers": [],
+   "comp": "SGD 162K-213K + commission",
+   "company": "Temporal",
+   "cv": "out/cv/Ryan-Hadi-CV-Temporal.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "89ec2a77",
+   "kit": "out/kits/temporal.md",
+   "location": "Singapore (Remote), must be Singapore-based",
+   "notes": "Requires 7+ yrs partnerships in ASEAN and Singapore base.",
+   "posted": null,
+   "score": null,
+   "source": "Scanner -> Ashby",
+   "status": "kit_draft",
+   "tier": "B",
+   "title": "ASEAN Partnerships Manager",
+   "url": "https://jobs.ashbyhq.com/temporal/b23916a6-2696-4283-8504-2094c0708401"
+  },
+  "8b7061b9": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Base up to USD 4,000/month; OTE USD 140K",
+   "company": "AmpiFire",
+   "cv": "out/cv/Ryan-Hadi-CV-AmpiFire.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "8b7061b9",
+   "kit": "out/kits/ampifire.md",
+   "location": "Fully remote, EST/PST hours",
+   "notes": "Posted ~2026-11-09. 2+ yrs B2B SaaS. US working hours; niche is content marketing, not IT.",
+   "posted": null,
+   "score": null,
+   "source": "Firecrawl agent",
+   "status": "ready",
+   "tier": "B",
+   "title": "Account Executive (Content Marketing SaaS)",
+   "url": "https://ampifire-1738143252.teamtailor.com/jobs/8693475-account-executive-140k-usd-ote-content-marketing-saas-agency"
+  },
+  "9296e13f": {
+   "applied": null,
+   "blockers": [],
+   "comp": "USD 122K-150K est.",
+   "company": "CertiK",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "9296e13f",
+   "kit": null,
+   "location": "Remote, Europe/UAE/North America only",
+   "notes": "Candidates must be based in Europe, UAE or North America.",
+   "posted": null,
+   "score": null,
+   "source": "web3.career",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Web3 Business Development",
+   "url": "https://web3.career/web3-business-development-certik/155979"
+  },
+  "948f126d": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Datadog",
+   "cv": "out/cv/Ryan-Hadi-CV-Datadog.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "948f126d",
+   "kit": "out/kits/datadog.md",
+   "location": "Remote Indonesia",
+   "notes": "Posted 2026-11-03. 5+ yrs closing (MM + enterprise field selling), SaaS/IT infra preferred, enterprise new logos in Indonesia. Fits enterprise IT closing record. Gap: no SaaS vendor experience.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Greenhouse",
+   "status": "ready",
+   "tier": "A",
+   "title": "Strategic Account Executive (Indonesia)",
+   "url": "https://boards.greenhouse.io/datadog/jobs/7131726"
+  },
+  "9a02694d": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Pearson",
+   "cv": "out/cv/Ryan-Hadi-CV-Pearson.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "9a02694d",
+   "kit": "out/kits/pearson.md",
+   "location": "Hybrid (listed MYS)",
+   "notes": "Requires 7+ yrs enterprise B2B; HR/learning tech; Ryan has 5+.",
+   "posted": null,
+   "score": null,
+   "source": "pearson.jobs",
+   "status": "ready",
+   "tier": "A",
+   "title": "Senior Business Development Manager (Indonesia)",
+   "url": "https://pearson.jobs/virtual-mys/senior-business-development-manager/877058A6C3C54EC19E3C8A19153D6D62/job/"
+  },
+  "a38e3531": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Bjak",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "a38e3531",
+   "kit": null,
+   "location": "Remote (Indonesia/APAC)",
+   "notes": "Downgraded 2026-11-12: current Ashby posting requires WPE/WAPERD qualification (Jobgether copy omitted it). All 6+ Bjak partnership/BD roles share this requirement.",
+   "posted": null,
+   "score": null,
+   "source": "Jobgether -> Ashby",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Partnerships Lead (Indonesia)",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/69cd1ef2-0772-449a-acd9-9b5cdeb71438/application"
+  },
+  "a822bd56": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 2.7B-4.2B/yr (aggregator)",
+   "company": "Zycus (via Talismatic)",
+   "cv": "out/cv/Ryan-Hadi-CV-Zycus.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "a822bd56",
+   "kit": "out/kits/zycus.md",
+   "location": "Remote Indonesia",
+   "notes": "Requires 7-12 yrs and 250K USD ARR deals.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "ready",
+   "tier": "B",
+   "title": "Enterprise SaaS AE, APAC",
+   "url": "https://www.jobleads.com/id/job/enterprise-saas-account-executive-apac-growth-hunter--indonesia--e34be815270061833ab18de37c61fdca1"
+  },
+  "b0747434": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Alibaba Cloud",
+   "cv": "out/cv/Ryan-Hadi-CV-Alibaba-Cloud.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    }
+   ],
+   "id": "b0747434",
+   "kit": "out/kits/alibabacloud.md",
+   "location": "Jakarta",
+   "notes": "Unverified: LinkedIn page could not be scraped. Stretch on seniority.",
+   "posted": null,
+   "score": null,
+   "source": "LinkedIn (not opened)",
+   "status": "kit_draft",
+   "tier": "B",
+   "title": "Channel Business Development Manager (Jakarta)",
+   "url": "https://www.linkedin.com/jobs/view/alibaba-cloud-intelligence-channel-business-development-manager-jakarta-indonesia-at-alibaba-cloud-4285125013"
+  },
+  "bca584c2": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "GitLab",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "bca584c2",
+   "kit": null,
+   "location": "Remote, Singapore-based",
+   "notes": "Singapore-based; strategic AE level; needs work pass. Revisit only if user has SG authorization.",
+   "posted": null,
+   "score": null,
+   "source": "Scanner -> Greenhouse",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Strategic Account Executive - Singapore",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887399002"
+  },
+  "c53bf72c": {
+   "applied": null,
+   "blockers": [],
+   "company": "(unknown)",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-13",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "closed 2026-11-12",
+     "status": "rejected"
+    }
+   ],
+   "id": "c53bf72c",
+   "kit": null,
+   "location": "",
+   "notes": "",
+   "posted": null,
+   "score": null,
+   "source": "legacy seen.json",
+   "status": "rejected",
+   "tier": null,
+   "title": "(legacy rejected)",
+   "url": "https://job-boards.greenhouse.io/okx/jobs/5986780003"
+  },
+  "c8338c7c": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 1.2B-1.6B/yr (aggregator)",
+   "company": "Sensor Tower",
+   "cv": "out/cv/Ryan-Hadi-CV-Sensor-Tower.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "c8338c7c",
+   "kit": "out/kits/sensortower.md",
+   "location": "Indonesia (JobLeads says on-site)",
+   "notes": "Posted 2026-11-10. Needs proven SaaS closing in SEA + mobile/ad ecosystem knowledge (gap).",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "ready",
+   "tier": "A",
+   "title": "SaaS Account Executive, SEA Growth",
+   "url": "https://www.jobleads.com/id/job/saas-account-executive-for-sea-growth-new-business--indonesia--e485ab1ee46aadcc5ecd6e8ae79edb397"
+  },
+  "d9155606": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 180M-300M/yr (aggregator)",
+   "company": "PT Exabytes Network Indonesia",
+   "cv": "out/cv/Ryan-Hadi-CV-PT-Exabytes-Network-Indonesia.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "d9155606",
+   "kit": "out/kits/exabytes.md",
+   "location": "Jakarta Selatan, on-site",
+   "notes": "Posted 2026-11-10. 2-5 yrs, IT/cloud solutions, AWS preferred. Slightly below current level.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "ready",
+   "tier": "A",
+   "title": "Enterprise SaaS Solutions Account Manager",
+   "url": "https://www.jobleads.com/id/job/enterprise-saas-solutions-account-manager--jakarta-selatan--e32cb8a80c6b740f2fc214e9993f6c571"
+  },
+  "e3094a4a": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "WATI",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "e3094a4a",
+   "kit": null,
+   "location": "Hybrid Hong Kong",
+   "notes": "Mandarin required; HK hybrid.",
+   "posted": null,
+   "score": null,
+   "source": "Workable",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Partner Manager",
+   "url": "https://jobs.workable.com/view/iLMxnpiZX5Wk5W15nnLNbT/hybrid-partner-manager-in-hong-kong-at-wati.io"
+  },
+  "e9aa13cc": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Airwallex",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "e9aa13cc",
+   "kit": null,
+   "location": "Singapore On-site",
+   "notes": "Thailand scope; native Thai required; SG on-site needs work pass.",
+   "posted": null,
+   "score": null,
+   "source": "Ashby",
+   "status": "skipped",
+   "tier": "C",
+   "title": "GTM Partnerships Manager SME & Growth",
+   "url": "https://jobs.ashbyhq.com/airwallex/dacd648d-b33c-4a59-9573-271bbd5c3420"
+  },
+  "ed9f921a": {
+   "applied": null,
+   "blockers": [],
+   "comp": "IDR 1.6B-2.7B/yr (aggregator)",
+   "company": "Deel",
+   "cv": "out/cv/Ryan-Hadi-CV-Deel.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "lint lolos",
+     "status": "ready"
+    }
+   ],
+   "id": "ed9f921a",
+   "kit": "out/kits/deel.md",
+   "location": "Indonesia (JobLeads says on-site; verify remote)",
+   "notes": "Posted 2026-10-28. Needs 5+ yrs sales incl 3+ yrs MM/ENT and greenfield territory; ASEAN-based. Gap: no SaaS vendor experience.",
+   "posted": null,
+   "score": null,
+   "source": "JobLeads",
+   "status": "ready",
+   "tier": "A",
+   "title": "Enterprise Account Executive, ASEAN Markets",
+   "url": "https://www.jobleads.com/id/job/enterprise-account-executive-asean-markets--indonesia--e568785dd8f78388a90d32fd545eeece3"
+  },
+  "f3b78863": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "EDB",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "f3b78863",
+   "kit": null,
+   "location": "Remote Indonesia",
+   "notes": "Requires 10+ yrs Indonesia IT sales and 5+ yrs selling databases.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Greenhouse",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Senior Account Executive (Indonesia)",
+   "url": "https://boards.greenhouse.io/edb/jobs/7969956003"
+  },
+  "f98d6976": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Branch",
+   "cv": "out/cv/Ryan-Hadi-CV-Branch.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "f98d6976",
+   "kit": "out/kits/branch.md",
+   "location": "Remote Malaysia/Indonesia",
+   "notes": "Posted 2026-10-30. 3+ yrs outbound SDR/BDR. Step down from BD Manager.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Rippling",
+   "status": "ready",
+   "tier": "B",
+   "title": "Senior Business Development Representative - APAC",
+   "url": "https://ats.rippling.com/branch/jobs/e53a670f-0cef-4225-9d9a-e57277d601a1"
+  },
+  "fad3195f": {
+   "applied": null,
+   "blockers": [],
+   "comp": "USD 300K-400K OTE",
+   "company": "Vinci",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "fad3195f",
+   "kit": null,
+   "location": "Remote Asia, regular travel",
+   "notes": "Needs 7+ yrs enterprise software sales into semiconductor/electronics.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> Ashby",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Account Executive - APAC",
+   "url": "https://jobs.ashbyhq.com/vinci/aa531f6b-81ee-4e28-9e76-026a3c5050c4"
+  },
+  "fbada211": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "Accor",
+   "cv": null,
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "skipped"
+    }
+   ],
+   "id": "fbada211",
+   "kit": null,
+   "location": "Listed remote Indonesia",
+   "notes": "Hospitality hotel sales, not tech. Mandarin an advantage.",
+   "posted": null,
+   "score": null,
+   "source": "Remote Rocketship -> SmartRecruiters",
+   "status": "skipped",
+   "tier": "C",
+   "title": "Sales Manager",
+   "url": "https://jobs.smartrecruiters.com/accorhotel/744000150303139-sales-manager"
+  },
+  "fc5e0f99": {
+   "applied": null,
+   "blockers": [],
+   "comp": "Not listed",
+   "company": "OKX",
+   "cv": "out/cv/Ryan-Hadi-CV-OKX.pdf",
+   "desc": "",
+   "discovered": "2026-11-12",
+   "flags": [
+    "legacy: skor tidak dihitung, tier dari penilaian manual 12 Nov"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-13",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "import dari tracker lama",
+     "status": "kit_draft"
+    },
+    {
+     "date": "2026-11-13",
+     "note": "kit lama lolos lint baru",
+     "status": "ready"
+    }
+   ],
+   "id": "fc5e0f99",
+   "kit": "out/kits/okx.md",
+   "location": "Remote (Indonesia/PH/TH)",
+   "notes": "Requires 3+ yrs crypto affiliate experience (gap). First seen Oct 14; still open per aggregator.",
+   "posted": null,
+   "score": null,
+   "source": "Greenhouse",
+   "status": "ready",
+   "tier": "B",
+   "title": "Affiliate Business Development Manager",
+   "url": "https://boards.greenhouse.io/okx/jobs/8032195003"
+  }
+ },
+ "updated": "2026-11-13"
+}
