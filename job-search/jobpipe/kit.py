@@ -21,8 +21,14 @@ AGGREGATORS = re.compile(r"jobleads|linkedin\.com|indeed|bebee|jobgether|remoter
 
 def apply_route(job):
     """(route, note). Forms with captcha are manual. A public recruiting email becomes a Gmail draft."""
-    emails = [e for e in re.findall(CONFIG["email_regex"], job.get("desc", ""))
-              if not re.search(r"noreply|no-reply|example\.", e, re.I)]
+    desc = job.get("desc", "")
+    emails = []
+    for m in re.finditer(CONFIG["email_regex"], desc):
+        ctx = desc[max(0, m.start() - 250): m.end() + 100]
+        # EEO / accommodation / privacy contacts are not application channels
+        if re.search(r"noreply|no-reply|example\.", m[0], re.I) or re.search(r"accommodat|disabilit|privacy|equal opportunit|reasonable adjust", ctx, re.I):
+            continue
+        emails.append(m[0])
     if emails:
         return "email", f"Email rekrutmen publik di JD: {emails[0]}. Buat draft Gmail, jangan kirim otomatis."
     for key, name in ATS_HINTS:
@@ -79,6 +85,7 @@ Ganti tiga placeholder di bawah: HOOK (1 kalimat spesifik dari JD), GAP (jujur s
 ## Ringkasan JD (referensi, hapus bagian ini kalau perlu)
 {desc}
 """
+    kit_path.parent.mkdir(parents=True, exist_ok=True)
     kit_path.write_text(md)
     job["cv"], job["kit"] = cv_path, str(kit_path.relative_to(ROOT))
     return job["kit"], cv_path

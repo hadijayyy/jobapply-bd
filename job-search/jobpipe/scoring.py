@@ -15,14 +15,19 @@ INDUSTRY = RX("industry_fit")
 HARD = [(b["id"], b["label"], re.compile(b["pattern"], re.I)) for b in C["hard_blockers"]]
 RED = [(b["id"], b["label"], re.compile(b["pattern"], re.I)) for b in C["red_flags"]]
 SOFT = [(b["id"], b["label"], re.compile(b["pattern"], re.I)) for b in C["soft_flags"]]
+SPONSOR, ABROAD, TITLE_GEO = RX("sponsorship_ok"), RX("abroad_onsite_loc"), RX("title_geo")
+WAIVABLE = {b["id"] for b in C["hard_blockers"] if b.get("waived_by_sponsorship")}
 
 
 def passes_prefilter(j, max_age_days):
-    """Cheap gate before a job is stored. Title, location, age."""
+    """Cheap gate before a job is stored. Title, location, age. Hand-pasted Hiring Cafe links always pass."""
+    if j["source"] == "HiringCafe":
+        return True
     if not TITLE_OK.search(j["title"]) or TITLE_NO.search(j["title"]):
         return False
-    loc = j["location"]
-    if not loc or not LOC_OK.search(loc):
+    loc = j["location"] or ""
+    # Cloudflare etc. put the country in the title and "Hybrid" in location; "Global" in a title is not a place
+    if not LOC_OK.search(loc) and not TITLE_GEO.search(j["title"]):
         return False
     if LOC_BAD.search(loc) and not LOC_GOOD.search(loc):
         return False
@@ -54,7 +59,7 @@ def family(j):
 
 
 def score(j):
-    t, loc, text = j["title"].lower(), j["location"], j["title"] + "\n" + j.get("desc", "")
+    t, loc, text = j["title"].lower(), j["location"] + " | " + j["title"], j["title"] + "\n" + j.get("desc", "")
     parts = {}
     parts["title"] = (30 if re.search(r"partner|channel|alliance", t) else
                       26 if re.search(r"business development|enterprise|strategic", t) else
@@ -76,14 +81,29 @@ def evaluate(j):
     """Fills score, tier, blockers, flags on the job dict. Returns True if a red flag means auto-reject."""
     text = j["title"] + "\n" + j["location"] + "\n" + j.get("desc", "")
     sc, parts, yrs = score(j)
-    blockers = [label for _, label, rx in HARD if rx.search(text)]
+    sponsor = bool(SPONSOR.search(text))
+    blockers = [label for bid, label, rx in HARD if rx.search(text) and not (sponsor and bid in WAIVABLE)]
     if yrs and yrs >= 7 and not any("7+" in b for b in blockers):
         blockers.append(f"Syarat {yrs}+ tahun")
-    wp = j.get("workplace", "").lower()
-    if wp in ("onsite", "on-site", "hybrid") and not re.search(r"indonesia|jakarta", j["location"], re.I):
-        blockers.append("Onsite/hybrid di luar Jakarta")
-    red = [label for _, label, rx in RED if rx.search(text)]
+    loc = j["location"] + " | " + j["title"]
+    home = re.search(r"indonesia|jakarta", j["location"], re.I) or (
+        re.search(r"indonesia|jakarta", j["title"], re.I) and not ABROAD.search(j["location"]))
+    remote = re.search(r"remote|anywhere|worldwide|global", loc, re.I) or j.get("workplace", "").lower() == "remote"
     flags = [label for _, label, rx in SOFT if rx.search(text)]
+    wp = j.get("workplace", "").lower()
+    if wp in ("onsite", "on-site", "hybrid") and not home and not ABROAD.search(loc):
+        blockers.append("Onsite/hybrid di luar Jakarta/SG/MY")
+    elif not home and not remote and ABROAD.search(loc):
+        # SG/MY/AU onsite is allowed only with visa sponsorship (Ryan's rule, 14 Nov 2026)
+        if sponsor:
+            flags.append("Onsite SG/MY/AU: sponsor visa disebut di JD")
+        else:
+            flags.append("Onsite SG/MY/AU: sponsor visa TIDAK disebut, tanya recruiter")
+    j["sponsorship_mentioned"] = sponsor
+    red = [label for _, label, rx in RED if rx.search(text)]
+    age = (date.today() - date.fromisoformat(j["posted"])).days if j.get("posted") else None
+    if age and age > 30:
+        flags.append(f"Posting {age} hari (risiko ghost job, cek masih buka)")
     if not j.get("desc"):
         flags.append("Deskripsi belum terbaca: cek halaman asli")
     j["score"], j["score_parts"], j["years_required"] = sc, parts, yrs

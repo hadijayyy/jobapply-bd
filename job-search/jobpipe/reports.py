@@ -20,15 +20,19 @@ def followups_due(store):
 
 
 def queue_md(store):
-    ready = sorted(store.by_status("ready"), key=lambda j: (j["tier"] or "Z", -(j["score"] or 0)))
-    L = ["# Apply queue", "", f"Diperbarui {today()}. Urutan submit = urutan tabel. Semua form ber-captcha harus disubmit manual.", "",
-         "| # | Tier | Skor | Company | Role | Apply link | CV | Kit | Rute |", "|---|---|---|---|---|---|---|---|---|"]
+    ats = lambda j: (j.get("ats") or {}).get("after") or 0
+    ready = sorted(store.by_status("ready"), key=lambda j: (-ats(j), -(j["score"] or 0)))
+    L = ["# Apply queue", "", f"Diperbarui {today()}. Urutan submit = urutan tabel (skor ATS tertinggi dulu). Semua form disubmit manual oleh Ryan.", "",
+         "Fit = kecocokan lowongan (scoring.py). ATS = skor CV tailored vs JD (ats.py); angka dalam kurung = jika item pending dikonfirmasi.", "",
+         "| # | ATS | Fit | Company | Role | Lokasi | Apply link | CV | Kit | Rute | Flag |", "|---|---|---|---|---|---|---|---|---|---|---|"]
     for i, j in enumerate(ready, 1):
         route, note = apply_route(j)
-        L.append(f"| {i} | {j['tier']} | {j['score'] if j['score'] is not None else '-'} | {j['company']} | {j['title']} | "
-                 f"{j['url']} | {j['cv']} | {j['kit']} | {route}: {note} |")
+        a = j.get("ats") or {}
+        flags = "; ".join(j["blockers"] + j["flags"]) or "-"
+        L.append(f"| {i} | {a.get('after', '-')} ({a.get('if_pending_confirmed', '-')}) | {j['score'] if j['score'] is not None else '-'} | "
+                 f"{j['company']} | {j['title']} | {j.get('location', '')} | {j['url']} | {j['cv']} | {j['kit']} | {route}: {note} | {flags} |")
     if not ready:
-        L.append("| - | - | - | (kosong) | | | | | |")
+        L.append("| - | - | - | (kosong) | | | | | | | |")
     drafts = store.by_status("kit_draft")
     if drafts:
         L += ["", "## Kit belum selesai (isi placeholder lalu `pipeline.py lint`)", ""]
@@ -90,3 +94,34 @@ def prep_md(job):
 ## Gaji/notice: lihat Form answers di {job['kit'] or 'kit'}
 """)
     return path
+
+
+def ats_md(job, r):
+    """out/ats/<company>-<id>.md: score breakdown + the three keyword buckets + change log."""
+    from .store import slug
+    from .ats import TERM
+    b = r["buckets"]
+    phrase = lambda cs: ", ".join(cs) or "-"
+    md = f"""# ATS: {job['company']} | {job['title']}
+- Link: {job['url']}
+- CV: {r['path']} ({r['pages']} halaman)
+- **Skor ATS: {r['before']} (CV master) -> {r['after']} (CV tailored)** | jika item pending dikonfirmasi: {r['if_pending_confirmed']}
+- Rincian: {', '.join(f'{k} {v}' for k, v in r['parts'].items())}
+- Judul role yang dicari ATS: "{r['core']}"
+
+## Keyword audit
+- **Matched:** {phrase(b['matched'])}
+- **Missing tapi benar (harus 0):** {phrase(b['missing_but_true'])}
+- **Pending (Ryan bilang benar, detail belum ada, TIDAK ditulis):** {phrase(b['pending_confirm'])}
+- **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** {phrase(b['missing_not_true'])}
+
+## Perubahan dari CV master
+{chr(10).join('- ' + x for x in r['log'])}
+
+Metode skor: lihat jobpipe/ats.py (keywords 50, title 15, soft skills 10, experience 10, education 5, format 10).
+Skor dihitung dari teks hasil ekstraksi PDF (pdftotext), sama seperti ATS membaca file.
+"""
+    p = ROOT / "out" / "ats" / f"{slug(job['company'], 24)}-{job['id']}.md"
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(md)
+    return p

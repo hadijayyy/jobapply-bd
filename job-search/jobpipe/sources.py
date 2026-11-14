@@ -3,11 +3,12 @@ import html, json, re, sys, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
+from pathlib import Path
 
 from .store import CONFIG
 
 UA = {"User-Agent": "Mozilla/5.0 (job-scan)"}
-ATS_SOURCES = ("GH:", "Lever:", "Ashby:", "SR:")
+ATS_SOURCES = ("GH:", "Lever:", "Ashby:", "SR:", "HiringCafe->GH:")
 
 
 def get(url, as_text=False, timeout=30):
@@ -100,10 +101,15 @@ def greenhouse(tok):
 
 
 def greenhouse_detail(j):
+    """Works for boards.greenhouse.io URLs and for company career sites that carry ?gh_jid=<id>."""
     m = re.search(r"greenhouse\.io/([^/]+)/jobs/(\d+)", j["url"])
-    if m:
-        d = get(f"https://boards-api.greenhouse.io/v1/boards/{m[1]}/jobs/{m[2]}")
-        j["desc"] = plain(d.get("content", ""))
+    tok, jid = (m[1], m[2]) if m else (j["source"].split(":", 1)[-1], None)
+    if not jid:
+        m = re.search(r"gh_jid=(\d+)|/jobs?/(\d{6,})|/detail/(\d{6,})", j["url"])
+        jid = m and next(g for g in m.groups() if g)
+    if tok and jid:
+        d = get(f"https://boards-api.greenhouse.io/v1/boards/{tok}/jobs/{jid}")
+        j["desc"] = plain(d.get("content", ""), limit=12000)
 
 
 def lever(tok):
@@ -140,9 +146,40 @@ def _safe(fn, label):
         return []
 
 
+HC_IMPORT = Path(__file__).resolve().parent.parent / "data" / "hiringcafe_import.txt"
+
+
+def hiringcafe_import():
+    """Hiring Cafe blocks automated access (Cloudflare). Ryan pastes posting links (one per line) into
+    data/hiringcafe_import.txt. Greenhouse links get the full JD from the official API; other links are
+    kept with an empty JD so the review step opens them by hand."""
+    if not HC_IMPORT.exists():
+        return []
+    out = []
+    for line in HC_IMPORT.read_text().splitlines():
+        url = line.split("#")[0].strip()
+        if not url.startswith("http"):
+            continue
+        m = re.search(r"greenhouse\.io/(?:embed/job_app\?for=)?([^/?&]+)(?:/jobs/|.*token=)(\d+)", url)
+        if m:
+            d = get(f"https://boards-api.greenhouse.io/v1/boards/{m[1]}/jobs/{m[2]}?pay_transparency=true")
+            out.append(job("HiringCafe->GH:" + m[1], d["title"], d.get("company_name") or m[1],
+                           (d.get("location") or {}).get("name"), d["absolute_url"],
+                           d.get("first_published") or d.get("updated_at"), desc=d.get("content", "")))
+        else:
+            out.append(job("HiringCafe", "(isi manual)", "(isi manual)", "", url, None))
+    return out
+
+
+KEYLESS = {"remotive": remotive, "himalayas": himalayas, "remoteok": remoteok, "wwr": wwr, "hiringcafe_import": hiringcafe_import}
+
+
 def fetch_all():
-    tasks = [("Remotive", remotive), ("Himalayas", himalayas), ("RemoteOK", remoteok), ("WWR", wwr)]
+    on = set(CONFIG.get("sources_enabled") or list(KEYLESS) + list(ATS))
+    tasks = [(k, fn) for k, fn in KEYLESS.items() if k in on]
     for kind, toks in CONFIG["boards"].items():
+        if kind not in on:
+            continue
         for t in toks:
             tasks.append((f"{kind}:{t}", lambda k=kind, t=t: ATS[k](t)))
     jobs = []

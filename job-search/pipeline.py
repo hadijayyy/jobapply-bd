@@ -98,6 +98,27 @@ def cmd_discover(a):
         print(f"{j['id']} [{j['status']:8}] tier {j['tier']} skor {j['score']:>3} {j['company']} | {j['title']}")
 
 
+def cmd_rescore(a):
+    """Re-runs scoring.evaluate on stored jobs that the pipeline itself graded (new / rejected-by-score).
+    Use after editing config.json rules. Never touches jobs Ryan or Claude already reviewed."""
+    store, n = Store(), 0
+    for j in store.jobs.values():
+        auto_rej = j["status"] == "rejected" and j["history"][-1]["note"].startswith(("tier C", "red flag"))
+        if j["status"] != "new" and not auto_rej:
+            continue
+        red = scoring.evaluate(j)
+        if red:
+            store.set_status(j, "rejected", "red flag: " + "; ".join(j["red_flags"]))
+        elif j["tier"] == "C":
+            if j["status"] != "rejected":
+                store.set_status(j, "rejected", "tier C: " + ("; ".join(j["blockers"]) or f"skor {j['score']}"))
+        elif j["status"] == "rejected":
+            store.set_status(j, "new", "rescore: lolos aturan baru")
+        n += 1
+    store.save(); export_tracker(store)
+    print(f"rescored {n}")
+
+
 def cmd_list(a):
     store = Store()
     for j in sorted(store.jobs.values(), key=lambda j: (j["tier"] or "Z", -(j["score"] or 0))):
@@ -138,6 +159,28 @@ def cmd_kit(a):
         k, c = kit.build(j)
         store.set_status(j, "kit_draft", "kit dibuat")
         print(f"{j['company']}: {k} + {c}")
+    store.save(); export_tracker(store)
+
+
+MASTER_CV = ROOT / "master" / "Ryan-Hadi-CV-master.pdf"
+
+
+def cmd_tailor(a):
+    """Tailored CV per JD + ATS report (before = master CV, after = tailored PDF text)."""
+    from jobpipe import ats
+    store = Store()
+    master = ats.pdf_text(MASTER_CV) if MASTER_CV.exists() else None
+    jobs = store.by_status("verified", "kit_draft", "ready") if a.ref == "all" else [store.find(a.ref)]
+    rows = []
+    for j in jobs:
+        r = cv.tailor(j, master)
+        j["cv"], j["ats"] = r["path"], {k: r[k] for k in ("before", "after", "if_pending_confirmed", "parts")}
+        reports.ats_md(j, r)
+        rows.append((r["after"], j, r))
+    for sc, j, r in sorted(rows, key=lambda x: -x[0]):
+        flag = "OK " if sc >= a.target else "LOW"
+        print(f"{flag} {j['id']} ATS {r['before']} -> {sc} (jika pending dikonfirmasi: {r['if_pending_confirmed']}) "
+              f"{r['pages']} hlm | {j['company']} | {j['title']}")
     store.save(); export_tracker(store)
 
 
@@ -213,10 +256,12 @@ def main():
     sp = ap.add_subparsers(dest="cmd", required=True)
     p = sp.add_parser("run", help="discover + score + verify + report (routine harian)"); p.add_argument("--days", type=int); p.set_defaults(f=cmd_run)
     p = sp.add_parser("discover"); p.add_argument("--days", type=int); p.set_defaults(f=cmd_discover)
+    p = sp.add_parser("rescore", help="nilai ulang setelah config.json diubah"); p.set_defaults(f=cmd_rescore)
     p = sp.add_parser("list"); p.add_argument("--status", nargs="*"); p.add_argument("--tier"); p.set_defaults(f=cmd_list)
     p = sp.add_parser("show"); p.add_argument("ref"); p.add_argument("--desc", action="store_true"); p.set_defaults(f=cmd_show)
     p = sp.add_parser("review", help="setelah halaman asli dibuka"); p.add_argument("ref"); p.add_argument("verdict", choices=["ok", "reject"]); p.add_argument("note", nargs="?", default=""); p.set_defaults(f=cmd_review)
     p = sp.add_parser("kit", help="buat CV + kit (ref atau 'all')"); p.add_argument("ref"); p.add_argument("--force", action="store_true"); p.set_defaults(f=cmd_kit)
+    p = sp.add_parser("tailor", help="CV per JD + skor ATS (ref atau 'all')"); p.add_argument("ref", nargs="?", default="all"); p.add_argument("--target", type=int, default=90); p.set_defaults(f=cmd_tailor)
     p = sp.add_parser("lint", help="cek kit; lolos -> ready"); p.add_argument("ref", nargs="?", default="all"); p.set_defaults(f=cmd_lint)
     p = sp.add_parser("applied", help="catat sudah disubmit"); p.add_argument("ref"); p.add_argument("--via", default="form", choices=["form", "email", "referral"]); p.add_argument("--date"); p.add_argument("--force", action="store_true"); p.set_defaults(f=cmd_applied)
     p = sp.add_parser("status"); p.add_argument("ref"); p.add_argument("status", choices=STATUSES); p.add_argument("note", nargs="?", default=""); p.set_defaults(f=cmd_status)

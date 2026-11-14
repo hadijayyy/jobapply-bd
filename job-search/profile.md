@@ -11,7 +11,8 @@ Sumber: CV "Ryan Hadi Business Development CV" + jawaban user (12 Nov 2026). Jan
 ## Target
 - Role: Enterprise Sales / AE, BD / Partnerships Manager, Channel / Partner Manager, Head / Senior BD
 - Industri: teknologi, SaaS, APAC (CV: "B2B partnerships and sales roles in technology and SaaS across APAC")
-- Tipe: remote APAC atau remote global (harus menerima kandidat di Indonesia / WIB). Hybrid/onsite Jakarta tidak dipilih user, tapi boleh dilaporkan sebagai "catatan" kalau sangat cocok.
+- Tipe (update 14 Nov 2026): remote APAC/global, onsite/hybrid Jakarta, dan onsite Singapura/Malaysia bila ada sponsor visa (Employment Pass). Australia tidak dipilih.
+- Sumber utama: Greenhouse (API resmi) + Hiring Cafe (paste link ke data/hiringcafe_import.txt; akses otomatis diblokir Cloudflare)
 - Gaji minimal: tidak dipatok. Tulis "tidak disebutkan" kalau tidak tercantum.
 - Dibuang: komisi saja tanpa gaji pokok, MLM / investasi / trading, minta deposit atau bayar.
 
@@ -27,8 +28,17 @@ Sumber: CV "Ryan Hadi Business Development CV" + jawaban user (12 Nov 2026). Jan
   - Program medical check-up 1,500 karyawan di 12 klien korporat; renewal 10 dari 12 (83%); IDR 150M revenue lanjutan
 - Skills: B2B Sales, Channel Partnerships, HubSpot CRM, Power BI, Advanced Excel, AI workflows, business case, market sizing, executive presentation
 
+## Dikonfirmasi Ryan 14 Nov 2026 (detail menyusul)
+- Salesforce CRM: benar (sudah ditulis di Skills). Detail penggunaan: [menunggu]
+- MEDDIC / BANT / SPIN: benar, framework mana dan di role mana: [menunggu]. BELUM ditulis di CV.
+- Cloud: benar (ditulis generik "Cloud & Managed Services Solutions"). Provider AWS/GCP/Azure dan angka: [menunggu]. Nama provider BELUM ditulis.
+- Klien/partner di luar Indonesia: benar, negara + jumlah + angka: [menunggu]. BELUM ditulis.
+- Forecasting, upsell/expansion, travel, reseller/SI/distributor: belum dikonfirmasi. BELUM ditulis.
+
 ## Gap yang diketahui (jangan diklaim)
 - Belum ada pengalaman crypto / Web3 / fintech payments di CV
 - Tidak ada lisensi WPE/WAPERD (broker asuransi / efek)
 - Tidak ada Mandarin
 - Belum pernah kerja di perusahaan SaaS vendor; pengalaman di IT services dan healthcare
+- Belum pernah jual payments, cybersecurity software, adtech, ke public sector/pemerintah
+- Tidak ada Bahasa Malay profesional, Jepang, Korea, Thai, Vietnam

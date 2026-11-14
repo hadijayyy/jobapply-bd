@@ -1,0 +1,3 @@
+# Paste link lowongan dari hiringcafe.com di sini, satu per baris.
+# Link Greenhouse (boards.greenhouse.io/... atau job-boards.greenhouse.io/...) diproses otomatis lewat API resmi.
+# Link lain disimpan untuk direview manual.

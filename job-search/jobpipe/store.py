@@ -20,7 +20,11 @@ def today():
 
 
 def norm_url(u):
-    return re.sub(r"[?#].*$", "", u or "").rstrip("/").lower()
+    """Drops tracking params but keeps gh_jid: career sites like stripe.com/jobs/search?gh_jid=N
+    use one path for every job, so the id lives only in the query string."""
+    gh = re.search(r"gh_jid=(\d+)", u or "")
+    base = re.sub(r"[?#].*$", "", u or "").rstrip("/").lower()
+    return f"{base}?gh_jid={gh[1]}" if gh else base
 
 
 def job_id(url):
