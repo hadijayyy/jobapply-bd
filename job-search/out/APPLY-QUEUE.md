@@ -1,6 +1,6 @@
 # Apply queue
 
-Diperbarui 2026-11-14. Urutan submit = urutan tabel (skor ATS tertinggi dulu). Semua form disubmit manual oleh Ryan.
+Diperbarui 2026-11-16. Urutan submit = urutan tabel (skor ATS tertinggi dulu). Semua form disubmit manual oleh Ryan.
 
 Fit = kecocokan lowongan (scoring.py). ATS = skor CV tailored vs JD (ats.py); angka dalam kurung = jika item pending dikonfirmasi.
 

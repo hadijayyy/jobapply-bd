@@ -5,7 +5,8 @@
 
 Daily:    python3 job-search/pipeline.py run
 Judgment steps (Claude does these, see WORKFLOW.md): review, fill kit placeholders, Gmail drafts.
-This script NEVER submits an application and never sends email.
+`autoapply run` fills and submits Greenhouse applications (Ryan chose auto-submit, 16 Nov 2026). When Greenhouse asks
+for its human-verification code it stops and waits for Ryan. It never sends email.
 """
 import argparse, sys
 from pathlib import Path
@@ -107,6 +108,11 @@ def cmd_rescore(a):
         if j["status"] != "new" and not auto_rej:
             continue
         red = scoring.evaluate(j)
+        if not scoring.passes_prefilter(j, 10 ** 6):
+            if j["status"] != "rejected":
+                store.set_status(j, "rejected", "tier C: judul/lokasi tidak lolos filter config")
+            n += 1
+            continue
         if red:
             store.set_status(j, "rejected", "red flag: " + "; ".join(j["red_flags"]))
         elif j["tier"] == "C":
@@ -193,6 +199,85 @@ def cmd_applysheet(a):
     print(applysheet.build(jobs).relative_to(ROOT))
 
 
+def cmd_autoapply(a):
+    """plan: show answers per job. run: tailor CV, fill and SUBMIT. answer: store an answer for a blocked question."""
+    import time
+    from jobpipe import answers, autoapply
+    store = Store()
+    cfg = CONFIG["autoapply"]
+    if a.action == "code":  # Ryan read the 8-character code from his own inbox; hand it to the waiting browser
+        j = store.find(a.ref)
+        d = autoapply.OUT / j["id"]
+        if not (d / "NEED_CODE").exists():
+            raise SystemExit(f"tidak ada browser yang sedang menunggu kode untuk {j['company']} (jalankan `autoapply run {j['id']} --wait-code 600`)")
+        (d / "code.txt").write_text(a.field.strip())
+        print("kode diteruskan ke form; lihat hasil proses run")
+        return
+    if a.action == "answer":
+        j = store.find(a.ref)
+        p = autoapply.plan(j)
+        b = next((b for b in p["blocked"] if b["field"] == a.field), None)
+        if not b:
+            raise SystemExit(f"field {a.field} tidak sedang menahan {j['company']}; lihat `autoapply plan {j['id']}`")
+        if b["options"] and a.value not in b["options"]:
+            raise SystemExit("jawaban harus salah satu opsi: " + " / ".join(b["options"]))
+        answers.save_answer(b["label"], a.value, None if a.all_jobs else j, a.source)
+        print(f"disimpan: {b['label'][:80]} -> {a.value[:80]}")
+        return
+    jobs = [store.find(a.ref)] if a.ref else autoapply.eligible(store)
+    master = None
+    blocked, results, per_co, sent = [], [], {}, 0
+    for j in jobs:
+        if j["status"] == "applied" or not autoapply.gh_ref(j):
+            continue
+        if a.action == "run" and not a.dry_run and (sent >= (a.limit or cfg["max_per_run"]) or per_co.get(j["company"], 0) >= cfg["max_per_company"]):
+            continue
+        if not j.get("cv") or not (ROOT / j["cv"]).exists():
+            from jobpipe import ats
+            master = master or (ats.pdf_text(MASTER_CV) if MASTER_CV.exists() else None)
+            r = cv.tailor(j, master)
+            j["cv"], j["ats"] = r["path"], {k: r[k] for k in ("before", "after", "if_pending_confirmed", "parts")}
+            reports.ats_md(j, r)
+        try:
+            p = autoapply.plan(j)
+        except Exception as e:  # noqa: BLE001  posting pulled, API error
+            print(f"SKIP    {j['id']} {j['company']} | form tidak terbaca: {e}"); continue
+        p["code_wait_s"] = a.wait_code or cfg.get("code_wait_s", 0)
+        autoapply.write_plan(p)
+        if j["status"] == "new":
+            store.set_status(j, "verified", "auto: form Greenhouse masih aktif")
+        if p["blocked"]:
+            blocked.append((j, p))
+            j["apply_blocked"] = [b["label"][:120] for b in p["blocked"]]
+            print(f"BLOCKED {j['id']} {j['company']} | {j['title']} ({len(p['blocked'])} pertanyaan wajib tanpa jawaban)")
+            continue
+        j.pop("apply_blocked", None)
+        if a.action == "plan":
+            print(f"READY   {j['id']} {j['company']} | {j['title']} ({len(p['fields'])} field)")
+            if a.ref:
+                for f in p["fields"]:
+                    print(f"   {f['label'][:70]:70} -> {str(f['value'])[:70]}")
+            continue
+        if sent and not a.dry_run:
+            time.sleep(cfg["pause_s"])
+        r = autoapply.submit(p, a.dry_run)
+        results.append(r)
+        print(f"{r['status'].upper():9} {j['id']} {j['company']} | {j['title']} {r.get('detail') or ''} {r.get('errors') or ''}")
+        if r["status"] == "submitted":
+            sent += 1; per_co[j["company"]] = per_co.get(j["company"], 0) + 1
+            j["applied"], j["apply_via"] = today(), "auto"
+            store.set_status(j, "applied", "auto-submit: halaman konfirmasi Greenhouse tampil")
+        elif not a.dry_run:
+            j["history"].append({"date": today(), "status": j["status"], "note": f"auto-submit gagal: {r['status']} {r.get('detail') or r.get('errors') or ''}"[:300]})
+            if r["status"] in ("captcha", "needs_code"):
+                print("STOP: Greenhouse meminta verifikasi manusia (kode ke email Ryan / CAPTCHA). Tidak diakali; sisa antrean ditunda.\n"
+                      f"      Lanjutkan dengan: autoapply run {j['id']} --wait-code 600, lalu autoapply code {j['id']} <KODE>"); break
+        store.save()
+    path = autoapply.pending_md(blocked)
+    reports.queue_md(store); export_tracker(store); store.save()
+    print(f"\nterkirim {sent} | ditahan {len(blocked)} (lihat {path.relative_to(ROOT)}) | gagal {sum(1 for r in results if r['status'] not in ('submitted', 'filled'))}")
+
+
 def cmd_lint(a):
     store = Store()
     jobs = store.by_status("kit_draft") if a.ref == "all" else [store.find(a.ref)]
@@ -272,6 +357,11 @@ def main():
     p = sp.add_parser("kit", help="buat CV + kit (ref atau 'all')"); p.add_argument("ref"); p.add_argument("--force", action="store_true"); p.set_defaults(f=cmd_kit)
     p = sp.add_parser("tailor", help="CV per JD + skor ATS (ref atau 'all')"); p.add_argument("ref", nargs="?", default="all"); p.add_argument("--target", type=int, default=90); p.set_defaults(f=cmd_tailor)
     p = sp.add_parser("applysheet", help="jawaban form Greenhouse + cover letter PDF untuk semua job ready"); p.set_defaults(f=cmd_applysheet)
+    p = sp.add_parser("autoapply", help="plan | run (SUBMIT) | answer")
+    p.add_argument("action", choices=["plan", "run", "answer", "code"]); p.add_argument("ref", nargs="?"); p.add_argument("field", nargs="?"); p.add_argument("value", nargs="?")
+    p.add_argument("--dry-run", action="store_true", help="isi form + screenshot, tidak submit"); p.add_argument("--limit", type=int); p.add_argument("--wait-code", type=int, default=0, help="detik menunggu kode verifikasi email dari Ryan")
+    p.add_argument("--all-jobs", action="store_true", help="answer: pakai jawaban ini untuk semua form berlabel sama"); p.add_argument("--source", default="ai")
+    p.set_defaults(f=cmd_autoapply)
     p = sp.add_parser("lint", help="cek kit; lolos -> ready"); p.add_argument("ref", nargs="?", default="all"); p.set_defaults(f=cmd_lint)
     p = sp.add_parser("applied", help="catat sudah disubmit"); p.add_argument("ref"); p.add_argument("--via", default="form", choices=["form", "email", "referral"]); p.add_argument("--date"); p.add_argument("--force", action="store_true"); p.set_defaults(f=cmd_applied)
     p = sp.add_parser("status"); p.add_argument("ref"); p.add_argument("status", choices=STATUSES); p.add_argument("note", nargs="?", default=""); p.set_defaults(f=cmd_status)

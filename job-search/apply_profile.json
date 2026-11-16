@@ -1,0 +1,41 @@
+{
+ "_note": "Fakta untuk mengisi form lamaran otomatis. null = belum diisi Ryan: pertanyaan WAJIB yang butuh nilai ini membuat lowongan ditahan (tidak disubmit). Jangan menebak.",
+ "first_name": "Ryan",
+ "last_name": "Hadi",
+ "email": "ryanhadi.career@gmail.com",
+ "phone_national": "82199975090",
+ "phone_country": "Indonesia",
+ "phone_full": "+62 821 9997 5090",
+ "city": "Jakarta",
+ "location_search": "Jakarta",
+ "country": "Indonesia",
+ "linkedin": "https://linkedin.com/in/ryanhadi",
+ "current_company": "Sinar Mas Land (OneSmartServices)",
+ "current_title": "Business Development Manager, B2B Partnerships",
+ "notice_period": "1 month",
+ "languages": ["indonesia", "english"],
+ "how_heard": "Company careers page",
+ "work_authorization": {
+  "citizen_of": "Indonesia",
+  "needs_sponsorship_outside": true,
+  "open_to_relocation": true
+ },
+ "years_experience": {
+  "general": 5,
+  "domains": {
+   "saas|cyber ?security|security (software|solutions)": 0
+  }
+ },
+ "salary_text": "Negotiable",
+ "salary_number": null,
+ "postal_code": null,
+ "relatives_or_relationship_at_company": null,
+ "outside_business_activities": null,
+ "bound_by_non_compete": null,
+ "willing_to_travel": null,
+ "opt_in_whatsapp_sms": null,
+ "opt_in_talent_pool": null,
+ "opt_in_job_alert_emails": null,
+ "over_18": true,
+ "demographics": "decline"
+}

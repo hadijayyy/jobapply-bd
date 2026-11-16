@@ -58,20 +58,28 @@ def family(j):
     return "enterprise"
 
 
+def region(j):
+    """global = remote with no country attached | apac | other (a country or sales territory outside APAC)."""
+    loc = j["location"] + " | " + j["title"]
+    if re.search(C["region_apac"], loc, re.I):
+        return "apac"
+    if re.search(C["region_other"], loc, re.I) or re.search(C["region_us_state"], loc):  # "Remote - TX"
+        return "other"
+    remote = re.search(r"remote|anywhere|worldwide|everywhere|global", loc + " " + j.get("workplace", ""), re.I)
+    return "global" if remote else "other"
+
+
 def score(j):
     t, loc, text = j["title"].lower(), j["location"] + " | " + j["title"], j["title"] + "\n" + j.get("desc", "")
     parts = {}
-    parts["title"] = (30 if re.search(r"partner|channel|alliance", t) else
-                      26 if re.search(r"business development|enterprise|strategic", t) else
-                      20 if re.search(r"account executive|sales (manager|director)|head of", t) else 12)
-    parts["location"] = (25 if re.search(r"indonesia|jakarta", loc, re.I) else
-                         20 if re.search(r"apac|asean|southeast|\bsea\b|asia", loc, re.I) else
-                         15 if re.search(r"worldwide|anywhere|global|everywhere", loc, re.I) else
-                         10 if re.search(r"remote", loc, re.I) else 8)
+    parts["title"] = (30 if re.search(r"business development|partner|channel|alliance", t) else
+                      26 if re.search(r"account executive|\bsdr\b|\bbdr\b|sales development|account manager", t) else
+                      20 if re.search(r"sales|enterprise|commercial", t) else 12)
+    parts["location"] = {"global": 25, "apac": 22, "other": 8}[region(j)]
     age = (date.today() - date.fromisoformat(j["posted"])).days if j["posted"] else None
     parts["fresh"] = 5 if age is None else 15 if age <= 3 else 12 if age <= 7 else 8 if age <= 14 else 4
     yrs = years_required(text)
-    parts["seniority"] = 10 if yrs is None else 15 if 3 <= yrs <= 5 else 8 if yrs == 6 else 5 if yrs <= 2 else 0
+    parts["seniority"] = 10 if yrs is None else 15 if yrs <= 5 else 8 if yrs == 6 else 0
     parts["industry"] = 10 if INDUSTRY.search(text) else 4
     parts["comp"] = 5 if j.get("comp") else 0
     return sum(parts.values()), parts, yrs
@@ -90,15 +98,11 @@ def evaluate(j):
         re.search(r"indonesia|jakarta", j["title"], re.I) and not ABROAD.search(j["location"]))
     remote = re.search(r"remote|anywhere|worldwide|global", loc, re.I) or j.get("workplace", "").lower() == "remote"
     flags = [label for _, label, rx in SOFT if rx.search(text)]
-    wp = j.get("workplace", "").lower()
-    if wp in ("onsite", "on-site", "hybrid") and not home and not ABROAD.search(loc):
-        blockers.append("Onsite/hybrid di luar Jakarta/SG/MY")
-    elif not home and not remote and ABROAD.search(loc):
-        # SG/MY/AU onsite is allowed only with visa sponsorship (Ryan's rule, 14 Nov 2026)
-        if sponsor:
-            flags.append("Onsite SG/MY/AU: sponsor visa disebut di JD")
-        else:
-            flags.append("Onsite SG/MY/AU: sponsor visa TIDAK disebut, tanya recruiter")
+    reg = region(j)
+    if reg == "other" and not sponsor and C.get("outside_apac_requires_sponsorship_mention"):
+        blockers.append("Luar APAC / remote terikat negara tanpa sponsor visa di JD")
+    elif not home and reg != "global":
+        flags.append("Luar Indonesia: sponsor visa disebut di JD" if sponsor else "Luar Indonesia: sponsor visa tidak disebut")
     j["sponsorship_mentioned"] = sponsor
     red = [label for _, label, rx in RED if rx.search(text)]
     age = (date.today() - date.fromisoformat(j["posted"])).days if j.get("posted") else None
@@ -111,7 +115,7 @@ def evaluate(j):
     th = C["tier_threshold"]
     if blockers:
         j["tier"] = "C"
-    elif sc >= th["A"] and not [f for f in flags if not f.startswith("Deskripsi")]:
+    elif sc >= th["A"] and not [f for f in flags if not f.startswith(("Deskripsi", "Luar Indonesia: sponsor visa disebut"))]:
         j["tier"] = "A"
     elif sc >= th["B"]:
         j["tier"] = "B"

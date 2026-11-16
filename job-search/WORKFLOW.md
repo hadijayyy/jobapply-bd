@@ -4,8 +4,8 @@ Satu CLI: `python3 job-search/pipeline.py <command>` (jalankan dari root repo). 
 `tracker.csv` dan `out/APPLY-QUEUE.md` adalah view yang di-generate ulang, jangan diedit manual.
 
 ```
-SOURCE ──> FILTER+SCORE ──> VERIFY ──> TAILOR CV (ATS ≥ 90) ──> KIT ──> LINT ──> APPLY (manual) ──> FOLLOW-UP ──> INTERVIEW
-greenhouse   scoring.py      liveness   cv.py + ats.py          kit.py   kit.py    Ryan klik Submit   cadence 5/10   prep
+SOURCE ──> FILTER+SCORE ──> VERIFY ──> TAILOR CV (ATS ≥ 90) ──> KIT ──> LINT ──> APPLY (auto)   ──> FOLLOW-UP ──> INTERVIEW
+greenhouse   scoring.py      liveness   cv.py + ats.py          kit.py   kit.py    autoapply.py       cadence 5/10   prep
 hiringcafe   config.json     + baca JD
 ```
 
@@ -66,11 +66,30 @@ python3 job-search/pipeline.py lint              # tolak em dash, klise, angka y
 Lolos lint -> status `ready` -> muncul di `out/APPLY-QUEUE.md` (urut skor ATS).
 Draft outreach LinkedIn: `out/OUTREACH.md` (maks 300 karakter, nama kontak belum diverifikasi).
 
-## 6. Apply (human gate)
-- Ryan submit sendiri. Claude boleh bantu isi form satu per satu, **berhenti sebelum Submit**
-- Tidak ada auto-apply massal, tidak ada pengiriman email/DM tanpa "ya" per item
+## 6. Apply (auto-fill + submit, `jobpipe/autoapply.py`)
+Ryan memilih auto-submit pada 16 Nov 2026. Target: remote global, APAC, luar APAC bila JD menyebut sponsor visa; level entry + mid.
+
 ```
-python3 job-search/pipeline.py applied <id> --via form
+python3 job-search/pipeline.py autoapply plan            # jawaban per form; yang tertahan -> out/autoapply/PENDING.md
+python3 job-search/pipeline.py autoapply plan <id>       # lihat setiap field + jawaban satu lowongan
+python3 job-search/pipeline.py autoapply run --dry-run   # isi form + screenshot, TIDAK submit
+python3 job-search/pipeline.py autoapply run             # submit (maks config.autoapply.max_per_run, 2 per perusahaan)
+python3 job-search/pipeline.py autoapply answer <id> <field> "jawaban" [--all-jobs]
+```
+
+Aturan:
+- Jawaban hanya dari `apply_profile.json` (fakta Ryan) dan `data/answers.json` (jawaban tersimpan / draft AI). Tidak ada tebakan.
+  Nilai `null` di profil + pertanyaan wajib = lowongan ditahan, bukan dikirim.
+- Hak kerja dijawab apa adanya: WNI, butuh sponsor di luar Indonesia. Demografi/EEO: tidak diisi, atau "tidak menjawab" bila wajib.
+- Sebelum submit, setiap nilai dibaca ulang dari halaman; beda dengan plan = batal.
+- `applied` hanya dicatat bila halaman konfirmasi Greenhouse tampil. Log: `data/apply_log.jsonl`.
+- Persetujuan hukum (mis. arbitration agreement) dan esai tidak pernah diisi otomatis tanpa jawaban tersimpan.
+
+**Verifikasi manusia.** Dari server/cloud, Greenhouse meminta kode 8 karakter yang dikirim ke email Ryan
+("enter the code to confirm you're a human"). Bot tidak membaca inbox dan tidak mengakali CAPTCHA. Alurnya:
+```
+python3 job-search/pipeline.py autoapply run <id> --wait-code 600   # form terisi, browser menunggu
+python3 job-search/pipeline.py autoapply code <id> <KODE>           # Ryan membaca kode dari emailnya
 ```
 
 ## 7. Follow-up dan interview
