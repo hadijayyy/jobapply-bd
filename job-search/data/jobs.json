@@ -3542,7 +3542,8 @@
    "years_required": 3
   },
   "2c00c092": {
-   "applied": null,
+   "applied": "2026-11-16",
+   "apply_via": "auto",
    "ats": {
     "after": 90,
     "before": 66,
@@ -3576,6 +3577,11 @@
      "date": "2026-11-16",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-16",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "2c00c092",
@@ -3596,7 +3602,7 @@
    },
    "source": "GH:okta",
    "sponsorship_mentioned": true,
-   "status": "verified",
+   "status": "applied",
    "tier": "A",
    "title": "Sales Development Representative (Singapore)",
    "url": "https://www.okta.com/company/careers/opportunity/8304868?gh_jid=8304868",
