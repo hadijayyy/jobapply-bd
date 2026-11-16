@@ -6781,7 +6781,8 @@
    "years_required": 2
   },
   "52ff28ec": {
-   "applied": null,
+   "applied": "2026-11-16",
+   "apply_via": "auto",
    "ats": {
     "after": 82,
     "before": 72,
@@ -6823,6 +6824,11 @@
      "date": "2026-11-14",
      "note": "lint lolos",
      "status": "ready"
+    },
+    {
+     "date": "2026-11-16",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "52ff28ec",
@@ -6843,7 +6849,7 @@
    },
    "source": "GH:abnormalsecurity",
    "sponsorship_mentioned": false,
-   "status": "ready",
+   "status": "applied",
    "tier": "A",
    "title": "Enterprise Account Executive",
    "url": "https://abnormal.ai/careers/jobs/8074725003?gh_jid=8074725003",
