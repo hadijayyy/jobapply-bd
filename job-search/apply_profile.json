@@ -13,7 +13,10 @@
  "current_company": "Sinar Mas Land (OneSmartServices)",
  "current_title": "Business Development Manager, B2B Partnerships",
  "notice_period": "1 month",
- "languages": ["indonesia", "english"],
+ "languages": [
+  "indonesia",
+  "english"
+ ],
  "how_heard": "Company careers page",
  "work_authorization": {
   "citizen_of": "Indonesia",
@@ -27,15 +30,16 @@
   }
  },
  "salary_text": "Negotiable",
- "salary_number": null,
- "postal_code": null,
- "relatives_or_relationship_at_company": null,
- "outside_business_activities": null,
- "bound_by_non_compete": null,
- "willing_to_travel": null,
- "opt_in_whatsapp_sms": null,
- "opt_in_talent_pool": null,
- "opt_in_job_alert_emails": null,
+ "salary_number": "USD 1,500 per month",
+ "postal_code": "15323",
+ "relatives_or_relationship_at_company": false,
+ "outside_business_activities": false,
+ "bound_by_non_compete": false,
+ "willing_to_travel": true,
+ "opt_in_whatsapp_sms": true,
+ "opt_in_talent_pool": true,
+ "opt_in_job_alert_emails": false,
  "over_18": true,
- "demographics": "decline"
+ "demographics": "decline",
+ "_confirmed": "Nilai di bawah dikonfirmasi Ryan lewat chat, 16 Nov 2026."
 }

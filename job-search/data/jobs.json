@@ -535,9 +535,6 @@
   },
   "060e3115": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 86,
     "before": 73,
@@ -1054,9 +1051,6 @@
   },
   "0c772981": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 83,
     "before": 67,
@@ -1752,10 +1746,6 @@
   },
   "1610a2f5": {
    "applied": null,
-   "apply_blocked": [
-    "Do you have any first-degree relatives (spouse, parent, child, sibling) that are currently employed by NICE or any of it",
-    "What is your expected annual base salary?"
-   ],
    "ats": {
     "after": 82,
     "before": 67,
@@ -2672,9 +2662,6 @@
   },
   "20ebdfe1": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 90,
     "before": 75,
@@ -2785,10 +2772,6 @@
   },
   "2133ab4b": {
    "applied": null,
-   "apply_blocked": [
-    "To the best of your knowledge, do you have any family members / relatives or personal relationships at Okta or at any su",
-    "Do you have any outside business activity(ies) (advisory, consulting, or board roles, or side businesses) that you would"
-   ],
    "ats": {
     "after": 88,
     "before": 74,
@@ -3560,10 +3543,6 @@
   },
   "2c00c092": {
    "applied": null,
-   "apply_blocked": [
-    "To the best of your knowledge, do you have any family members / relatives or personal relationships at Okta or at any su",
-    "Do you have any outside business activity(ies) (advisory, consulting, or board roles, or side businesses) that you would"
-   ],
    "ats": {
     "after": 90,
     "before": 66,
@@ -3626,9 +3605,6 @@
   },
   "2c8fbebb": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 90,
     "before": 75,
@@ -4337,9 +4313,6 @@
   },
   "33a09685": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 92,
     "before": 76,
@@ -4889,9 +4862,6 @@
   },
   "38a70cd9": {
    "applied": null,
-   "apply_blocked": [
-    "Are you related to, or do you have a close personal relationship with, anyone currently working at Xendit? If so, please"
-   ],
    "ats": {
     "after": 89,
     "before": 72,
@@ -6806,9 +6776,6 @@
   },
   "52ff28ec": {
    "applied": null,
-   "apply_blocked": [
-    "Zip Code/Postal Code"
-   ],
    "ats": {
     "after": 82,
     "before": 72,
@@ -8652,9 +8619,6 @@
   },
   "66e0cd4a": {
    "applied": null,
-   "apply_blocked": [
-    "Can we retain your data for up to 12 months to consider you for future opportunities at Wiz?"
-   ],
    "ats": {
     "after": 79,
     "before": 64,
@@ -9653,7 +9617,6 @@
   "6fd93e3c": {
    "applied": null,
    "apply_blocked": [
-    "Select ‘Yes’ to join Braze’s Talent Community and receive newsletters to help you stay up to date on career-related news",
     "What is your expected annual OTE is AUD?"
    ],
    "ats": {
@@ -11547,9 +11510,6 @@
   },
   "8793e4e3": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 91,
     "before": 75,
@@ -14724,8 +14684,6 @@
   "aed815a2": {
    "applied": null,
    "apply_blocked": [
-    "Please state your current annual base salary in KRW",
-    "Please state your expected annual base salary in KRW",
     "On a scale of 1-10, how would you rate your proficiency in written and spoken Japanese?"
    ],
    "ats": {
@@ -14772,6 +14730,11 @@
      "date": "2026-11-16",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-16",
+     "note": "wajib bahasa Jepang (JP Speaking)",
+     "status": "rejected"
     }
    ],
    "id": "aed815a2",
@@ -14792,7 +14755,7 @@
    },
    "source": "GH:payoneer",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "rejected",
    "tier": "B",
    "title": "Mid Market Sales Managerr, APAC (1 year contract) - JP Speaking",
    "url": "https://www.payoneer.com/careers/position/8276315/?gh_jid=8276315",
@@ -16091,9 +16054,6 @@
   },
   "bca584c2": {
    "applied": null,
-   "apply_blocked": [
-    "Are you subject to any employment agreements and/or post-employment restrictions with your current employer or a past em"
-   ],
    "ats": {
     "after": 90,
     "before": 74,
@@ -18447,9 +18407,6 @@
   "dbbdbf1f": {
    "applied": null,
    "apply_blocked": [
-    "Do you as a candidate have a personal relationship with a current Agoda employee?",
-    "Do you allow us to provide you TEXT/SMS updates of your interview process? We may engage with a service provider to do s",
-    "Email me about other job openings within the Booking Holding’s entities and recruitment-related newsletters",
     "Are you currently legally entitled to work in Malaysia, and would you require employer sponsorship now or in the future "
    ],
    "ats": {
@@ -20344,9 +20301,6 @@
   },
   "f412566f": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 90,
     "before": 76,
@@ -20924,9 +20878,6 @@
   },
   "f7e287ad": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 92,
     "before": 78,
@@ -21047,9 +20998,6 @@
   },
   "f9a5346e": {
    "applied": null,
-   "apply_blocked": [
-    "Select ‘Yes’ to join Braze’s Talent Community and receive newsletters to help you stay up to date on career-related news"
-   ],
    "ats": {
     "after": 84,
     "before": 78,
@@ -21114,7 +21062,6 @@
    "applied": null,
    "apply_blocked": [
     "Cover Letter",
-    "What is your mailing address? (Street address, City, State/Province, Postal/Zip Code, etc)",
     "Do you have a relationship with an existing Boomi employee that would warrant review and approvals from Human Resources?"
    ],
    "ats": {
@@ -21278,9 +21225,6 @@
   },
   "fb68bb1b": {
    "applied": null,
-   "apply_blocked": [
-    "Do you opt-in to receive WhatsApp messages from Stripe Recruiting?"
-   ],
    "ats": {
     "after": 90,
     "before": 74,
