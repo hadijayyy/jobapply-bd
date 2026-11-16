@@ -14618,7 +14618,8 @@
    "years_required": null
   },
   "ad7fefff": {
-   "applied": null,
+   "applied": "2026-11-16",
+   "apply_via": "auto",
    "ats": {
     "after": 90,
     "before": 72,
@@ -14660,6 +14661,11 @@
      "date": "2026-11-14",
      "note": "lint lolos",
      "status": "ready"
+    },
+    {
+     "date": "2026-11-16",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "ad7fefff",
@@ -14680,7 +14686,7 @@
    },
    "source": "GH:cloudflare",
    "sponsorship_mentioned": false,
-   "status": "ready",
+   "status": "applied",
    "tier": "A",
    "title": "Named Account Executive, Indonesia (Public Sector)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8332960?gh_jid=8332960",
