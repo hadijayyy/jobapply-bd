@@ -59,10 +59,6 @@ Isi `apply_profile.json` untuk yang bertanda profil, atau simpan jawaban dengan
 - `question_70269075` **Voluntary Equal Opportunity Employment**: pertanyaan baru: belum ada aturan atau jawaban tersimpan. Opsi: Male / Female / Gender Neutral / Decline to Self Identify
 - `question_70269076[]` **Are you of Aboriginal and/or Torres Strait Islander origin?**: pertanyaan baru: belum ada aturan atau jawaban tersimpan. Opsi: Yes / No / Decline to Self Identify
 
-## Payoneer | Mid Market Sales Managerr, APAC (1 year contract) - JP Speaking (`aed815a2`)
-
-- `question_69819771` **On a scale of 1-10, how would you rate your proficiency in written and spoken Japanese?**: pertanyaan baru: belum ada aturan atau jawaban tersimpan.
-
 ## Agoda | Strategic Account Manager (`dbbdbf1f`)
 
 - `question_70574401` **Are you currently legally entitled to work in Malaysia, and would you require employer sponsorship now or in the future to do so?**: pertanyaan ganda (hak kerja DAN sponsor) dengan opsi Yes/No: ambigu. Opsi: Yes / No

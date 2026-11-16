@@ -15582,13 +15582,18 @@
      "date": "2026-11-14",
      "note": "lint lolos",
      "status": "ready"
+    },
+    {
+     "date": "2026-11-16",
+     "note": "sudah melamar Strategic AE Datadog 21 Okt, ditolak 3 Nov",
+     "status": "rejected"
     }
    ],
    "id": "b85aec08",
    "kit": "out/kits/datadog-b85aec08.md",
    "liveness": "uncertain",
    "location": "Singapore, Singapore",
-   "notes": "",
+   "notes": "sudah melamar Strategic AE Datadog 21 Okt, ditolak 3 Nov",
    "posted": "2026-10-13",
    "red_flags": [],
    "score": 63,
@@ -15602,7 +15607,7 @@
    },
    "source": "GH:datadog",
    "sponsorship_mentioned": false,
-   "status": "ready",
+   "status": "rejected",
    "tier": "B",
    "title": "Strategic Account Executive (Philippines Market)",
    "url": "https://careers.datadoghq.com/detail/8255788/?gh_jid=8255788",
