@@ -2196,7 +2196,8 @@
    "years_required": 2
   },
   "1ab84b6f": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 85,
     "before": 72,
@@ -2240,6 +2241,11 @@
      "date": "2026-11-14",
      "note": "lint lolos",
      "status": "ready"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "1ab84b6f",
@@ -2260,7 +2266,7 @@
    },
    "source": "GH:groupib",
    "sponsorship_mentioned": false,
-   "status": "ready",
+   "status": "applied",
    "tier": "B",
    "title": "Business Development Manager",
    "url": "https://www.group-ib.com/careers/?gh_jid=5024592101",
