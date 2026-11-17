@@ -12,8 +12,8 @@
 - **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** payments / fintech, resilience
 
 ## Perubahan dari CV master
-- Summary diakhiri "Targeting Sales Development Representative roles across APAC." agar judul role JD (Sales Development Representative) terbaca ATS. Ini target, bukan klaim jabatan.
-- Urutan bullet Sinar Mas: deals, ai, team, pipe | Siloam: newbiz, portfolio, renew
+- Summary diakhiri "Native Indonesian speaker targeting Sales Development Representative roles across APAC." agar judul role JD (Sales Development Representative) terbaca ATS. Ini target, bukan klaim jabatan.
+- Urutan bullet Sinar Mas: deals, cycle, ai, team, pipe | Siloam: newbiz, portfolio, renew
 - Skills disusun dari keyword JD yang punya bukti (evidence=yes); Salesforce ditambahkan (dikonfirmasi Ryan 14 Nov 2026).
 
 Metode skor: lihat jobpipe/ats.py (keywords 50, title 15, soft skills 10, experience 10, education 5, format 10).

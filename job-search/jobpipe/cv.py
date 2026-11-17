@@ -23,9 +23,8 @@ VARIANT_FOR = {"enterprise": "Enterprise", "channel": "Channel", "ai": "AI-Sales
 
 # Same facts as the master CV, worded so the matching keyword is explicit. Each line names its source bullet.
 BULLETS = {
-    "deals": "Closed IDR 10B+ in total contract value across eight enterprise deals (avg. IDR 1.25B+ per deal) for "
-             "OneSmartServices' smart CCTV and network infrastructure solutions through full-cycle, consultative sales, "
-             "averaging 100%+ of annual quota and exceeding 2025 quota by 15%+.",
+    "deals": CV["bullets"]["deals"],
+    "cycle": CV["bullets"]["cycle"],
     "ai": CV["bullets"]["ai"],
     "pipe": CV["bullets"]["pipe"],
     "team": "Led a three-person BD team and signed four new channel partner agreements by running cross-functional Legal, "
@@ -34,21 +33,22 @@ BULLETS = {
 SILOAM = {
     "newbiz": "Exceeded both personal and team new-business targets by 20%+. Built and ran an individual outbound "
               "prospecting pipeline in HubSpot targeting HR and procurement (avg. 20 qualified prospects and 10 discovery "
-              "meetings per month), contributing to 12 new corporate accounts and IDR 750M in first-year team revenue.",
+              "meetings per month), contributing to 12 new corporate accounts and IDR 750M (~USD 45K) in first-year team revenue.",
     "portfolio": CV["siloam"][1],
     "renew": CV["siloam"][2],
 }
 
 SALES = ["business development", "B2B sales", "enterprise sales", "full-cycle sales", "new business", "closing",
          "outbound prospecting", "pipeline generation", "pipeline management", "discovery", "consultative selling",
-         "negotiation", "multi-stakeholder", "executive engagement", "account management", "cross-sell",
+         "negotiation", "multi-stakeholder", "executive engagement", "account management", "cross-sell", "upsell / expansion", "sales methodology", "demos / POC", "sales cycle",
          "renewals / retention", "quota attainment", "proposals / RFP", "business case", "market sizing"]
-PARTNER = ["channel partnerships", "partner management", "partner recruitment", "co-selling / joint plans", "QBR"]
-DOMAIN = ["software sales", "cloud", "IT infrastructure", "healthcare"]  # "cloud" phrase already says Managed Services
+PARTNER = ["channel partnerships", "partner management", "partner recruitment", "co-selling / joint plans", "QBR",
+           "resellers / distributors", "MSP / managed services", "alliances"]
+DOMAIN = ["software sales", "cloud", "AWS / GCP / Azure", "IT infrastructure", "healthcare"]  # "cloud" phrase already says Managed Services
 SOFT = [c for c, k, *_ in ats.LEX if k == "soft"]
 TOOLS_LINE = "Salesforce & HubSpot CRM, Power BI, Advanced Excel, AI Sales Workflows (ChatGPT, Claude), Prompt Engineering"
 DEFAULT_SALES = ["full-cycle sales", "outbound prospecting", "discovery", "consultative selling", "negotiation",
-                 "account management", "cross-sell", "renewals / retention"]
+                 "account management", "cross-sell", "upsell / expansion", "sales methodology", "renewals / retention"]
 DEFAULT_PARTNER = PARTNER
 DEFAULT_SOFT = ["cross-functional collaboration", "communication", "relationship building", "leadership"]
 
@@ -87,11 +87,10 @@ def spec_for(job):
     middle = [CV["summary"]["deals"]]
     if partner_role:
         middle.insert(0, CV["summary"]["ch"])
-    middle.append("Runs consultative, multi-stakeholder deals end to end, working cross-functionally with Legal, Finance, "
-                  "and Operations.")
+    middle.append(CV["summary"]["ent"])
     if "AI tools" in want or not partner_role:
         middle.append(CV["summary"]["ai"])
-    target = f"Targeting {core} roles {_market(jd)}."
+    target = f"Native Indonesian speaker targeting {core} roles {_market(jd)}."
     summary = " ".join([first] + middle + [target])
     log.append(f'Summary diakhiri "{target}" agar judul role JD ({core}) terbaca ATS. Ini target, bukan klaim jabatan.')
 

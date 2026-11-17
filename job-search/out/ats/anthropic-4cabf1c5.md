@@ -12,8 +12,8 @@
 - **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** public sector
 
 ## Perubahan dari CV master
-- Summary diakhiri "Targeting Scaled Account Manager roles across APAC." agar judul role JD (Scaled Account Manager) terbaca ATS. Ini target, bukan klaim jabatan.
-- Urutan bullet Sinar Mas: team, ai, pipe, deals | Siloam: newbiz, portfolio, renew
+- Summary diakhiri "Native Indonesian speaker targeting Scaled Account Manager roles across APAC." agar judul role JD (Scaled Account Manager) terbaca ATS. Ini target, bukan klaim jabatan.
+- Urutan bullet Sinar Mas: team, ai, deals, cycle, pipe | Siloam: newbiz, portfolio, renew
 - Skills disusun dari keyword JD yang punya bukti (evidence=yes); Salesforce ditambahkan (dikonfirmasi Ryan 14 Nov 2026).
 
 Metode skor: lihat jobpipe/ats.py (keywords 50, title 15, soft skills 10, experience 10, education 5, format 10).

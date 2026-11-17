@@ -20,39 +20,40 @@
   "summary": {
    "years": "Business Development Manager with 5+ years of full-cycle B2B sales and channel partnerships in enterprise IT and corporate healthcare.",
    "years_ch": "Business Development Manager with 5+ years of channel partnerships and full-cycle B2B sales in enterprise IT and corporate healthcare.",
-   "deals": "Closed IDR 10B+ across eight enterprise IT deals, exceeding 2025 quota by 15%+, and delivered 120%+ of new-business target in corporate healthcare.",
+   "deals": "Closed IDR 10B+ (~USD 600K) across eight enterprise IT deals, meeting quota every year and exceeding 2025 quota by 15%+, and delivered 120%+ of new-business target in corporate healthcare.",
    "ai": "Builds AI-powered sales workflows that tripled prospecting capacity and doubled discovery meetings.",
-   "ent": "Runs consultative, multi-stakeholder deals end to end and manages a 20-partner channel program.",
-   "ch": "Manages a 20-partner channel program and grew partner-sourced pipeline 25% in 12 months.",
-   "target": "Targeting B2B partnerships and sales roles in technology and SaaS across APAC."
+   "ent": "Runs consultative 3–6 month, multi-stakeholder deals end to end (MEDDIC, BANT, SPIN) and manages a 20-partner MSP and reseller channel program.",
+   "ch": "Manages a 20-partner MSP and reseller channel program and grew partner-sourced pipeline 25% in 12 months.",
+   "target": "Native Indonesian speaker targeting B2B partnerships and sales roles in technology and SaaS across APAC, bringing on-the-ground knowledge of Indonesia, ASEAN's largest market."
   },
   "bullets": {
-   "deals": "Closed IDR 10B+ in total contract value across eight enterprise deals (avg. IDR 1.25B+ per deal) for OneSmartServices’ smart CCTV and network infrastructure solutions, averaging 100%+ of annual quota and exceeding 2025 quota by 15%+.",
+   "deals": "Closed IDR 10B+ (~USD 600K) in total contract value across eight enterprise deals (avg. IDR 1.25B / ~USD 75K) for smart CCTV and network infrastructure, mostly expansion within existing accounts on annual, renewable contracts; met quota every year (100%+) and exceeded 2025 quota by 15%+.",
    "ai": "Built AI-powered workflows (ChatGPT, Claude) for prospect research, outreach, and proposal drafting, saving 10+ hours per week. Tripled monthly prospect research volume, doubled discovery meetings, and cut proposal turnaround from several days to one.",
-   "pipe": "Grew qualified partner-sourced pipeline by 25% (IDR 2B to IDR 2.5B) in 12 months by launching quarterly business reviews and joint sales plans with 20 active channel partners.",
-   "team": "Led a three-person BD team and signed four new channel partner agreements by running Legal, Finance, and Operations reviews in parallel, cutting average proposal-to-signature time from 60 to 48 days."
+   "pipe": "Grew qualified partner-sourced pipeline by 25% (IDR 2B to 2.5B, ~USD 120K to 150K) in 12 months by launching quarterly business reviews and joint sales plans with 20 active MSP and reseller partners, alongside international technology vendors.",
+   "team": "Led a three-person BD team and signed four new channel partner agreements by running Legal, Finance, and Operations reviews in parallel, cutting average proposal-to-signature time from 60 to 48 days.",
+   "cycle": "Ran 3–6 month sales cycles with 4–6 client stakeholders (IT, procurement, finance, leadership) per deal, qualifying with MEDDIC, BANT, and SPIN and leading demos and proofs of concept with presales."
   },
   "siloam": [
-   "Exceeded both personal and team new-business targets by 20%+. Built and ran an individual outbound pipeline in HubSpot targeting HR and procurement (avg. 20 qualified prospects and 10 discovery meetings per month), contributing to 12 new corporate accounts and IDR 750M in first-year team revenue.",
-   "Co-managed a 20-account corporate portfolio with a senior account manager, growing revenue 15% YoY (IDR 1B to IDR 1.15B) by mapping gaps in employee health coverage and cross-selling inpatient and outpatient services.",
+   "Exceeded both personal and team new-business targets by 20%+. Built and ran an individual outbound pipeline in HubSpot targeting HR and procurement (avg. 20 qualified prospects and 10 discovery meetings per month), contributing to 12 new corporate accounts and IDR 750M (~USD 45K) in first-year team revenue.",
+   "Co-managed a 20-account corporate portfolio with a senior account manager, growing revenue 15% YoY (IDR 1B to 1.15B, ~USD 60K to 70K) by mapping gaps in employee health coverage and cross-selling inpatient and outpatient services.",
    "Owned the commercial side of medical check-up programs for 1,500 employees across 12 corporate clients, working with Operations on delivery; renewed 10 of 12 eligible contracts (83%) and generated IDR 150M in follow-up service revenue."
   ],
   "skills": [
    [
     "B2B Sales & Account Growth",
-    "Outbound Prospecting, Discovery, Consultative Selling, Multi-stakeholder Negotiation, Account Management, Cross-Selling, Renewals"
+    "Outbound Prospecting, Discovery, MEDDIC / BANT / SPIN Qualification, Demos & POCs, Multi-stakeholder Negotiation, Account Expansion, Renewals"
    ],
    [
     "Channel Partnerships",
-    "Partner Recruitment & Onboarding, Joint Sales Planning, Quarterly Business Reviews, Pipeline Management"
+    "MSP & Reseller Programs, Partner Recruitment & Onboarding, Joint Sales Planning, Quarterly Business Reviews, Vendor Alliances"
    ],
    [
-    "Sales Automation & Analytics",
-    "AI Workflows (ChatGPT, Claude), Prompt Engineering, Power BI, HubSpot CRM, Advanced Excel"
+    "Sales Tools & Analytics",
+    "HubSpot CRM, Salesforce, AI Workflows (ChatGPT, Claude), Power BI, Advanced Excel"
    ],
    [
-    "Commercial Strategy",
-    "Market Sizing, Feasibility Analysis, Business Case Development, Executive Presentations"
+    "Solutions & Strategy",
+    "Microsoft Azure Cloud & Managed Services, Network & CCTV Infrastructure, Market Sizing, Business Case Development"
    ]
   ],
   "variants": {
@@ -66,6 +67,7 @@
     ],
     "bullets": [
      "deals",
+     "cycle",
      "ai",
      "pipe",
      "team"
@@ -89,6 +91,7 @@
      "pipe",
      "team",
      "deals",
+     "cycle",
      "ai"
     ],
     "skills": [
@@ -109,6 +112,7 @@
     "bullets": [
      "ai",
      "deals",
+     "cycle",
      "pipe",
      "team"
     ],
