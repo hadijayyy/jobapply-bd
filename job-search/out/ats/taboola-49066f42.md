@@ -1,6 +1,6 @@
 # ATS: Taboola | Advertising Sales Manager - (Visa and Relocation Provided)
 - Link: https://www.taboola.com/careers/job/8354774?gh_jid=8354774
-- CV: out/cv/Ryan-Hadi-CV-Taboola-49066f42.pdf (1 halaman)
+- CV: out/cv/Taboola-49066f42/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 70 (CV master) -> 96 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 46.2, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Advertising Sales Manager"

@@ -1,6 +1,6 @@
 # ATS: airwallex | Sales Manager, SME & Growth
 - Link: https://jobs.ashbyhq.com/airwallex/13d2c761-c72b-4477-8258-32c0890ee58f
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-0dcd5827.pdf (1 halaman)
+- CV: out/cv/Airwallex-0dcd5827/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 73 (CV master) -> 92 (CV tailored)** | jika item pending dikonfirmasi: 92
 - Rincian: keywords 41.7, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Sales Manager"

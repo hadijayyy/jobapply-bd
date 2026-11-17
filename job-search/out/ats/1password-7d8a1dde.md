@@ -1,6 +1,6 @@
 # ATS: 1password | Account Executive, Commercial Enterprise - Sydney, AUS
 - Link: https://jobs.ashbyhq.com/1password/2de1bc31-a697-41d3-910c-8629e73b2d6c
-- CV: out/cv/Ryan-Hadi-CV-1Password-7d8a1dde.pdf (1 halaman)
+- CV: out/cv/1Password-7d8a1dde/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 64 (CV master) -> 82 (CV tailored)** | jika item pending dikonfirmasi: 84
 - Rincian: keywords 36.8, title 15, soft 9.0, experience 6, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

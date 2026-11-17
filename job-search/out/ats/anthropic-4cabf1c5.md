@@ -1,6 +1,6 @@
 # ATS: Anthropic | Scaled Account Manager, Beneficial Deployments
 - Link: https://job-boards.greenhouse.io/anthropic/jobs/5473216008
-- CV: out/cv/Ryan-Hadi-CV-Anthropic-4cabf1c5.pdf (1 halaman)
+- CV: out/cv/Anthropic-4cabf1c5/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 76 (CV master) -> 96 (CV tailored)** | jika item pending dikonfirmasi: 96
 - Rincian: keywords 45.5, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Scaled Account Manager"

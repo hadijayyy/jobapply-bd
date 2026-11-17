@@ -1,6 +1,6 @@
 # ATS: airwallex | Associate Growth Account Manager, ANZ
 - Link: https://jobs.ashbyhq.com/airwallex/1c8a6893-e89d-4519-997e-89957123431c
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-f5a901ca.pdf (1 halaman)
+- CV: out/cv/Airwallex-f5a901ca/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 69 (CV master) -> 90 (CV tailored)** | jika item pending dikonfirmasi: 93
 - Rincian: keywords 41.2, title 15, soft 8.9, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Associate Growth Account Manager"

@@ -1,6 +1,6 @@
 # ATS: Stripe | Account Executive, SMB (Southeast Asia)
 - Link: https://stripe.com/jobs/search?gh_jid=8352238
-- CV: out/cv/Ryan-Hadi-CV-Stripe-f412566f.pdf (1 halaman)
+- CV: out/cv/Stripe-f412566f/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 72 (CV master) -> 96 (CV tailored)** | jika item pending dikonfirmasi: 96
 - Rincian: keywords 47.5, title 15, soft 8.6, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

@@ -1,6 +1,6 @@
 # ATS: ampd-energy | Business Development Manager
 - Link: https://jobs.lever.co/ampd-energy/fe8158ed-b98d-4281-b6cc-0b1fa443b92a
-- CV: out/cv/Ryan-Hadi-CV-Ampd-Energy-4728a247.pdf (1 halaman)
+- CV: out/cv/Ampd-Energy-4728a247/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 86 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Business Development Manager"

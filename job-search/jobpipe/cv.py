@@ -19,6 +19,7 @@ from .store import CANDIDATE, ROOT, slug
 
 CV = CANDIDATE["cv"]
 OUT = ROOT / "out" / "cv"
+CV_FILENAME = "Ryan Hadi_CV_Business Development.pdf"  # name recruiters see; no dates, no company names
 VARIANT_FOR = {"enterprise": "Enterprise", "channel": "Channel", "ai": "AI-Sales"}
 
 # Same facts as the master CV, worded so the matching keyword is explicit. Each line names its source bullet.
@@ -180,7 +181,7 @@ def pages(path):
 
 def file_for(job):
     co = re.sub(r"-+", "-", slug(job["company"], 24).title())
-    return OUT / f"Ryan-Hadi-CV-{co}-{job['id']}.pdf"
+    return OUT / f"{co}-{job['id']}" / CV_FILENAME
 
 
 def tailor(job, master_text=None):
@@ -208,7 +209,7 @@ def build_variant(name):
     spec = {"headline": CANDIDATE["headline"], "summary": " ".join(S[k] for k in v["summary"]),
             "bullets": [CV["bullets"][k] for k in v["bullets"]], "siloam": CV["siloam"],
             "skills": [tuple(CV["skills"][i]) for i in v["skills"]]}
-    return render(spec, OUT / "_variants" / f"Ryan-Hadi-CV-{name}.pdf")
+    return render(spec, OUT / "_variants" / name / CV_FILENAME)
 
 
 def rebuild_variants():

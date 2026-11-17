@@ -1,6 +1,6 @@
 # ATS: airwallex | Account Executive, Startups
 - Link: https://jobs.ashbyhq.com/airwallex/bcf0307f-f4d3-4dca-be57-727130f55dce
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-9760de05.pdf (1 halaman)
+- CV: out/cv/Airwallex-9760de05/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 70 (CV master) -> 96 (CV tailored)** | jika item pending dikonfirmasi: 96
 - Rincian: keywords 46.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

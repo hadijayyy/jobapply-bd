@@ -53,7 +53,7 @@ Tailoring = memilih, mengurutkan dan memilih kata dari fakta di `candidate.json`
 python3 job-search/pipeline.py tailor            # semua verified/ready
 python3 job-search/pipeline.py tailor <id>
 ```
-Output: `out/cv/Ryan-Hadi-CV-<Company>-<id>.pdf` + `out/ats/<company>-<id>.md` (skor before/after + 3 bucket keyword).
+Output: `out/cv/<Company>-<id>/Ryan Hadi_CV_Business Development.pdf` (nama file yang dilihat recruiter: tanpa tanggal, tanpa nama perusahaan) + `out/ats/<company>-<id>.md` (skor before/after + 3 bucket keyword).
 
 Kalau skor < 90 dan bucket "missing tapi benar" kosong, sisa gap-nya adalah item pending atau gap nyata.
 Konfirmasi detail pending -> ubah evidence di `ats.py` dari `pending` ke `yes` + tambahkan faktanya ke `candidate.json` -> `tailor` lagi.

@@ -1,6 +1,6 @@
 # ATS: 1password | Country Manager, Australia & New Zealand
 - Link: https://jobs.ashbyhq.com/1password/14a92fc9-9f16-49f5-ab44-1b2575ce4601
-- CV: out/cv/Ryan-Hadi-CV-1Password-94d8e53b.pdf (1 halaman)
+- CV: out/cv/1Password-94d8e53b/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 55 (CV master) -> 86 (CV tailored)** | jika item pending dikonfirmasi: 91
 - Rincian: keywords 35.5, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Country Manager"

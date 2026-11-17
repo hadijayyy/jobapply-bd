@@ -1,6 +1,6 @@
 # ATS: supabase | Account Executive (ASEAN)
 - Link: https://jobs.ashbyhq.com/supabase/9a48e441-16c8-488d-a056-0e132f09d65d
-- CV: out/cv/Ryan-Hadi-CV-Supabase-2e6ff11f.pdf (1 halaman)
+- CV: out/cv/Supabase-2e6ff11f/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 64 (CV master) -> 93 (CV tailored)** | jika item pending dikonfirmasi: 96
 - Rincian: keywords 43.2, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

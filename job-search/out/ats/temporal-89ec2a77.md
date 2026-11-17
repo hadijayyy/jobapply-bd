@@ -1,6 +1,6 @@
 # ATS: temporal | ASEAN Partnerships Manager
 - Link: https://jobs.ashbyhq.com/temporal/b23916a6-2696-4283-8504-2094c0708401
-- CV: out/cv/Ryan-Hadi-CV-Temporal-89ec2a77.pdf (1 halaman)
+- CV: out/cv/Temporal-89ec2a77/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 59 (CV master) -> 84 (CV tailored)** | jika item pending dikonfirmasi: 90
 - Rincian: keywords 44.0, title 15, soft 10.0, experience 0, education 5, format 10.0
 - Judul role yang dicari ATS: "ASEAN Partnerships Manager"

@@ -1,6 +1,6 @@
 # ATS: airwallex | Inbound Sales Representative, SME & Growth, SEA
 - Link: https://jobs.ashbyhq.com/airwallex/46306b18-de4c-4ec4-9567-fd851de3625a
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-2e0a80a7.pdf (1 halaman)
+- CV: out/cv/Airwallex-2e0a80a7/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 68 (CV master) -> 94 (CV tailored)** | jika item pending dikonfirmasi: 94
 - Rincian: keywords 44.2, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Inbound Sales Representative"

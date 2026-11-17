@@ -1,6 +1,6 @@
 # ATS: legora | Senior Manager - Partnerships APJ
 - Link: https://jobs.ashbyhq.com/legora/ee5271ac-8205-4f44-983a-f8a4f2385d37
-- CV: out/cv/Ryan-Hadi-CV-Legora-32ff6ec4.pdf (1 halaman)
+- CV: out/cv/Legora-32ff6ec4/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 80 (CV master) -> 92 (CV tailored)** | jika item pending dikonfirmasi: 97
 - Rincian: keywords 42.1, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Manager"

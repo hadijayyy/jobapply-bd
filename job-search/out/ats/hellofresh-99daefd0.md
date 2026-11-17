@@ -1,6 +1,6 @@
 # ATS: HelloFresh | National Account Executive
 - Link: https://careers.hellofresh.com/global/en/job/8348252?gh_jid=8348252
-- CV: out/cv/Ryan-Hadi-CV-Hellofresh-99daefd0.pdf (1 halaman)
+- CV: out/cv/Hellofresh-99daefd0/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 64 (CV master) -> 82 (CV tailored)** | jika item pending dikonfirmasi: 90
 - Rincian: keywords 33.3, title 15, soft 8.3, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "National Account Executive"

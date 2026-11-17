@@ -1,6 +1,6 @@
 # ATS: airwallex | Account Executive, SME & Growth
 - Link: https://jobs.ashbyhq.com/airwallex/051e74b8-d4a3-4563-a6f0-e64829843d24
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-f243e53a.pdf (1 halaman)
+- CV: out/cv/Airwallex-f243e53a/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 72 (CV master) -> 94 (CV tailored)** | jika item pending dikonfirmasi: 94
 - Rincian: keywords 43.8, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

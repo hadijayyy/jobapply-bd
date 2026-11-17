@@ -1,6 +1,6 @@
 # ATS: Anthropic | Strategic Partner Development, Product Partnerships
 - Link: https://job-boards.greenhouse.io/anthropic/jobs/5475830008
-- CV: out/cv/Ryan-Hadi-CV-Anthropic-7f3d928d.pdf (1 halaman)
+- CV: out/cv/Anthropic-7f3d928d/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 81 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Partner Development"

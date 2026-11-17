@@ -1,6 +1,6 @@
 # ATS: airwallex | GTM Partnerships Manager, SME & Growth
 - Link: https://jobs.ashbyhq.com/airwallex/dacd648d-b33c-4a59-9573-271bbd5c3420
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-e9aa13cc.pdf (1 halaman)
+- CV: out/cv/Airwallex-e9aa13cc/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 67 (CV master) -> 92 (CV tailored)** | jika item pending dikonfirmasi: 96
 - Rincian: keywords 42.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "GTM Partnerships Manager"

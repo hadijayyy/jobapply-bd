@@ -1,6 +1,6 @@
 # ATS: perk | Junior Account Manager - UKI
 - Link: https://jobs.ashbyhq.com/Perk/11a22c61-7fec-4a58-b9f2-d3c1c764b42c
-- CV: out/cv/Ryan-Hadi-CV-Perk-d32c244d.pdf (1 halaman)
+- CV: out/cv/Perk-d32c244d/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 68 (CV master) -> 87 (CV tailored)** | jika item pending dikonfirmasi: 92
 - Rincian: keywords 36.8, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Junior Account Manager"

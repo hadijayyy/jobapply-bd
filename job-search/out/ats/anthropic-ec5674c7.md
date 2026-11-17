@@ -1,6 +1,6 @@
 # ATS: Anthropic | Partner Account Manager, ANZ
 - Link: https://job-boards.greenhouse.io/anthropic/jobs/5475150008
-- CV: out/cv/Ryan-Hadi-CV-Anthropic-ec5674c7.pdf (1 halaman)
+- CV: out/cv/Anthropic-ec5674c7/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 56 (CV master) -> 79 (CV tailored)** | jika item pending dikonfirmasi: 84
 - Rincian: keywords 38.7, title 15, soft 10.0, experience 0, education 5, format 10.0
 - Judul role yang dicari ATS: "Partner Account Manager"

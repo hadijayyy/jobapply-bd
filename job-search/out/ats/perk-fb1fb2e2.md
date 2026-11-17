@@ -1,6 +1,6 @@
 # ATS: perk | Enterprise Account Manager Team Lead - UKI
 - Link: https://jobs.ashbyhq.com/Perk/175409e3-8f4a-4633-a0c2-d4b9123c6d69
-- CV: out/cv/Ryan-Hadi-CV-Perk-fb1fb2e2.pdf (1 halaman)
+- CV: out/cv/Perk-fb1fb2e2/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 70 (CV master) -> 85 (CV tailored)** | jika item pending dikonfirmasi: 94
 - Rincian: keywords 35.3, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Manager Team Lead"

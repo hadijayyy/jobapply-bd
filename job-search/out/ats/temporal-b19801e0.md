@@ -1,6 +1,6 @@
 # ATS: temporal | Business Development Representative, APJ
 - Link: https://jobs.ashbyhq.com/temporal/6b0416b1-50f7-45ad-af1b-5e49826bd446
-- CV: out/cv/Ryan-Hadi-CV-Temporal-b19801e0.pdf (1 halaman)
+- CV: out/cv/Temporal-b19801e0/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 74 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Business Development Representative"

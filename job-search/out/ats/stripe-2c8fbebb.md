@@ -1,6 +1,6 @@
 # ATS: Stripe | Account Executive - Startups (Grower), Australia
 - Link: https://stripe.com/jobs/search?gh_jid=8351500
-- CV: out/cv/Ryan-Hadi-CV-Stripe-2c8fbebb.pdf (1 halaman)
+- CV: out/cv/Stripe-2c8fbebb/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 71 (CV master) -> 96 (CV tailored)** | jika item pending dikonfirmasi: 96
 - Rincian: keywords 47.4, title 15, soft 8.6, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

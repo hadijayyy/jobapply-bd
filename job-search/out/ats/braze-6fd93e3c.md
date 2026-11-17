@@ -1,6 +1,6 @@
 # ATS: Braze | Account Manager, Scale
 - Link: https://job-boards.greenhouse.io/braze/jobs/8391932
-- CV: out/cv/Ryan-Hadi-CV-Braze-6fd93e3c.pdf (1 halaman)
+- CV: out/cv/Braze-6fd93e3c/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 76 (CV master) -> 86 (CV tailored)** | jika item pending dikonfirmasi: 90
 - Rincian: keywords 36.5, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Manager"

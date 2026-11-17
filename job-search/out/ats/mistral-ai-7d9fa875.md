@@ -1,6 +1,6 @@
 # ATS: mistral.ai | Data Center Long-Term Capacity Partnerships
 - Link: https://jobs.ashbyhq.com/mistral.ai/653a2082-3acc-4ec0-8ee0-bb387f1a21f4
-- CV: out/cv/Ryan-Hadi-CV-Mistral-Ai-7d9fa875.pdf (1 halaman)
+- CV: out/cv/Mistral-Ai-7d9fa875/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 69 (CV master) -> 97 (CV tailored)** | jika item pending dikonfirmasi: 97
 - Rincian: keywords 46.9, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Data Center Long"

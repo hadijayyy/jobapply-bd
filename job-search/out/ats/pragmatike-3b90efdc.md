@@ -1,6 +1,6 @@
 # ATS: pragmatike | Outbound Account Executive (Singapore Time)
 - Link: https://jobs.ashbyhq.com/pragmatike/42adcdc4-0ae6-439d-b08f-d58ba48d18ea
-- CV: out/cv/Ryan-Hadi-CV-Pragmatike-3b90efdc.pdf (1 halaman)
+- CV: out/cv/Pragmatike-3b90efdc/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 76 (CV master) -> 94 (CV tailored)** | jika item pending dikonfirmasi: 98
 - Rincian: keywords 44.2, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Outbound Account Executive"

@@ -1,6 +1,6 @@
 # ATS: Stripe | Sales Development Representative, Southeast Asia
 - Link: https://stripe.com/jobs/search?gh_jid=8378507
-- CV: out/cv/Ryan-Hadi-CV-Stripe-8793e4e3.pdf (1 halaman)
+- CV: out/cv/Stripe-8793e4e3/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 75 (CV master) -> 91 (CV tailored)** | jika item pending dikonfirmasi: 91
 - Rincian: keywords 43.8, title 15, soft 7.1, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Sales Development Representative"

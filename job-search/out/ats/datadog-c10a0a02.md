@@ -1,6 +1,6 @@
 # ATS: Datadog | Commercial Account Executive (Singapore & Philippines Market)
 - Link: https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556
-- CV: out/cv/Ryan-Hadi-CV-Datadog-c10a0a02.pdf (1 halaman)
+- CV: out/cv/Datadog-c10a0a02/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 70 (CV master) -> 97 (CV tailored)** | jika item pending dikonfirmasi: 97
 - Rincian: keywords 47.2, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

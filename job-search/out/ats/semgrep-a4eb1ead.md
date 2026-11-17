@@ -1,6 +1,6 @@
 # ATS: semgrep | Regional Partner Manager, APAC
 - Link: https://jobs.ashbyhq.com/semgrep/88e4035e-86e2-4cff-906c-fa56909fc004
-- CV: out/cv/Ryan-Hadi-CV-Semgrep-a4eb1ead.pdf (1 halaman)
+- CV: out/cv/Semgrep-a4eb1ead/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 63 (CV master) -> 88 (CV tailored)** | jika item pending dikonfirmasi: 95
 - Rincian: keywords 37.9, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Partner Manager"

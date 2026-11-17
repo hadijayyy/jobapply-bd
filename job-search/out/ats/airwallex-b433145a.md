@@ -1,6 +1,6 @@
 # ATS: airwallex | Sales Development Representative, Mid-Market
 - Link: https://jobs.ashbyhq.com/airwallex/0b58bb77-43ca-4d1e-b638-eb400a8fc914
-- CV: out/cv/Ryan-Hadi-CV-Airwallex-b433145a.pdf (1 halaman)
+- CV: out/cv/Airwallex-b433145a/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 70 (CV master) -> 94 (CV tailored)** | jika item pending dikonfirmasi: 94
 - Rincian: keywords 45.5, title 15, soft 8.6, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Sales Development Representative"

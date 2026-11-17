@@ -1,6 +1,6 @@
 # ATS: Datadog | Mid Market Account Executive
 - Link: https://careers.datadoghq.com/detail/8311586/?gh_jid=8311586
-- CV: out/cv/Ryan-Hadi-CV-Datadog-63e2252b.pdf (1 halaman)
+- CV: out/cv/Datadog-63e2252b/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 68 (CV master) -> 94 (CV tailored)** | jika item pending dikonfirmasi: 97
 - Rincian: keywords 43.8, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"

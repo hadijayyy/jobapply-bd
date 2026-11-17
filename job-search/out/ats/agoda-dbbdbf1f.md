@@ -1,6 +1,6 @@
 # ATS: Agoda | Strategic Account Manager
 - Link: https://job-boards.greenhouse.io/agoda/jobs/8345388
-- CV: out/cv/Ryan-Hadi-CV-Agoda-dbbdbf1f.pdf (1 halaman)
+- CV: out/cv/Agoda-dbbdbf1f/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 79 (CV master) -> 89 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 38.9, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Manager"

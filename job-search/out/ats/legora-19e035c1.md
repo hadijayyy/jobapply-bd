@@ -1,6 +1,6 @@
 # ATS: legora | Account Executive, SMB
 - Link: https://jobs.ashbyhq.com/legora/f9aed948-6b48-4d0f-b1b8-5cab8c952f22
-- CV: out/cv/Ryan-Hadi-CV-Legora-19e035c1.pdf (1 halaman)
+- CV: out/cv/Legora-19e035c1/Ryan Hadi_CV_Business Development.pdf (1 halaman)
 - **Skor ATS: 66 (CV master) -> 88 (CV tailored)** | jika item pending dikonfirmasi: 93
 - Rincian: keywords 39.5, title 15, soft 8.3, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"
