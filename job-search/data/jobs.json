@@ -16076,7 +16076,8 @@
    "years_required": 5
   },
   "bca584c2": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 90,
     "before": 74,
@@ -16128,6 +16129,11 @@
      "date": "2026-11-16",
      "note": "auto-submit gagal: needs_code ",
      "status": "ready"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "bca584c2",
@@ -16148,7 +16154,7 @@
    },
    "source": "GH:gitlab",
    "sponsorship_mentioned": false,
-   "status": "ready",
+   "status": "applied",
    "tier": "A",
    "title": "Strategic Account Executive - Singapore",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887399002",
@@ -21458,5 +21464,5 @@
    "years_required": null
   }
  },
- "updated": "2026-11-16"
+ "updated": "2026-11-17"
 }
