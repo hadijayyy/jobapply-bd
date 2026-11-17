@@ -21061,7 +21061,8 @@
    "years_required": 1
   },
   "f9a5346e": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 84,
     "before": 78,
@@ -21095,6 +21096,11 @@
      "date": "2026-11-16",
      "note": "auto: ATS API aktif + JD terbaca",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "f9a5346e",
@@ -21115,7 +21121,7 @@
    },
    "source": "GH:braze",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Account Manager, SMB",
    "url": "https://job-boards.greenhouse.io/braze/jobs/8384453",
