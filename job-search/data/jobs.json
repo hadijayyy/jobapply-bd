@@ -28651,7 +28651,8 @@
    "years_required": 10
   },
   "f3ce4d02": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 81,
     "before": 61,
@@ -28695,6 +28696,11 @@
      "date": "2026-11-17",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "f3ce4d02",
@@ -28714,7 +28720,7 @@
    },
    "source": "GH:stripe",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Account Executive, Commercial & SMB (India)",
    "url": "https://stripe.com/jobs/search?gh_jid=8352489",
