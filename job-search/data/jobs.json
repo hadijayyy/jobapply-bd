@@ -12461,7 +12461,8 @@
    "years_required": null
   },
   "6d9ae7d6": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 93,
     "before": 72,
@@ -12505,6 +12506,11 @@
      "date": "2026-11-17",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "6d9ae7d6",
@@ -12524,7 +12530,7 @@
    },
    "source": "GH:gitlab",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940804002",
