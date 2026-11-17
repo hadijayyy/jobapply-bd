@@ -3038,7 +3038,8 @@
    "years_required": null
   },
   "23d4761a": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 98,
     "before": 81,
@@ -3077,6 +3078,11 @@
      "date": "2026-11-16",
      "note": "auto-submit gagal: needs_code ",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "23d4761a",
@@ -3097,7 +3103,7 @@
    },
    "source": "GH:emplifi",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Business Development Representative - APAC",
    "url": "https://job-boards.greenhouse.io/emplifi/jobs/8204710003",
