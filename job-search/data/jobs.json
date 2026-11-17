@@ -4873,7 +4873,8 @@
    "years_required": 7
   },
   "38a70cd9": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 89,
     "before": 72,
@@ -4907,6 +4908,11 @@
      "date": "2026-11-16",
      "note": "auto: ATS API aktif + JD terbaca",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "38a70cd9",
@@ -4927,7 +4933,7 @@
    },
    "source": "GH:xendit",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Growth Account Manager",
    "url": "https://job-boards.greenhouse.io/xendit/jobs/8025918003",
