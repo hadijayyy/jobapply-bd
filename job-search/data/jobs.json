@@ -3662,6 +3662,11 @@
      "date": "2026-11-16",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit gagal: validation ['School is required.', 'Degree is required.']",
+     "status": "verified"
     }
    ],
    "id": "2c8fbebb",
