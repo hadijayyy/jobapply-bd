@@ -20597,7 +20597,8 @@
    "years_required": 3
   },
   "b27c03ff": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 94,
     "before": 70,
@@ -20632,6 +20633,11 @@
      "date": "2026-11-17",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "b27c03ff",
@@ -20651,7 +20657,7 @@
    },
    "source": "GH:databricks",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Strategic Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929492002",
