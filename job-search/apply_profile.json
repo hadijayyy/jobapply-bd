@@ -41,5 +41,13 @@
  "opt_in_job_alert_emails": false,
  "over_18": true,
  "demographics": "decline",
- "_confirmed": "Nilai di bawah dikonfirmasi Ryan lewat chat, 16 Nov 2026."
+ "_confirmed": "Nilai di bawah dikonfirmasi Ryan lewat chat, 16 Nov 2026.",
+ "education": {
+  "school": "Universitas Pelita Harapan",
+  "degree": "S.T. Teknik Sipil (Bachelor of Engineering, Civil)",
+  "year": 2021,
+  "school_option": "Other",
+  "degree_option": "Bachelor's Degree",
+  "_note": "Greenhouse school list has no UPH, so the form gets 'Other'."
+ }
 }

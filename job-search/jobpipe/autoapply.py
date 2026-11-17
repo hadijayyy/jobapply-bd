@@ -101,6 +101,14 @@ def plan(job):
                     val = text
                 fields.append({"name": name, "kind": "textarea" if typ == "textarea" else "text",
                                "label": answers.norm(label)[:200], "value": val})
+    # Education block: Greenhouse renders it only as school/degree comboboxes; fill it only when the job requires it.
+    if form.get("education") == "education_required":
+        ed = P.get("education") or {}
+        if ed.get("school_option") and ed.get("degree_option"):
+            fields.append({"name": "school--0", "kind": "select", "label": "School", "value": [ed["school_option"]], "value_ids": []})
+            fields.append({"name": "degree--0", "kind": "select", "label": "Degree", "value": [ed["degree_option"]], "value_ids": []})
+        else:
+            block("Education (school, degree)", "education", "pendidikan wajib, profil belum punya school_option/degree_option")
     # Demographic survey: only answered when the form makes it mandatory, and then always "decline to answer".
     demo = form.get("demographic_questions") or {}
     answered_demo = False
