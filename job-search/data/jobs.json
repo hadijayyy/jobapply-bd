@@ -19114,7 +19114,8 @@
    "years_required": 5
   },
   "e719ca76": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 91,
     "before": 73,
@@ -19148,6 +19149,11 @@
      "date": "2026-11-16",
      "note": "auto: ATS API aktif + JD terbaca",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "e719ca76",
@@ -19168,7 +19174,7 @@
    },
    "source": "GH:huntress",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Channel Account Manager II",
    "url": "https://job-boards.greenhouse.io/huntress/jobs/8196002003",
