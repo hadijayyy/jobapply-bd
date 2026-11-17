@@ -644,7 +644,8 @@
    "years_required": 5
   },
   "07b4d45a": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 80,
     "before": 64,
@@ -678,6 +679,11 @@
      "date": "2026-11-16",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "07b4d45a",
@@ -698,7 +704,7 @@
    },
    "source": "GH:klaviyo",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Commercial Account Executive-ANZ",
    "url": "https://www.klaviyo.com/careers/jobs/8178371003?gh_jid=8178371003",
