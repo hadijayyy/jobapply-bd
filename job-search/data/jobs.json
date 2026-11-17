@@ -20484,7 +20484,8 @@
    "years_required": 2
   },
   "f4f1fe7e": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 80,
     "before": 64,
@@ -20518,6 +20519,11 @@
      "date": "2026-11-16",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "f4f1fe7e",
@@ -20538,7 +20544,7 @@
    },
    "source": "GH:klaviyo",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Partner Account Manager, Commercial",
    "url": "https://www.klaviyo.com/careers/jobs/8009594003?gh_jid=8009594003",
