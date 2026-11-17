@@ -5,7 +5,7 @@
   "cron": "CRON_TZ=Asia/Jakarta 7 7 * * 1-5",
   "note": "Sekali sehari Senin-Jumat pagi WIB"
  },
- "freshness_days": 30,
+ "freshness_days": 14,
  "followup_days": [
   5,
   10
@@ -25,7 +25,7 @@
   "alliances"
  ],
  "title_include": "business development|partnership|partner manager|partner development|channel|alliance|account executive|enterprise sales|enterprise account|sales manager|sales director|head of (sales|bd|business|partner)|growth manager|strategic account|solutions sales|\\bbdm\\b|\\bbd manager|country manager|market development|partner relation|partner sales|partner account|ecosystem|commercial manager|key account|strategic partnership|account manager|merchant (acquisition|partnership)|business manager|sales lead|partnerships? (lead|specialist|associate)|\\bsdr\\b|\\bbdr\\b|sales development|business development (representative|associate|executive|specialist)|account development|sales (executive|associate|representative|specialist)|inside sales|partnerships? (manager|executive)",
- "title_exclude": "intern\\b|internship|assistant|engineer|developer|designer|analyst|recruit|accountant|support|customer success|marketing manager|payroll|legal|commission[- ]only|freelance|\\bsenior\\b|\\bsr\\b\\.?|\\blead\\b|principal|\\bstaff\\b|head of|director|\\bvp\\b|vice president|chief|\\bgm\\b|general manager|strategic account|major account|global account|named account|mandarin|japanese|korean|german|french|spanish|italian|portuguese|dutch|arabic|thai|vietnamese|cantonese|hebrew|turkish|polish|nordic|swedish|\\bdach\\b|japan|korea|china|taiwan|france|germany|spain|italy|brazil|latam|iberia|benelux|israel|turkey|poland|vietnam|thailand|federal|public sector|\\bsled\\b|government|clearance|architect|graduate|strategic|^manager,|procurement|technical account|enterprise",
+ "title_exclude": "intern\\b|internship|assistant|engineer|developer|designer|analyst|recruit|accountant|support|customer success|marketing manager|payroll|legal|commission[- ]only|freelance|principal|\\bstaff\\b|head of|director|\\bvp\\b|vice president|chief|\\bgm\\b|general manager|global account|mandarin|japanese|korean|german|french|spanish|italian|portuguese|dutch|arabic|thai|vietnamese|cantonese|hebrew|turkish|polish|nordic|swedish|finnish|danish|norwegian|czech|hungarian|greek|romanian|\\bdach\\b|japan|korea|china|taiwan|france|germany|spain|italy|brazil|latam|iberia|benelux|israel|turkey|poland|vietnam|thailand|federal|public sector|\\bsled\\b|government|clearance|architect|graduate|^manager,|procurement|technical account",
  "location_ok": ".",
  "location_bad": "(?!)",
  "location_good": ".",
@@ -46,9 +46,9 @@
    "pattern": "(experience|background|track record)[^.\\n]{0,40}(crypto|web3|blockchain|defi)(?![^.\\n]{0,40}(preferred|plus|nice|bonus|advantage))"
   },
   {
-   "id": "years7",
-   "label": "Syarat 7+ tahun",
-   "pattern": "\\b(?:7|8|9|10|12|15)\\s*\\+?\\s*(?:-\\s*\\d+\\s*)?(?:years|yrs)[^.\\n]{0,40}(experience|sales|business development|enterprise)"
+   "id": "years8",
+   "label": "Syarat 8+ tahun",
+   "pattern": "\\b(?:8|9|10|12|15)\\s*\\+?\\s*(?:-\\s*\\d+\\s*)?(?:years|yrs)[^.\\n]{0,40}(experience|sales|business development|enterprise)"
   },
   {
    "id": "commission",
@@ -79,7 +79,7 @@
   {
    "id": "no_sponsor",
    "label": "JD menyatakan tidak ada sponsor visa (untuk lokasi di luar Indonesia)",
-   "pattern": "(not|unable to|cannot|can't|won't|does not|do not)[^.\\n]{0,30}(offer|provide|support)?[^.\\n]{0,20}(visa )?sponsor|without (the need for )?(visa )?sponsorship|no (visa )?sponsorship"
+   "pattern": "(not|unable to|cannot|can't|won't|does not|do not)[^.\\n]{0,30}(offer|provide|support)?[^.\\n]{0,20}(visa )?sponsor|without (the need for )?(visa )?sponsorship|no (visa )?sponsorship|sponsorship (is |will )?(not|n't) (be )?(available|provided|offered)|relocation (support |assistance )?(is |will )?not (be )?(available|provided|offered)|(need|must) (to )?have (an )?existing (right|authori[sz]ation) to work"
   }
  ],
  "red_flags": [
@@ -382,6 +382,8 @@
  },
  "sources_enabled": [
   "greenhouse",
+  "ashby",
+  "lever",
   "hiringcafe_import"
  ],
  "_sources_note": "Pilihan: greenhouse, lever, ashby, smartrecruiters, remotive, himalayas, remoteok, wwr, hiringcafe_import. Hiring Cafe diblokir Cloudflare untuk akses otomatis; paste link-nya ke data/hiringcafe_import.txt.",
@@ -402,9 +404,10 @@
   "timeout_s": 240,
   "code_wait_s": 0
  },
- "region_apac": "apac|asean|southeast asia|\\bsea\\b|\\basia\\b|singapore|malaysia|kuala lumpur|thailand|bangkok|vietnam|philippines|manila|hong kong|australia|sydney|melbourne|\\banz\\b|new zealand|\\bindia\\b|bangalore|bengaluru|mumbai|indonesia|jakarta",
+ "region_apac": "\\bapac\\b|asean|southeast asia|\\bsea\\b|\\basia\\b|singapore|malaysia|kuala lumpur|thailand|bangkok|vietnam|philippines|manila|hong kong|australia|sydney|melbourne|\\banz\\b|new zealand|\\bindia\\b|bangalore|bengaluru|mumbai|indonesia|jakarta",
  "region_other": "united states|\\busa?\\b|u\\.s\\.|americas?|\\bamer\\b|north america|canada|toronto|emea|europe|\\beu\\b|\\buk\\b|\\buki\\b|united kingdom|london|ireland|dublin|germany|berlin|munich|france|paris|netherlands|amsterdam|belux|benelux|nordics?|spain|madrid|barcelona|italy|portugal|lisbon|poland|sweden|switzerland|austria|israel|tel aviv|turkey|uae|dubai|saudi|middle east|\\bmea\\b|\\bmena\\b|africa|nigeria|lagos|kenya|egypt|colombia|bogot|mexico|monterrey|brazil|s[aã]o paulo|argentina|chile|latam|japan|tokyo|korea|seoul|china|taiwan|new york|san francisco|seattle|austin|chicago|boston|denver|atlanta|dallas|texas|california|florida|georgia|tennessee|illinois|ohio|virginia|washington|colorado|arizona|carolina|\\b(east|west|central|midwest|northeast|northwest|southwest|tola|pnw|norcal|socal|mid-?atlantic)\\b|southeast(?! asia)",
  "outside_apac_requires_sponsorship_mention": true,
  "_region_note": "Lokasi: global = remote tanpa negara; apac; other = negara/wilayah di luar APAC (termasuk 'Remote - US'). 'other' hanya lolos kalau JD menyebut sponsor visa/relokasi. Ubah outside_apac_requires_sponsorship_mention ke false untuk melamar semuanya.",
- "region_us_state": "(Remote|,)\\s*-?\\s*[A-Z]{2}\\b"
+ "region_us_state": "(Remote|,)\\s*-?\\s*[A-Z]{2}\\b",
+ "_seniority_note": "Senior/Lead/Strategic/Enterprise titles allowed since 2026-11-17 (Ryan's choice). Head/Director/VP still excluded; JDs asking 8+ years are blocked."
 }

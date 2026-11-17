@@ -58,6 +58,20 @@ def family(j):
     return "enterprise"
 
 
+NEG = re.compile(r"\b(not|no|unable|cannot|can't|won't|only)\b|existing right to work", re.I)
+
+
+def sponsor_offered(text):
+    """True if some sentence offers sponsorship/relocation and that same sentence carries no negation
+    ("Visa sponsorship is not available", "we can sponsor visas to Germany only", ...)."""
+    for m in SPONSOR.finditer(text):
+        a = max(text.rfind(".", 0, m.start()), text.rfind("\n", 0, m.start())) + 1
+        b = min([i for i in (text.find(".", m.end()), text.find("\n", m.end())) if i != -1] or [len(text)])
+        if not NEG.search(text[a:b]):
+            return True
+    return False
+
+
 def region(j):
     """global = remote with no country attached | apac | other (a country or sales territory outside APAC)."""
     loc = j["location"] + " | " + j["title"]
@@ -79,7 +93,7 @@ def score(j):
     age = (date.today() - date.fromisoformat(j["posted"])).days if j["posted"] else None
     parts["fresh"] = 5 if age is None else 15 if age <= 3 else 12 if age <= 7 else 8 if age <= 14 else 4
     yrs = years_required(text)
-    parts["seniority"] = 10 if yrs is None else 15 if yrs <= 5 else 8 if yrs == 6 else 0
+    parts["seniority"] = 10 if yrs is None else 15 if yrs <= 5 else 10 if yrs == 6 else 6 if yrs == 7 else 0
     parts["industry"] = 10 if INDUSTRY.search(text) else 4
     parts["comp"] = 5 if j.get("comp") else 0
     return sum(parts.values()), parts, yrs
@@ -89,9 +103,9 @@ def evaluate(j):
     """Fills score, tier, blockers, flags on the job dict. Returns True if a red flag means auto-reject."""
     text = j["title"] + "\n" + j["location"] + "\n" + j.get("desc", "")
     sc, parts, yrs = score(j)
-    sponsor = bool(SPONSOR.search(text))
+    sponsor = sponsor_offered(text)
     blockers = [label for bid, label, rx in HARD if rx.search(text) and not (sponsor and bid in WAIVABLE)]
-    if yrs and yrs >= 7 and not any("7+" in b for b in blockers):
+    if yrs and yrs >= 8 and not any("8+" in b for b in blockers):
         blockers.append(f"Syarat {yrs}+ tahun")
     loc = j["location"] + " | " + j["title"]
     home = re.search(r"indonesia|jakarta", j["location"], re.I) or (
