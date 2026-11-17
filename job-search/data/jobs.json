@@ -20226,7 +20226,8 @@
    "years_required": null
   },
   "b01e3485": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 84,
     "before": 62,
@@ -20270,6 +20271,11 @@
      "date": "2026-11-17",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "b01e3485",
@@ -20289,7 +20295,7 @@
    },
    "source": "GH:stripe",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Account Executive, Enterprise (Southeast Asia)",
    "url": "https://stripe.com/jobs/search?gh_jid=8348731",
