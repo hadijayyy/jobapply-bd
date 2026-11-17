@@ -12500,6 +12500,11 @@
      "date": "2026-11-17",
      "note": "rescore: lolos aturan baru",
      "status": "new"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
     }
    ],
    "id": "6d9ae7d6",
@@ -12519,7 +12524,7 @@
    },
    "source": "GH:gitlab",
    "sponsorship_mentioned": false,
-   "status": "new",
+   "status": "verified",
    "tier": "B",
    "title": "Strategic Enterprise Account Executive (Sydney or Melbourne)",
    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940804002",
@@ -14602,6 +14607,12 @@
   },
   "7f3d928d": {
    "applied": null,
+   "apply_blocked": [
+    "AI Policy for Application",
+    "Why Anthropic?",
+    "Please read the arbitration agreement below",
+    "Agreement to Arbitrate"
+   ],
    "ats": {
     "after": 100,
     "before": 81,
@@ -14640,6 +14651,11 @@
      "date": "2026-11-17",
      "note": "rescore: lolos aturan baru",
      "status": "new"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
     }
    ],
    "id": "7f3d928d",
@@ -14659,7 +14675,7 @@
    },
    "source": "GH:anthropic",
    "sponsorship_mentioned": true,
-   "status": "new",
+   "status": "verified",
    "tier": "A",
    "title": "Strategic Partner Development, Product Partnerships",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475830008",
@@ -20243,6 +20259,11 @@
      "date": "2026-11-17",
      "note": "rescore: lolos aturan baru",
      "status": "new"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
     }
    ],
    "id": "b01e3485",
@@ -20262,7 +20283,7 @@
    },
    "source": "GH:stripe",
    "sponsorship_mentioned": false,
-   "status": "new",
+   "status": "verified",
    "tier": "B",
    "title": "Account Executive, Enterprise (Southeast Asia)",
    "url": "https://stripe.com/jobs/search?gh_jid=8348731",
@@ -20600,6 +20621,11 @@
      "date": "2026-11-17",
      "note": "discovered",
      "status": "new"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
     }
    ],
    "id": "b27c03ff",
@@ -20619,7 +20645,7 @@
    },
    "source": "GH:databricks",
    "sponsorship_mentioned": false,
-   "status": "new",
+   "status": "verified",
    "tier": "B",
    "title": "Strategic Account Executive",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929492002",
@@ -27508,6 +27534,10 @@
   },
   "ec5674c7": {
    "applied": null,
+   "apply_blocked": [
+    "AI Policy for Application",
+    "Why Anthropic?"
+   ],
    "ats": {
     "after": 79,
     "before": 56,
@@ -27547,6 +27577,11 @@
      "date": "2026-11-17",
      "note": "rescore: lolos aturan baru",
      "status": "new"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
     }
    ],
    "id": "ec5674c7",
@@ -27566,7 +27601,7 @@
    },
    "source": "GH:anthropic",
    "sponsorship_mentioned": true,
-   "status": "new",
+   "status": "verified",
    "tier": "B",
    "title": "Partner Account Manager, ANZ",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475150008",
@@ -28643,6 +28678,11 @@
      "date": "2026-11-17",
      "note": "rescore: lolos aturan baru",
      "status": "new"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
     }
    ],
    "id": "f3ce4d02",
@@ -28662,7 +28702,7 @@
    },
    "source": "GH:stripe",
    "sponsorship_mentioned": false,
-   "status": "new",
+   "status": "verified",
    "tier": "B",
    "title": "Account Executive, Commercial & SMB (India)",
    "url": "https://stripe.com/jobs/search?gh_jid=8352489",

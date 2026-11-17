@@ -1,0 +1,14 @@
+{
+ "5096e9b8fb17": {
+  "answer": "None of the above",
+  "label": "Please confirm whether any of the below applies to you. Select all that apply. Note: This information will only be used to ensure compliance with U.S. sanctions and export controls.",
+  "scope": "semua lowongan",
+  "source": "ai"
+ },
+ "df18cd9e6e71": {
+  "answer": "Not applicable (i.e., I selected “none of the above” for the prior question)",
+  "label": "If you selected a response to the prior question other than “none of the above,” please confirm whether any of the following also applies to you. Select all that apply.",
+  "scope": "semua lowongan",
+  "source": "ai"
+ }
+}
