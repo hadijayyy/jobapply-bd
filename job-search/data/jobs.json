@@ -3743,7 +3743,8 @@
    "years_required": null
   },
   "2eb9ed68": {
-   "applied": null,
+   "applied": "2026-11-17",
+   "apply_via": "auto",
    "ats": {
     "after": 84,
     "before": 66,
@@ -3778,6 +3779,11 @@
      "date": "2026-11-16",
      "note": "auto: ATS API aktif + JD terbaca",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-17",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "2eb9ed68",
@@ -3798,7 +3804,7 @@
    },
    "source": "GH:dialpad",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Client Account Executive",
    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8921968002",
