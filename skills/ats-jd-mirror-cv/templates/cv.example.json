@@ -1,0 +1,85 @@
+{
+  "name": "Ryan Hadi",
+  "headline": "Business Development Manager | B2B SaaS Sales, Indonesia",
+  "contact": "Jakarta, Indonesia | +62 XXX | your.email@example.com | linkedin.com/in/you",
+  "summary": "SaaS closer with 5+ years in quota-carrying B2B roles and a native Bahasa speaker. Closed eight new-logo enterprise deals worth IDR 10B+ (~USD 550K) TCV at 115%+ of 2025 quota, qualifying every deal with MEDDICC and selling on value and ROI to buying committees from department heads to C-suite. Uses AI tools as a core part of the sales motion. Ready to sell into hotels, chains, and hospitality groups.",
+  "experience": [
+    {
+      "company": "Sinar Mas Land, OneSmartServices",
+      "location": "Jakarta, Indonesia",
+      "title": "Business Development Manager, B2B Partnerships",
+      "dates": "March 2023 – Present",
+      "about": "Sinar Mas Land's enterprise technology unit (PT Samakta Mitra) selling B2B SaaS, cloud, managed services, and smart city solutions to 110+ external corporate clients.",
+      "bullets": [
+        "Closed eight new-logo enterprise deals (March 2023 to present) totaling IDR 10B+ (~USD 550K) TCV, average deal size IDR 1.25B, selling SaaS, smart CCTV, and network solutions to technology and AI companies and renewable energy operators; 100%+ average quota attainment, 115%+ in 2025.",
+        "Ran full-cycle new business across SMB and enterprise accounts: worked inbound and outbound leads against a territory and target-account plan, ran tailored demos for C-level, VP, and department-head buyers, set deal pricing and packages, and kept forecasts and pipeline reporting accurate in CRM.",
+        "Sold SaaS on recurring subscription contracts, with recurring fees worth 25%+ of contract value per year on top of implementation; qualified every opportunity with MEDDICC.",
+        "Built LLM-based sales workflows (ChatGPT, Claude) that tripled account research volume, doubled discovery calls booked, and cut proposal turnaround from multiple days to one day, saving 10+ hours a week.",
+        "Shortened sales cycle (proposal to signature) 20%, from 60 to 48 days, by running deal-desk style parallel reviews with Legal, Finance, and Operations.",
+        "Grew partner-sourced pipeline 25% (IDR 2B to IDR 2.5B, ~USD 140K) in 12 months, including partner referrals, by running QBRs, partner enablement and training, and joint go-to-market plans with 20 active channel partners; recruited and onboarded four new partners."
+      ]
+    },
+    {
+      "company": "Siloam Hospitals Group",
+      "location": "Jakarta, Indonesia",
+      "title": "Business Development Executive",
+      "dates": "April 2021 – March 2023",
+      "about": "Indonesian private hospital network; B2B role selling corporate healthcare programs to employers.",
+      "bullets": [
+        "Hit 120%+ of new-business quota, contributing to 12 new logos and IDR 750M in first-year revenue.",
+        "Grew a 20-account portfolio 15% YoY (IDR 1B to IDR 1.15B, ~115% net revenue retention) through whitespace mapping, upsell, and cross-sell, co-managed with a senior AM.",
+        "Managed a recurring corporate-contract book covering 1,500 employees across 12 clients: renewed 10 of 12 (83% logo retention) and generated IDR 150M in expansion revenue.",
+        "Built outbound pipeline in HubSpot CRM targeting HR and procurement buyers, generating 20 qualified leads and 10 discovery calls per month."
+      ]
+    }
+  ],
+  "projects": [],
+  "projects_title": "AI & Automation Projects",
+  "leadership": [
+    {
+      "org": "Frontliner Campus Community",
+      "role": "Head of Events",
+      "dates": "January 2023 – July 2025",
+      "text": "Led four events with 200+ attendees each, coordinating internal teams and external partners."
+    }
+  ],
+  "extra_lines": [],
+  "education": [
+    {
+      "school": "Universitas Pelita Harapan",
+      "location": "Tangerang, Indonesia",
+      "degree": "Bachelor of Engineering (S.T.), Civil Engineering. GPA 3.53/4.00",
+      "year": "2021",
+      "note": "President, Civil Engineering Student Association (HMTS), 2019 – 2020: led 20+ members and managed a ~IDR 100M budget."
+    }
+  ],
+  "skills": [
+    [
+      "Lighthouse Fit",
+      "MEDDICC qualification, value-based ROI selling, AI-assisted selling, ICP targeting, outbound sequences, enterprise and high-value accounts, buying committees, C-suite engagement, expansion and upgrade, sales forecasting, hospitality groups (target segment), MEDDPICC-aligned qualification, stakeholder management, closing, closing, negotiation, stakeholder management, relationship building, communication, problem-solving, account management, data analysis, revenue targets"
+    ],
+    [
+      "SaaS Sales",
+      "Full-cycle sales, outbound prospecting, discovery, solution selling, multi-threaded deals, new-logo acquisition, land-and-expand, renewals, upsell and cross-sell, pipeline generation and management, quota attainment"
+    ],
+    [
+      "AI & Sales Tech",
+      "LLM workflows (ChatGPT, Claude), prompt engineering, AI sales automation, API integrations, HubSpot CRM, Power BI, Advanced Excel"
+    ],
+    [
+      "Sales Methodology",
+      "MEDDICC (economic buyer, decision process, champion, pain and ROI metrics), solution selling"
+    ],
+    [
+      "Solutions",
+      "B2B SaaS, enterprise cloud (private, public, hybrid), managed services, smart city and IoT (smart CCTV, network infrastructure)"
+    ]
+  ],
+  "languages": "Bahasa Indonesia (native), English (professional working proficiency)",
+  "drop_if_overflow": [
+    "projects",
+    "skills:Revenue Metrics",
+    "skills:Channel & Partnerships"
+  ],
+  "output": "Ryan-Hadi-CV-Lighthouse.pdf"
+}
