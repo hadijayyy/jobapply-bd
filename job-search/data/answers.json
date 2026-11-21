@@ -1,8 +1,38 @@
 {
+ "01792384cd4f": {
+  "answer": "5+ years of B2B sales and channel partnerships. Since Mar 2023 I sell enterprise IT (cloud, managed services, network and smart CCTV infrastructure) at Sinar Mas Land (OneSmartServices) in Jakarta: IDR 10B+ closed across eight deals and 115%+ of 2025 quota. Apr 2021 to Mar 2023 I sold corporate healthcare programs at Siloam Hospitals Group with my own outbound pipeline in HubSpot. Target personas: IT heads, procurement, finance and leadership at enterprises; HR and procurement at corporate clients.",
+  "label": "Tell us about your experience in sales (years, industries, target personas).",
+  "scope": "Chainguard | Business Development Representative, Singapore",
+  "source": "ai"
+ },
+ "0283bd609572": {
+  "answer": "Indonesia",
+  "label": "In what countries do you have the unrestricted right to work?",
+  "scope": "semua lowongan",
+  "source": "claude: dari profil (WNI)"
+ },
+ "0739dbd73416": {
+  "answer": "Decline to Self Identify",
+  "label": "Are you of Aboriginal and/or Torres Strait Islander origin?",
+  "scope": "HubSpot | Outbound Business Development Representative - ANZ",
+  "source": "ai"
+ },
  "3c3a12940489": {
   "answer": "Yes",
   "label": "Are you comfortable working 5 days from Jakarta office?",
   "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "3f7c60469e2e": {
+  "answer": "I sell enterprise IT today (IDR 10B+ closed, 115%+ of 2025 quota) and ran my own outbound pipeline in HubSpot at Siloam. I want recurring revenue and a repeatable, measurable outbound motion, which SaaS sales gives.",
+  "label": "Why are you interested in a career in SaaS sales?",
+  "scope": "HubSpot | Outbound Business Development Representative - ANZ",
+  "source": "claude: dari profil"
+ },
+ "427648607a06": {
+  "answer": "Decline to Self Identify",
+  "label": "Voluntary Equal Opportunity Employment",
+  "scope": "HubSpot | Outbound Business Development Representative - ANZ",
   "source": "ai"
  },
  "43600bd626ad": {
@@ -23,11 +53,29 @@
   "scope": "semua lowongan",
   "source": "ai"
  },
+ "512d357130bb": {
+  "answer": "Yes",
+  "label": "Will you, now or in the future, require the support of HubSpot to maintain working rights in Australia?",
+  "scope": "HubSpot | Outbound Business Development Representative - ANZ",
+  "source": "ai"
+ },
  "51c752f3d382": {
   "answer": "No",
   "label": "Will you require Elastic's sponsorship to continue or extend your work authorization status?",
   "scope": "Elastic | Mid Market Account Executive - Indonesia",
   "source": "ai"
+ },
+ "54c90d766232": {
+  "answer": "No",
+  "label": "This role is based in Singapore and focuses primarily on Australia and New Zealand. Have you sold or prospected into these markets before",
+  "scope": "Coursera | Account Development Representative",
+  "source": "ai"
+ },
+ "5604db10e6a5": {
+  "answer": "MongoDB Careers Page",
+  "label": "How did you learn about this job?",
+  "scope": "MongoDB | Account Development Representative",
+  "source": "claude"
  },
  "580b21cfd760": {
   "answer": "None of the above",
@@ -52,6 +100,18 @@
   "label": "Which markets or client geographies have you worked with previously, and in what language(s) did you operate?",
   "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
   "source": "claude: dari profil"
+ },
+ "7c30612df197": {
+  "answer": "B2B technology, yes: Microsoft Azure cloud and managed services, network and infrastructure solutions, sold directly and through 20 MSP and reseller partners alongside international technology vendors. I have not sold open source or developer tools yet. I run consultative 3 to 6 month cycles with technical and business stakeholders, and I want to bring that to developer and security buyers.",
+  "label": "Tell us about your industry experience with B2B software, Open Source software, and/or the developer product space (if applicable).",
+  "scope": "Chainguard | Business Development Representative, Singapore",
+  "source": "ai"
+ },
+ "7eaf5feb7c4d": {
+  "answer": "Yes",
+  "label": "Will you require Elastic's sponsorship to continue or extend your work authorization status?",
+  "scope": "Elastic | Sales Development Representative (Public Sector)",
+  "source": "ai"
  },
  "7eb1ee592dd4": {
   "answer": "Yes",
@@ -83,10 +143,22 @@
   "scope": "Qualtrics | Enterprise Account Services Associate",
   "source": "ai"
  },
+ "9a282d26d6df": {
+  "answer": "Yes",
+  "label": "Do you have experience in B2B sales, business development, or sales development, including at least 1 year of hands-on outbound prospecting?",
+  "scope": "Coursera | Account Development Representative",
+  "source": "ai"
+ },
  "a0dd6c467cca": {
   "answer": "No. My background is B2B enterprise IT sales and channel partnerships (MSPs, resellers, technology vendors), not digital ad sales.",
   "label": "Do you have Digital ad sales or agency partnership background?",
   "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "aec0731a4df5": {
+  "answer": "Email",
+  "label": "How should we communicate with you?",
+  "scope": "Elastic | Sales Development Representative (Public Sector)",
   "source": "ai"
  },
  "b3c16d0a283f": {
@@ -99,6 +171,12 @@
   "answer": "5+ years (B2B sales and channel partnerships since Apr 2021)",
   "label": "Total experience?",
   "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "be752da89454": {
+  "answer": "No",
+  "label": "Do you have business development experience working with the Singapore Public Sector?",
+  "scope": "Elastic | Sales Development Representative (Public Sector)",
   "source": "ai"
  },
  "c306864ce61b": {

@@ -1,12 +1,12 @@
 # ATS: temporal | Business Development Representative, APJ
 - Link: https://jobs.ashbyhq.com/temporal/6b0416b1-50f7-45ad-af1b-5e49826bd446
 - CV: out/cv/Temporal-b19801e0/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 74 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
+- **Skor ATS: 61 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Business Development Representative"
 
 ## Keyword audit
-- **Matched:** Excel / analytics, Salesforce, business development, cloud, communication, cross-functional collaboration, leadership, outbound prospecting, self-starter
+- **Matched:** Excel / analytics, Salesforce, business development, cloud, cold calling, communication, cross-functional collaboration, leadership, meeting booking, outbound prospecting, self-starter
 - **Missing tapi benar (harus 0):** -
 - **Pending (Ryan bilang benar, detail belum ada, TIDAK ditulis):** -
 - **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** -

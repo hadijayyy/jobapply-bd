@@ -1,12 +1,12 @@
 # ATS: Insider One | Sales Development Representative - Indonesia
 - Link: https://jobs.lever.co/insiderone/99e0a8f5-85b1-4fb7-a8b6-a75158c11080
 - CV: out/cv/Insider-One-206dc926/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 81 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
+- **Skor ATS: 68 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
 - Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Sales Development Representative"
 
 ## Keyword audit
-- **Matched:** AI tools, B2B sales, Bahasa Indonesia, English, Excel / analytics, Indonesia market, SaaS, channel partnerships, communication, leadership, outbound prospecting, problem solving, quota attainment
+- **Matched:** AI tools, B2B sales, Bahasa Indonesia, English, Excel / analytics, Indonesia market, SaaS, account research, channel partnerships, cold calling, communication, inbound leads, leadership, objection handling, outbound prospecting, problem solving, quota attainment, social selling
 - **Missing tapi benar (harus 0):** -
 - **Pending (Ryan bilang benar, detail belum ada, TIDAK ditulis):** -
 - **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** SaaS

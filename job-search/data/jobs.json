@@ -392,6 +392,74 @@
    "workplace": "",
    "years_required": 3
   },
+  "019e5a81": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 96,
+    "before": 55,
+    "if_pending_confirmed": 96,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 47.6,
+     "soft": 8.9,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Elastic",
+   "cv": "out/cv/Elastic-019e5a81/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.\n What is The Role: \n Are you ready to accelerate your sales career at&nbsp; Elastic, the Search AI company ?\n As a Sales Development Representative (SDR) at Elastic, you'll play a key role in driving our continued growth by engaging prospective customers, understanding their business challenges, and creating high-quality opportunities that fuel our sales pipeline. Working closely with Account Executives and Marketing, you'll identify the right prospects, spark meaningful conversations, and help organizations discover how Elastic's platform can solve their most critical business challenges.\n We've built a collaborative workspace for Singapore, where teamwork, continuous learning, and career development are at the heart of everything we do. We believe that drive, curiosity, and coachability are the foundations of long-term success. If you're eager to learn, embrace feedback, and make an impact, we'd love to meet you.\n What You Will Be Doing: \n Partner for Success:&nbsp; Collaborate closely with your Account Executives and Marketing to identify target accounts, execute strategic campaigns, and generate high-quality pipeline across your territory.\n Prospecting: Prospect into strategic Singapore Public Sector accounts through a combination of phone, email, social selling, events, and other outbound channels.\n Create Meaningful Conversations:&nbsp; Engage inbound and outbound prospects through a thoughtful multi-channel approach. Ask great questions, uncover business challenges, and qualify opportunities that create value for both the customer and our sales teams.\n Leverage Technology:&nbsp; Use LinkedIn Sales Navigator, Demandbase, Sumble, AI-powered tools, and other sales technologies to research accounts, identify key decision-makers, personalize your outreach, and maximize your effectiveness.\n Become an Elastic Expert:&nbsp; Develop a strong understanding of the Elastic platform, our AI-powered solutions, and the industries we serve so you can confidently articulate business value and connect customer challenges with the right solutions.\n Learn, Grow, and Own Your Development:&nbsp; Take ownership of your growth by embracing coaching, continuous feedback, and ongoing enablement. You'll work alongside experienced colleagues who are invested in helping you build a successful long-term career at Elastic.\n What You Bring: \n Sales, Sales Development, or customer-facing experience&nbsp;\n Experience selling into or working with the Singapore&nbsp;Public Sector , with an understanding of ministries, defence, healthcare, and government agencies.\n A strong drive to succeed and a genuine desire to build a successful career in sales.\n A highly coachable mindset: you actively seek feedback, embrace challenges, and continuously look for ways to improve.\n Curiosity and a passion for understanding technology, customer challenges, and how businesses grow.\n Excellent communication skills with the ability to engage prospects confidently through phone, email, LinkedIn, and other digital channels.\n Strong organizational skills with the ability to prioriize effectively and manage multiple opportunities.\n AI-First Mindset: You embrace AI as a thought partner, using it to learn faster, work smarter, personalize outreach, and continuously improve.\n Resilience, determination, and the ambition to consistently achieve and exceed your goals.\n A collaborative mindset and the motivation to contribute to a high-performing team where everyone's success matters.\n Additional Information - We Take Care of Our People \n As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.\n We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.\n Competitive pay based on the work you do here and not your previous salary\n Health coverage for you and your family in many locations\n Ability to craft your calendar with flexible locations and schedules for many roles\n Generous number of vacation days each year\n Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service\n Up to 40 hours each year to use toward volunteer projects you love\n Embracing parenthood with minimum of 16 weeks of parental leave\n Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.\n We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email candidate_accessibility@elastic.co . &nbsp;We will reply to your request within 24 business hours of submission.\n Applicants have rights under Federal Employment Laws, view posters linked below: Family and Medical Leave Act (FMLA) Poster; &nbsp; Pay Transparency Nondiscrimination Provision Poster; Employee Polygraph Protection Act (EPPA) Poster and Know Your Rights (Poster) \n Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People's Republic (DNR), The Luhansk People's Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic. \n Please see&nbsp; here &nbsp;for our Privacy Statement.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 87 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "019e5a81",
+   "kit": null,
+   "location": "Singapore",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-08-26",
+   "red_flags": [],
+   "score": 72,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "GH:elastic",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "B",
+   "title": "Sales Development Representative (Public Sector)",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8067085&gh_jid=8067085",
+   "workplace": "",
+   "years_required": null
+  },
   "01a57f2b": {
    "applied": null,
    "blockers": [
@@ -1039,6 +1107,64 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8330815",
    "workplace": "",
    "years_required": 3
+  },
+  "0615adf9": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 70,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Luar APAC / remote terikat negara tanpa sponsor visa di JD"
+   ],
+   "comp": "",
+   "company": "Deepgram",
+   "cv": "out/cv/Deepgram-0615adf9/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Company Overview \n Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, including Twilio, Cloudflare, Sierra, Decagon, Vapi, Cresta, Granola, and Jack in the Box.\n The Deepgram Voice Agent Platform brings together speech-to-text, text-to-speech and speech-to-speech, with voice-native foundation models available through cloud APIs or self-hosted and on-premises deployments. Built for accuracy, low latency and cost efficiency, Deepgram makes high-quality voice experiences practical to build and run at scale. More than 650,000 developers have used Deepgram to process more than 200,000 years of audio. Every day, more of the world’s conversations with AI run on our models.\n Operating Principles \n Deepgram is a research company that productizes as fast as possible. Four Operating Principles shape how we think, decide, and work together:\n Compress before you communicate. You think it through first, then lead with the bottom line.\n Resist entropy. You question what already exists before adding more process or tools.\n Solve the category. You fix recurring problems at the source, not one case at a time.\n Work at the frontier. You go after problems no one has solved yet.\n We look for people who already work this way, and these principles shape how we grow and evaluate our team.\n AI-First by Default \n We build AI that millions of people talk to, and we run the company the same way. AI is how we centralize work here, and is core to how we operate.\n That means more than using the tools. We expect you to:\n Build, not just use. Design your own workflows and agents, and use AI to remove whole categories of work instead of doing the same work faster.\n Own the output. AI can speed up the work. It doesn’t make anyone less accountable for it. You understand, verify, and stand behind everything you share, including what an agent produces for you.\n Spend the time you get back at the frontier. The capacity AI creates goes toward problems no one has solved yet.\n Keep pace. Models and tools change every month, and so will your work. You adopt what’s new quickly and drop what no longer earns its place.\n We judge AI by what it helps you deliver and whether you stand behind the result, not by how often you use it. In interviews, expect to walk us through a workflow you built and where you drew the line between AI and your own judgment.\n Deepgram is looking for an Inbound Sales Development Representative to drive new customers and revenue to our rapidly growing company. You will create sales opportunities for Deepgram as you share our mission with CTOs, VPs of Product, and CEOs. You are a critical component in Deepgram’s Revenue organization and will play a pivotal role in growing our top-line revenue to new heights!\n What You'll Do \n Work with our Partnerships team, Account Executives, and your fellow SDRs to build a strong sales pipeline of new logos, striving to exceed quarterly sales targets\n Work closely with cross-functional teams (especially Sales Ops and Sales Engineers) to ensure sales effectiveness\n Have a depth of understanding regarding customer needs in the ASR space, competition, and Deepgram products to be able to fully articulate our value proposition\n Research companies to find new speech recognition use cases and opportunities in the market\nYou’ll Love This Role If You \n Value having leadership that has tenure and a track record of success\n Thrive working with A Players as cross-functional partners across GTM\n Understand the importance of selling a product that is market validated and can deliver on its technical promise\n Are passionate about what Deepgram is building and how we are changing what is possible with speech\n Are eager to launch your sales career towards enterprise sales\nIt’s Important to Us That You Have \n 1+ year of customer-facing work experience in SaaS\n Prior sales experience selling a technical product\n Dynamic written and verbal communication skills\n Empathy and a unique ability to understand customer needs\n Exceptional at prioritizing complex outreach schedules and managing high-frequency touchpoints \nIt Would Be Great If You Had \n Experience prospecting companies that fit an ideal customer profile and understanding their business\n Consistently overachieved against sales targets in past experiences\n Notice : We're aware of individuals impersonating Deepgram recruiters. All legitimate Deepgram recruiting communication comes from an @ deepgram.com email address. If you've received a message claiming to be Deepgram, please forward it to careers@deepgram.com.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 494 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "0615adf9",
+   "kit": null,
+   "location": "USA - Remote",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2025-07-15",
+   "red_flags": [],
+   "score": 58,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 8,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "Ashby:deepgram",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "C",
+   "title": "Sales Development Representative",
+   "url": "https://jobs.ashbyhq.com/Deepgram/a6c59ee7-4d92-423c-a6e6-99adcd9e6ff3",
+   "workplace": "Remote",
+   "years_required": null
   },
   "062f7701": {
    "applied": null,
@@ -4997,7 +5123,7 @@
    "applied": null,
    "ats": {
     "after": 100,
-    "before": 81,
+    "before": 68,
     "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
@@ -10398,14 +10524,14 @@
   "38e46a0c": {
    "applied": null,
    "ats": {
-    "after": 90,
-    "before": 61,
-    "if_pending_confirmed": 90,
+    "after": 98,
+    "before": 51,
+    "if_pending_confirmed": 98,
     "parts": {
      "education": 5,
      "experience": 10,
      "format": 10.0,
-     "keywords": 40.0,
+     "keywords": 47.8,
      "soft": 10.0,
      "title": 15
     }
@@ -10414,7 +10540,7 @@
    "comp": "",
    "company": "notion",
    "cv": "out/cv/Notion-38e46a0c/Ryan Hadi_CV_Business Development.pdf",
-   "desc": "WHO WE ARE\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\nABOUT THE ROLE\nNotion is rebuilding its go-to-market motion around a workflow-first, builder-led model—and the BDR is at the front of it. As a Business Development Rep, you'll be the force that turns the right accounts into the right conversations. You'll partner closely with Solutions Consultants to identify and target companies that are ready to rethink how they work—and your job is to get them in the room. This isn't generic pipeline work: you're qualifying for workflow-first, build-ready opportunities that set SCs up to win. If you're competitive, curious, and energized by outbound that actually means something, this is the role for you.\nWHAT YOU'LL ACHIEVE\n - Generate qualified, workflow-first pipeline by identifying and targeting high-potential accounts in your assigned book, partnering with your sellers on account and outbound strategy\n - Run multi-channel outbound campaigns—email, phone, LinkedIn, and events—to create urgency and secure first meetings with the right decision-makers\n - Conduct initial qualification to ensure meetings handed to sellers are \"ready to build,\" not just \"ready to talk\"—validating ICP, intent, and workflow fit before the handoff\n - Document and deliver clean handoff packets in Salesforce with ICP signals, pain points, workflow hypothesis, and stakeholder context so sellers can hit the ground running\n - Leverage GTM System tooling and intent data to sharpen targeting, prioritize accounts by signal strength, and increase the quality and consistency of your outbound motion\nSKILLS YOU'LL NEED TO BRING\n - Proven track record in outbound pipeline generation, with hands-on experience in cold prospecting across phone, email, and social channels\n - Strong written and verbal communication skills with the ability to craft compelling, persona-specific outreach that earns a response\n - Sharp qualification instincts—able to quickly assess ICP fit, identify urgency, and set solutions condsultants up for high-quality first conversations\n - Passion for AI/ML and understanding of API-first or consumption-based business models\n - High-activity mindset with the discipline to prioritize based on signal and data, not just volume\n - You don't need to be an AI expert, but you're curious and willing to adopt AI tools to work smarter and deliver better results.\nNICE TO HAVES\n - Experience with Salesforce, Outreach, or similar GTM tooling\n - Familiarity with Notion as a product or prior experience selling productivity, collaboration, or workflow software\n - Background in a high-velocity, metric-driven outbound environment with clear pipeline targets\nBy clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy https://notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550. https://dev.notion.so/a3ce416456924276a59de91bca740028?pvs=21\n#LI-Onsite\nA NOTE ON AI\nYou don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.\nEQUAL OPPORTUNITY & ACCOMMODATIONS\nWe hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.\nNotion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.",
+   "desc": "Who We Are\n Notion is the collaborative AI workspace where teams and agents think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n About The Role\n Notion is rebuilding its go-to-market motion around a workflow-first, builder-led model—and the BDR is at the front of it. As a Business Development Rep, you'll be the force that turns the right accounts into the right conversations. You'll partner closely with Solutions Consultants to identify and target companies that are ready to rethink how they work—and your job is to get them in the room. This isn't generic pipeline work: you're qualifying for workflow-first, build-ready opportunities that set SCs up to win. If you're competitive, curious, and energized by outbound that actually means something, this is the role for you.\n What You'll Achieve\n Generate qualified, workflow-first pipeline by identifying and targeting high-potential accounts in your assigned book, partnering with your sellers on account and outbound strategy\n Run multi-channel outbound campaigns—email, phone, LinkedIn, and events—to create urgency and secure first meetings with the right decision-makers\n Conduct initial qualification to ensure meetings handed to sellers are \"ready to build,\" not just \"ready to talk\"—validating ICP, intent, and workflow fit before the handoff\n Document and deliver clean handoff packets in Salesforce with ICP signals, pain points, workflow hypothesis, and stakeholder context so sellers can hit the ground running\n Leverage GTM System tooling and intent data to sharpen targeting, prioritize accounts by signal strength, and increase the quality and consistency of your outbound motion\n Skills You'll Need to Bring\n Proven track record in outbound pipeline generation, with hands-on experience in cold prospecting across phone, email, and social channels\n Strong written and verbal communication skills with the ability to craft compelling, persona-specific outreach that earns a response\n Sharp qualification instincts—able to quickly assess ICP fit, identify urgency, and set solutions condsultants up for high-quality first conversations\n Passion for AI/ML and understanding of API-first or consumption-based business models\n High-activity mindset with the discipline to prioritize based on signal and data, not just volume\n You don't need to be an AI expert, but you're curious and willing to adopt AI tools to work smarter and deliver better results.\n Nice to Haves\n Experience with Salesforce, Outreach, or similar GTM tooling\n Familiarity with Notion as a product or prior experience selling productivity, collaboration, or workflow software\n Background in a high-velocity, metric-driven outbound environment with clear pipeline targets\n By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy . \n #LI-Onsite\n A Note on AI\n You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on.\n Equal Opportunity & Accommodations\n We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know.\n Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.",
    "discovered": "2026-11-17",
    "flags": [
     "Luar Indonesia: sponsor visa tidak disebut"
@@ -11779,6 +11905,74 @@
    "workplace": "Remote",
    "years_required": null
   },
+  "40035b7f": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 100,
+    "before": 58,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Coursera",
+   "cv": "out/cv/Coursera-40035b7f/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About Coursera + Udemy \n Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world’s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our&nbsp; blog .\n Why join us now? \n AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them.\n Shape what comes next \n By joining our team, you’ll have the opportunity to reshape how the world learns and applies skills—and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale.\n Overview: \n As an Account Development Representative (ADR), you will build a qualified sales pipeline through outbound prospecting, primarily across Australia and New Zealand (ANZ).\n Partnering closely with Australia-based Account Executives, you’ll identify high-potential accounts, engage decision-makers, and uncover business challenges that Coursera + Udemy can help solve.\n We’re looking for a commercially curious, target-driven individual who combines strong communication skills with disciplined prospecting, thoughtful questioning, and a willingness to learn. You’ll use modern sales technology and AI to personalise outreach, improve performance, and turn conversations into qualified opportunities.\n About your skills: \n Outbound Prospecting: Confident making cold calls, writing personalised emails, engaging prospects on LinkedIn, and following up consistently.\n Communication and Curiosity : Able to build rapport, ask relevant questions, listen actively, and handle objections professionally.\n Account Research: Identify promising accounts, buying signals, decision-makers, and relevant business priorities.\n Commercial Thinking : Understand business challenges and focus on qualified opportunities rather than activity volume alone.\n Coachability and Ownership: Take feedback positively, learn from setbacks, and use data to improve results.\n Technology and AI Fluency: Comfortable learning and using modern sales tools to improve research, personalisation, and productivity.\n What you'll be doing: \n Build qualified pipeline through outbound prospecting, primarily across ANZ, while supporting additional markets when required.\n Research target accounts, identify decision-makers, and use business priorities and buying signals to personalise outreach.\n Execute multichannel campaigns through cold calls, emails, LinkedIn, and structured follow-ups.\n Ask thoughtful questions, handle objections, and uncover business challenges to identify qualified opportunities.\n Partner with Account Executives to align account priorities, qualification criteria, and pipeline goals.\n Provide Account Executives with relevant account research, prospect insights, and meeting context.\n Use Salesforce, sales intelligence platforms, conversation intelligence, and AI tools to improve prospecting effectiveness.\n Track performance, apply coaching, test new approaches, and improve conversion rates and pipeline contribution.\n Qualifications: \n 1.5+ years of experience in B2B sales, business development, or sales development, including at least 1 year of hands-on outbound prospecting.\n Experience prospecting into Australia and New Zealand is strongly preferred; experience in other international B2B markets is valuable.\n Demonstrated ability to engage new prospects through cold calling, email, and LinkedIn.\n Experience researching accounts, identifying decision-makers, and personalising outreach.\n Working knowledge of Salesforce or a similar CRM and LinkedIn Sales Navigator.\n Familiarity with ZoomInfo, Gong, Nooks, or AI-powered sales tools is an advantage.\n Strong written and verbal English communication skills.\n A track record of working towards targets, responding to coaching, and improving performance through experimentation.\n &nbsp;\n &nbsp;\n &nbsp;\n &nbsp;\n #LI-MJ1 \n For more information about how Coursera collects and uses your personal information, please see our Coursera + Udemy Global Applicant Privacy Notice . \n To protect against recruitment fraud, Coursera + Udemy recruiters only communicate via official coursera.org/udemy.com email addresses and never through personal accounts. We do not accept resumes via email or social media; please submit all applications directly through our careers page.\n If you encounter suspicious recruitment activity, please report it via our&nbsp; Fraudulent Activity Submission Form. \nCoursera is an Equal Opportunity Employer committed to building a welcoming and inclusive workplace. We consider all qualified applicants without regard to legally protected characteristics and provide reasonable accommodations upon request at recruiting@coursera.org.&nbsp;",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 38 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "40035b7f",
+   "kit": null,
+   "location": "Singapore",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-10-14",
+   "red_flags": [],
+   "score": 63,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 12
+   },
+   "source": "GH:coursera",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "B",
+   "title": "Account Development Representative",
+   "url": "https://job-boards.greenhouse.io/coursera/jobs/6222902004",
+   "workplace": "",
+   "years_required": 5
+  },
   "40a06988": {
    "applied": null,
    "blockers": [
@@ -12672,20 +12866,17 @@
    "years_required": 10
   },
   "4572ccea": {
-   "applied": null,
-   "apply_blocked": [
-    "Tell us about your experience in sales (years, industries, target personas).",
-    "Tell us about your industry experience with B2B software, Open Source software, and/or the developer product space (if a"
-   ],
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
-    "after": 91,
-    "before": 66,
-    "if_pending_confirmed": 91,
+    "after": 98,
+    "before": 56,
+    "if_pending_confirmed": 98,
     "parts": {
      "education": 5,
      "experience": 10,
      "format": 10.0,
-     "keywords": 41.2,
+     "keywords": 48.2,
      "soft": 10.0,
      "title": 15
     }
@@ -12710,6 +12901,11 @@
      "date": "2026-11-16",
      "note": "auto: ATS API aktif + JD terbaca",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "4572ccea",
@@ -12730,7 +12926,7 @@
    },
    "source": "GH:chainguard",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Business Development Representative, Singapore",
    "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723671006",
@@ -12935,6 +13131,62 @@
    "url": "https://jobs.lever.co/ampd-energy/fe8158ed-b98d-4281-b6cc-0b1fa443b92a",
    "workplace": "remote",
    "years_required": null
+  },
+  "47e72084": {
+   "applied": null,
+   "ats": {
+    "after": 97,
+    "before": 62,
+    "if_pending_confirmed": 97,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 46.9,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Airwallex",
+   "cv": "out/cv/Airwallex-47e72084/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About Airwallex \n Airwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own.\n We started in Melbourne in 2015 to build the infrastructure global commerce runs on. We're the regulated backbone behind global payments: not by accident, but by design. A decade plus, 85+ licenses, and a financial infrastructure spanning North America, Europe, the Middle East, and Asia-Pacific.\n We're co-headquartered in San Francisco and Singapore, with more than 2,700 people across 27 offices. We hire builders with founder-level energy, people who move fast with good judgment, dig in with real curiosity, and make calls from first principles rather than waiting to be told what to do. Read our operating principles to see it in full.\n About the team \n Be part of Airwallex’s commercial engine in SEA, where we partner with Sales, Marketing, Product, and Leadership to drive growth and build scalable go-to-market processes across the region. We are a collaborative group of analysts and operational experts who are passionate about translating vision into action. We leverage data insights, sharp problem-solving skills, and a deep understanding of the business to optimize processes, identify growth opportunities, and ensure Airwallex operates efficiently and effectively at scale.\n What you’ll do \n Airwallex is looking for a professional with demonstrated success in Sales Operations experience (or similar proclivity) and a hunger to grow our commercial operations across SEA. We are a multi-disciplinary team focused on building a scalable and efficient revenue engine. We work across people, process, systems, data, and enablement.\nThis role will sit within the Commercial team, driving change, management of complex sales systems and support for our commercial teams. We are looking for someone who has a passion for and is adept at analysing, building, and solving problems, and being a reliable partner to our commercial leaders. This role involves collaboration with regional teams to unlock commercial growth, optimise commercial systems and engineering processes.\n This role is based in Kuala Lumpur, Malaysia.\n Responsibilities \n Closely collaborate with sales and marketing leaders to analyse and optimize the commercial operations process\n Manage day-to-day commercial operational tasks, ensuring processes are executed efficiently and accurately to support team objectives\n Collaborate with internal teams—including operations and other commercial functions—to deliver seamless and impactful experiences for the team\n Run ad-hoc analyses and translate findings into decisions\n Who you are \n We’re looking for people who meet the minimum requirements for this role. The preferred qualifications are great to have, but not mandatory.\n Minimum qualifications \n 1–3 years’ experience in Sales Operations/Revenue Operations, BDR/SDR Operations, or Sales Strategy in a high-growth B2B environment\n Analytical thinker – You like working with data, can create reports & processes with ease, and love to optimize existing processes\n Track record of collaborating across teams – You can effectively partner with sales, marketing, and operations\n Preference for Salesforce proficiency, or a natural ability to quickly adopt new systems and complex dashboards, paired with prior experience navigating complex data, strong data hygiene instincts, and a natural inclination for system optimization.\n SQL and experience with BI tools (Tableau, Looker, DataBricks, etc)\n Preferred qualifications \n Technology, financial services, and/or experience in an international, high-growth environment\n AI-Native and process-first strong operator who can turn ambiguous problems into clear, repeatable workflows\n Additional written and verbal skills in another Asian Language would be an asset\n Applicant Safety Policy: Fraud and Third-Party Recruiters \n To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @ airwallex.com email address. Please apply only through careers.airwallex.com or our official LinkedIn page. \n Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary. \n Equal opportunity \n Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "47e72084",
+   "kit": null,
+   "location": "MY - Kuala Lumpur",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-10-29",
+   "red_flags": [],
+   "score": 77,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 26
+   },
+   "source": "Ashby:airwallex",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "B",
+   "title": "Sales Development (Lead Generation) - SME & Growth, KL",
+   "url": "https://jobs.ashbyhq.com/airwallex/70763c12-20ea-40e7-abab-88a071b70d58",
+   "workplace": "",
+   "years_required": 3
   },
   "49025203": {
    "applied": null,
@@ -19498,6 +19750,74 @@
    "url": "https://job-boards.greenhouse.io/braze/jobs/8391932",
    "workplace": "",
    "years_required": 5
+  },
+  "7003baf9": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 98,
+    "before": 58,
+    "if_pending_confirmed": 98,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 48.4,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "MongoDB",
+   "cv": "out/cv/Mongodb-7003baf9/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "An Account Development Representative at MongoDB is the starting point for building a serious career in technology sales.&nbsp;\n This role is the foundation of our sales organization. You will partner closely with Account Executives to identify new opportunities within strategic accounts, helping drive meaningful pipeline and long-term customer growth.&nbsp;&nbsp;\n From day one, you will learn and apply structured sales frameworks including MEDDIC qualification, account mapping, multi-threading strategies, and value-based discovery. You will develop technical fluency across modern application architectures, cloud infrastructure, and database technologies, gaining real exposure to how complex software solutions are positioned and sold.\nADRs at MongoDB do more than generate meetings. They help shape early deal strategy, apply MEDDIC principles to qualify real business problems, and stay engaged through the scoping phase to maintain strong deal momentum&nbsp;\n We invest heavily in structured onboarding, ongoing enablement, and consistent 1:1 coaching. Our ADR team is one of the primary talent pipelines into Account Executive and other revenue roles across MongoDB, with clear, performance-based progression paths.\n We believe skill development accelerates when teams collaborate in person.\n We are looking to speak to candidates who are based in&nbsp;Kuala Lumpur, Malaysia or our hybrid working model.\n What you’ll do\n Own outbound prospecting within a defined set of strategic accounts, working closely with your aligned Account Executives and Sales stakeholders\n Research organizations to uncover new initiatives and opportunities where MongoDB can add value\n Execute thoughtful outbound outreach across phone, email, and social channels to generate qualified pipeline\n Lead structured discovery conversations to understand business priorities and technical environments\n Apply MEDDIC qualification principles to ensure high-quality opportunities before advancing them\n Stay engaged through the early stages of the sales cycle, contributing to strong handoffs and clean deal progression\n Maintain rigorous pipeline hygiene in Salesforce and sales engagement tools\n Consistently exceed monthly and quarterly opportunity targets\n We’re looking for someone with\n Has a track record of setting goals and exceeding them in competitive or performance-driven environments\n Outstanding communication skills in English, with professional or native-level fluency in Vietnamese preferred.\n Takes ownership of outcomes and follows through on commitments\n Can manage a high level of outbound activity while maintaining quality and attention to detail\n Is coachable and actively applies feedback\n Learns technical concepts quickly and is curious about how businesses use technology\n Is serious about building a long-term career in technology sales\n Is comfortable initiating conversations with senior stakeholders and handling rejection professionally\n Things We Love\n Bachelor’s or Master’s degree in Business, Economics, Marketing, Communications, Computer Science, Engineering, or a related field\n Formal training or certifications in sales methodologies (e.g., MEDDIC, Challenger) or technical disciplines\n Prior experience in sales, business development, or other quota-carrying/customer-facing roles\n Exposure to databases, cloud infrastructure, open-source technologies, or modern application development\n Experience using Salesforce and sales engagement platforms such as Outreach or Sales Navigator\n Why You Should Apply\n Great earning potential\n Welcoming and inclusive workplace Meet MongoDB’s Employee Affinity Groups! \n Continuous career development\n Sales training in MEDDIC and Command of the Message\n Sales Bootcamp\n Buddy program cross-departmentally\n About MongoDB\n MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.\n With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software.\n Our compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&nbsp;\n To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy , we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB , and help us make an impact on the world!\n MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.\n MongoDB is an equal opportunities employer.\n Req ID - 426348",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 121 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "7003baf9",
+   "kit": null,
+   "location": "Kuala Lumpur",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-07-23",
+   "red_flags": [],
+   "score": 58,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 12
+   },
+   "source": "GH:mongodb",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "B",
+   "title": "Account Development Representative",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8079914",
+   "workplace": "",
+   "years_required": null
   },
   "704f0ed8": {
    "applied": null,
@@ -26672,6 +26992,71 @@
    "workplace": "Remote",
    "years_required": 7
   },
+  "9fa82ca6": {
+   "applied": null,
+   "apply_blocked": [
+    "Please Review the NDA and indicate your agreement by typing your full name below"
+   ],
+   "ats": {
+    "after": 96,
+    "before": 58,
+    "if_pending_confirmed": 96,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 48.2,
+     "soft": 7.5,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Rubrik",
+   "cv": "out/cv/Rubrik-9fa82ca6/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Sales Development Representative, Singapore \n Location: Singapore\n About Team &amp; About Role\n Rubrik’s Sales organization is a united group of elite cross-functional sales professionals that help companies &amp; government entities achieve resilience against cyberattacks, malicious insiders, and operational disruptions. We offer continuous professional growth and opportunity through our world-class sales enablement program. Our One Rubrik selling approach provides all the resources you need to exceed your goals, maximize your earnings potential, and take your career to the next level. All this while doing something truly purposeful, protecting the world's data.\nRubrik’s Sales Development Representatives (SDRs) form the core of our ambitious go-to-market strategy and sales pipeline engine. Through independent outbound hunting and a proportion of inbound leads, the SDR team books high-quality meetings with potential new customers for Rubrik’s sales organization. We do this by having a targeted set of prospects that we research, personalize our messaging to, and influence to evaluate Rubrik. This is your opportunity to build the ASEAN SDR team in one of the world’s most challenging and rewarding fields.\n What You’ll Do\n Identify high-potential customers, research Rubrik’s value fit, personalize messaging to prospects, and generate high-quality new business meetings for the company\n Responsible for outbound/inbound activities for our enterprise customer prospecting by contacting via email, social, and phone calls to qualify prospects to set meetings\n Follow up on inbound leads generated by Marketing and stay within compliance metrics, i.e. timely follow-up and attempts to connect\n Collaborate with the field sales team you’re aligned with and develop strategies for breaking into new accounts\n Stay up-to-date on market trends, competition, and industry developments – we’re seeing cybersecurity breaches daily in today’s world. Rubrik can make an impact.\n Be an expert on what we do and how we help our customers keep their businesses up and running.\n Use customer relationship management (Salesforce &amp; Outreach) software to manage leads and sales activities\n Own your business and your sales targets, and be able to report on your results to your stakeholders. What you put in is what you get out!\n Develop how to think on your feet and learn the art of sales through team pitch competitions, boot camps, training, and more – we love friendly competition!\n You will receive coaching and development on an ongoing basis, our managers will assist with developing your skills and approach to calls, thus improving Rubrik’s service to its customers. (Note: Telephone calls to and from prospects &amp; customers, may be recorded and listened to from time to time by yourself and management.)\n You will be working in-office at least 2 to 3 days a week for active coaching and peer camaraderie.\n Experience You’ll Need\n More than 2 years of sales-oriented work, B2B sales, marketing, and/or lead generation experience\n Must have ASEAN experience, particularly in Singapore, Malaysia and Philippines. Having experience handling Hong Kong, Taiwan, Thailand, and Vietnam would be an advantage as well.\n Exposure to customer service experience\n Interest and ability to learn technical concepts quickly\n Desire for a successful career in sales/business development\n Written &amp; Verbal Communication succinct &amp; professional email, LinkedIn, phone.\n Join Us in Securing and Accelerating the World's AI Transformation\n Rubrik (NYSE: RBRK) is the Security and AI Operations Company, delivering one platform built at the intersection of data, identity, and AI. The platform enables agentic cyber resilience and trusted AI operations for enterprises worldwide, built to recover before disruption strikes and stay a step ahead, so security is never the reason ambition stalls.\n Linkedin | X (formerly Twitter) | Instagram |&nbsp; Rubrik.com \n Inclusion @ Rubrik\n At Rubrik, we are dedicated to fostering a culture where people from all backgrounds are valued, feel they belong, and believe they can succeed. Our commitment to inclusion is at the heart of our mission to secure the world’s data.\n Our goal is to hire and promote the best talent, regardless of background. We continually review our hiring practices to ensure fairness and strive to create an environment where every employee has equal access to opportunities for growth and excellence. We believe in empowering everyone to bring their authentic selves to work and achieve their fullest potential.\n Our inclusion strategy focuses on three core areas of our business and culture:\n Our Company: We are committed to building a merit-based organization that offers equal access to growth and success for all employees globally. Your potential is limitless here.\n Our Culture: We strive to create an inclusive atmosphere where individuals from all backgrounds feel a strong sense of belonging, can thrive, and do their best work. Your contributions help us innovate and break boundaries.\n Our Communities: We are dedicated to expanding our engagement with the communities we operate in, creating opportunities for underrepresented talent and driving greater innovation for our clients. Your impact extends beyond Rubrik, contributing to safer and stronger communities.\n Equal Opportunity Employer/Veterans/Disabled\n Rubrik is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, protected veteran status, or any other status protected by applicable law. Rubrik provides equal employment opportunities to employees and applicants in all terms and conditions of employment, including recruiting, hiring, promotion, compensation, training, leave, and termination.\n Rubrik provides reasonable accommodations to qualified applicants and employees with disabilities in accordance with applicable law. If you need an accommodation to participate in the application process or to perform your job, please contact&nbsp; hr@rubrik.com . Accommodations may include changes to the application process, documents in an alternate format, a sign language interpreter, or specialized equipment.\n EEO IS THE LAW \n NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL LABOR LAWS",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 72 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    }
+   ],
+   "id": "9fa82ca6",
+   "kit": null,
+   "location": "singapore",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-09-10",
+   "red_flags": [],
+   "score": 77,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 26
+   },
+   "source": "GH:rubrik",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "B",
+   "title": "Sales Development Representative, Singapore",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8190483?gh_jid=8190483",
+   "workplace": "",
+   "years_required": 2
+  },
   "9fc80e43": {
    "applied": null,
    "blockers": [
@@ -29758,7 +30143,7 @@
    "applied": null,
    "ats": {
     "after": 100,
-    "before": 74,
+    "before": 61,
     "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
@@ -29773,7 +30158,7 @@
    "comp": "SGD 64,400 – SGD 84,525 • Offers Equity • SGD 27,600 – SGD 36,225 Commission",
    "company": "temporal",
    "cv": "out/cv/Temporal-b19801e0/Ryan Hadi_CV_Business Development.pdf",
-   "desc": "ROLE SUMMARY\nAre you eager to launch your sales career in a fast-growing, innovative tech company? Temporal is seeking a motivated and enthusiastic Business Development Representatives (BDRs) to join our team in Singapore. As a BDR, you’ll play a pivotal role in driving growth by connecting with potential customers, generating leads, and building strong pipelines for our sales team. \nThis is an entry level role designed for ambitious self-starters who are passionate about technology, thrive in fast-paced environments, and are excited to develop their careers in sales. With a dedicated training program and clear growth path, you’ll have the support and tools to become a standout sales professional while contributing to Temporal’s mission of redefining application development.\nWHAT YOU'LL DO\n - Proactively outbound prospecting and lead activity management in an effort to qualify and market Temporal to potential customers.\n - Discover opportunities from leads and set appointments from those leads. \n - Use of strong selling and influencing skills to set up qualified appointments. \n - Understand the Temporal OSS and Cloud solutions enough to provide high level introduction. \n - Leverage taught sales techniques to maximize customer interactions. \n - Log, track, and maintain outbound activity. \n - Work closely with the Sales Team and attend customer meetings as required. \n - Be the architect of a growing team, defining and iterating on processes.\nWHAT YOU'LL NEED\n - 1 to 2+ years of experience in prospecting roles.\n - Excellent in-person, phone, and written customer communication skills.\n - Must be able to interact and communicate with individuals at all levels of the organization.\n - Ability to make formal and informal presentations to staff and clients.\n - Ability to prioritize work assignments and shift work efforts based on the needs of the department or business goals.\n - Proficient PC, Spreadsheet, Salesforce.com, and Google Docs skills required.\n - Ability to manage time effectively, work independently, and be self-motivated\n - Prior track record of achievement in positions with accountability.\n - Ability to thrive in a fast-paced startup environment.\n - Proactive, independent thinker with high energy/positive attitude. \nTemporal Technologies is an Equal Opportunity Employer. Temporal Technologies does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. We embrace and celebrate differences and diversity.\nTemporal is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. If you need to request a reasonable accommodation, please let your Recruiter know so we can assist.",
+   "desc": "Role Summary \n Are you eager to launch your sales career in a fast-growing, innovative tech company? Temporal is seeking a motivated and enthusiastic Business Development Representatives (BDRs) to join our team in  Singapore . As a BDR, you’ll play a pivotal role in driving growth by connecting with potential customers, generating leads, and building strong pipelines for our sales team. \n This is an entry level role designed for ambitious self-starters who are passionate about technology, thrive in fast-paced environments, and are excited to develop their careers in sales. With a dedicated training program and clear growth path, you’ll have the support and tools to become a standout sales professional while contributing to Temporal’s mission of redefining application development.\n What You'll Do \n Proactively outbound prospecting and lead activity management in an effort to qualify and market Temporal to potential customers.\n Discover opportunities from leads and set appointments from those leads. \n Use of strong selling and influencing skills to set up qualified appointments. \n Understand the Temporal OSS and Cloud solutions enough to provide high level introduction. \n Leverage taught sales techniques to maximize customer interactions. \n Log, track, and maintain outbound activity. \n Work closely with the Sales Team and attend customer meetings as required. \n Be the architect of a growing team, defining and iterating on processes.\n What You'll Need \n 1 to 2+ years of experience in prospecting roles.\n Excellent in-person, phone, and written customer communication skills.\n Must be able to interact and communicate with individuals at all levels of the organization.\n Ability to make formal and informal presentations to staff and clients.\n Ability to prioritize work assignments and shift work efforts based on the needs of the department or business goals.\n Proficient PC, Spreadsheet, Salesforce.com, and Google Docs skills required.\n Ability to manage time effectively, work independently, and be self-motivated\n Prior track record of achievement in positions with accountability.\n Ability to thrive in a fast-paced startup environment.\n Proactive, independent thinker with high energy/positive attitude. \n Temporal Technologies is an Equal Opportunity Employer. Temporal Technologies does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. We embrace and celebrate differences and diversity.\n Temporal is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. If you need to request a reasonable accommodation, please let your Recruiter know so we can assist.",
    "discovered": "2026-11-17",
    "flags": [
     "Luar Indonesia: sponsor visa tidak disebut"
@@ -30171,15 +30556,15 @@
   "b433145a": {
    "applied": null,
    "ats": {
-    "after": 94,
-    "before": 70,
-    "if_pending_confirmed": 94,
+    "after": 98,
+    "before": 64,
+    "if_pending_confirmed": 98,
     "parts": {
      "education": 5,
      "experience": 10,
      "format": 10.0,
-     "keywords": 45.5,
-     "soft": 8.6,
+     "keywords": 50.0,
+     "soft": 8.5,
      "title": 15
     }
    },
@@ -30187,7 +30572,7 @@
    "comp": "",
    "company": "airwallex",
    "cv": "out/cv/Airwallex-b433145a/Ryan Hadi_CV_Business Development.pdf",
-   "desc": "ABOUT AIRWALLEX\nAirwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own.\nWe started in Melbourne in 2015 to build the infrastructure global commerce runs on. We're the regulated backbone behind global payments: not by accident, but by design. A decade plus, 85+ licenses, and a financial infrastructure spanning North America, Europe, the Middle East, and Asia-Pacific.\nWe're co-headquartered in San Francisco and Singapore, with more than 2,700 people across 27 offices. We hire builders with founder-level energy, people who move fast with good judgment, dig in with real curiosity, and make calls from first principles rather than waiting to be told what to do. Read our operating principles https://www.airwallex.com/en-us/operating-principles to see it in full.\nABOUT THE TEAM\nThe Small Medium Enterprise (SME) & Growth Business team at Airwallex is a passionate group of collaborators and business champions dedicated to empowering businesses to thrive in the global economy.\nOur Mid-Market team focuses on partnering with established, high-growth and regionally expanding businesses, helping them optimize financial operations, streamline cross-border payments and unlock new opportunities for growth.\nWe take a consultative, account-based approach to sales, working closely with prospective customers to understand their business models, identify financial inefficiencies and deliver tailored solutions across Airwallex's suite of financial products.\nAs a team, we are driven by a desire to make a meaningful impact for our customers while continuously improving how we identify, engage and win strategic accounts.\nABOUT THE ROLE\nBased out of our Singapore office, this role will focus on generating and qualifying high-value opportunities to build Airwallex's Singapore Mid-Market sales pipeline.\nAs a Sales Development Representative (SDR), you will be responsible for identifying, researching and engaging strategic mid-market accounts through a highly targeted, account-based outbound approach.\nUnlike traditional high-volume prospecting roles, this position requires a strong emphasis on strategic account planning, multi-threading and engaging multiple decision-makers within complex organisations.\nYou will work closely with a designated Account Executive (AE) to develop account penetration strategies, uncover relevant business challenges and create meaningful sales opportunities.\nWe are looking for someone with a proven track record of successfully prospecting mid-market or enterprise accounts, who combines strong outbound execution with commercial curiosity, creativity and strategic thinking.\nYou should be comfortable engaging senior stakeholders, navigating complex organisational structures and taking ownership of pipeline quality rather than focusing solely on meeting volume.\nFinally, you enjoy building. You are excited to contribute to the development of our outbound strategy, refine our account-based sales motions and help shape best practices as we scale our Mid-Market business.\nWHAT YOU'LL DO\nSTRATEGIC ACCOUNT PROSPECTING\n - Partner closely with your AE to identify, prioritise and penetrate high-value mid-market accounts through targeted, account-based outbound strategies.\n - Conduct in-depth research into prospective customers' business models, regional operations, financial workflows and existing technology ecosystems to identify potential pain points and commercial opportunities.\n - Identify relevant opportunities across Airwallex's product offerings, including FX, global payments, payment acceptance, corporate cards and spend management.\n - Proactively identify trigger events, business developments and growth initiatives that create compelling reasons to engage prospective customers.\nMULTI-THREADING & STAKEHOLDER ENGAGEMENT\n - Proactively identify, engage and build relationships with multiple stakeholders within target accounts, including CFOs, Finance Directors, Treasury teams, Operations leaders and other relevant decision-makers.\n - Develop a strong understanding of organisational structures, key decision-makers, influencers and potential internal champions.\n - Demonstrate creativity and persistence in penetrating complex organisations, developing multiple entry points rather than relying on a single contact.\n - Execute highly personalised, multi-channel outreach across calls, emails, LinkedIn and other relevant touchpoints.\n - Tailor outreach messaging to different stakeholders based on their responsibilities, business priorities and potential pain points.\n - Build credibility with senior stakeholders through thoughtful, insight-led conversations that demonstrate an understanding of their business.\nPIPELINE GENERATION & OPPORTUNITY QUALIFICATION\n - Generate high-quality, sales-qualified opportunities within strategic mid-market accounts, prioritising meaningful pipeline creation and progression over meeting volume alone.\n - Qualify prospects based on business fit, commercial potential, stakeholder engagement and readiness to explore Airwallex's solutions.\n - Identify potential transaction volumes, international payment requirements, FX needs and other relevant indicators of commercial opportunity.\n - Maintain accurate account intelligence, contact information, stakeholder maps and opportunity details in Salesforce.\n - Support a seamless transition from prospecting to discovery by ensuring the AE has relevant account context, identified pain points and a clear understanding of stakeholder dynamics.\nAE COLLABORATION & STRATEGIC SALES EXECUTION\n - Work closely with your designated AE to develop joint account plans, coordinate multi-stakeholder outreach and execute strategic plays to acquire key mid-market logos.\n - Collaborate with your AE to ide",
+   "desc": "About Airwallex \n Airwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own.\n We started in Melbourne in 2015 to build the infrastructure global commerce runs on. We're the regulated backbone behind global payments: not by accident, but by design. A decade plus, 85+ licenses, and a financial infrastructure spanning North America, Europe, the Middle East, and Asia-Pacific.\n We're co-headquartered in San Francisco and Singapore, with more than 2,700 people across 27 offices. We hire builders with founder-level energy, people who move fast with good judgment, dig in with real curiosity, and make calls from first principles rather than waiting to be told what to do. Read our operating principles to see it in full.\n About the Team \n The Small Medium Enterprise (SME) & Growth Business team at Airwallex is a passionate group of collaborators and business champions dedicated to empowering businesses to thrive in the global economy.\n Our Mid-Market team focuses on partnering with established, high-growth and regionally expanding businesses, helping them optimize financial operations, streamline cross-border payments and unlock new opportunities for growth.\n We take a consultative, account-based approach to sales, working closely with prospective customers to understand their business models, identify financial inefficiencies and deliver tailored solutions across Airwallex's suite of financial products.\n As a team, we are driven by a desire to make a meaningful impact for our customers while continuously improving how we identify, engage and win strategic accounts.\n About the Role \n Based out of our Singapore office, this role will focus on generating and qualifying high-value opportunities to build Airwallex's Singapore Mid-Market sales pipeline.\n As a Sales Development Representative (SDR), you will be responsible for identifying, researching and engaging strategic mid-market accounts through a highly targeted, account-based outbound approach.\n Unlike traditional high-volume prospecting roles, this position requires a strong emphasis on strategic account planning, multi-threading and engaging multiple decision-makers within complex organisations.\n You will work closely with a designated Account Executive (AE) to develop account penetration strategies, uncover relevant business challenges and create meaningful sales opportunities.\n We are looking for someone with a proven track record of successfully prospecting mid-market or enterprise accounts, who combines strong outbound execution with commercial curiosity, creativity and strategic thinking.\n You should be comfortable engaging senior stakeholders, navigating complex organisational structures and taking ownership of pipeline quality rather than focusing solely on meeting volume.\n Finally, you enjoy building. You are excited to contribute to the development of our outbound strategy, refine our account-based sales motions and help shape best practices as we scale our Mid-Market business.\n What You'll Do \n Strategic Account Prospecting \n Partner closely with your AE to identify, prioritise and penetrate high-value mid-market accounts through targeted, account-based outbound strategies.\n Conduct in-depth research into prospective customers' business models, regional operations, financial workflows and existing technology ecosystems to identify potential pain points and commercial opportunities.\n Identify relevant opportunities across Airwallex's product offerings, including FX, global payments, payment acceptance, corporate cards and spend management.\n Proactively identify trigger events, business developments and growth initiatives that create compelling reasons to engage prospective customers.\n Multi-Threading & Stakeholder Engagement \n Proactively identify, engage and build relationships with multiple stakeholders within target accounts, including CFOs, Finance Directors, Treasury teams, Operations leaders and other relevant decision-makers.\n Develop a strong understanding of organisational structures, key decision-makers, influencers and potential internal champions.\n Demonstrate creativity and persistence in penetrating complex organisations, developing multiple entry points rather than relying on a single contact.\n Execute highly personalised, multi-channel outreach across calls, emails, LinkedIn and other relevant touchpoints.\n Tailor outreach messaging to different stakeholders based on their responsibilities, business priorities and potential pain points.\n Build credibility with senior stakeholders through thoughtful, insight-led conversations that demonstrate an understanding of their business.\n Pipeline Generation & Opportunity Qualification \n Generate high-quality, sales-qualified opportunities within strategic mid-market accounts, prioritising meaningful pipeline creation and progression over meeting volume alone.\n Qualify prospects based on business fit, commercial potential, stakeholder engagement and readiness to explore Airwallex's solutions.\n Identify potential transaction volumes, international payment requirements, FX needs and other relevant indicators of commercial opportunity.\n Maintain accurate account intelligence, contact information, stakeholder maps and opportunity details in Salesforce.\n Support a seamless transition from prospecting to discovery by ensuring the AE has relevant account context, identified pain points and a clear understanding of stakeholder dynamics.\n AE Collaboration & Strategic Sales Execution \n Work closely with your designated AE to develop joint account plans, coordinate multi-stakeholder outreach and execute strategic plays to acquire key mid-market logos.\n Collaborate with your AE to identify and engage additional stakeholders as opportunities progress, helping strengthen account relationships and uncover new business needs.\n Develop account-specific messaging and creative outreach approaches to unlock difficult-to-reach strategic accounts.\n Continuously test and refine prospecting strategies, messaging and outreach sequences to improve engagement, conversion rates and pipeline outcomes.\n Leverage data and performance insights to identify effective outreach approaches and prioritise high-potential accounts.\n Take ownership of the quality of your opportunity handovers and actively contribute to successful first meetings and subsequent opportunity development\n What You'll Bring \n Proven Strategic Outbound Experience \n Demonstrated track record of top performance in an outbound SDR/BDR role, preferably prospecting mid-market or enterprise customers. \n Proven experience penetrating strategic or named accounts through structured account planning, personalised outreach and targeted stakeholder engagement. \n Demonstrated success in multi-threading within complex organisations, identifying and engaging multiple decision-makers and influencers across different business functions and seniority levels. \n Experience prospecting senior stakeholders, including director-level and C-suite decision-makers.\n A proven ability to generate high-quality, sales-accepted opportunities, with an understanding of pipeline progression beyond the initial meeting.\n Strong understanding of account-based prospecting methodologies and how to execute targeted outbound campaigns within a defined portfolio of accounts.\n Commercial Acumen & Customer Curiosity \n Strong business acumen and an ability to research prospective customers, understand their operating models and develop relevant commercial hypotheses.\n Ability to translate business challenges into compelling, personalised outreach messaging that resonates with different stakeholders.\n Strong discovery and questioning skills, with the curiosity to uncover underlying business challenges rather than relying solely on surface-level qualification.\n Confidence in engaging senior decision-makers and articulating business value in a clear, consultative manner.\n Strong interest in financial technology, global payments, financial operations and international business.\n Execution, Ownership & Collaboration \n Target-oriented and motivated by ambitious goals, with a strong sense of ownership over pipeline generation and quality.\n Resourceful, creative and persistent, with a demonstrated ability to break into challenging accounts and overcome prospecting obstacles.\n Strong written and verbal communication skills, with the ability to craft concise, compelling and highly personalised outreach.\n Excellent organisational and prioritisation skills, particularly when managing multiple strategic accounts and stakeholders simultaneously.\n A collaborative team player who thrives in a close AE–SDR partnership, proactively sharing insights, coordinating account strategies and contributing to opportunity progression.\n Process-driven and comfortable developing, documenting and improving sales workflows to make them more effective and scalable.\n Obsessively curious, with a willingness to dig deeper, ask thoughtful questions and continuously learn about customers, products and markets.\n A self-starter who is comfortable operating independently in a fast-paced, high-growth environment.\n Applicant Safety Policy: Fraud and Third-Party Recruiters \n To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @ airwallex.com email address. Please apply only through careers.airwallex.com or our official LinkedIn page. \n Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary. \n Equal opportunity \n Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.",
    "discovered": "2026-11-17",
    "flags": [
     "Luar Indonesia: sponsor visa tidak disebut"
@@ -34753,22 +35138,17 @@
    "years_required": 5
   },
   "ccc4c403": {
-   "applied": null,
-   "apply_blocked": [
-    "Why are you interested in a career in SaaS sales?",
-    "Will you, now or in the future, require the support of HubSpot to maintain working rights in Australia?",
-    "Voluntary Equal Opportunity Employment",
-    "Are you of Aboriginal and/or Torres Strait Islander origin?"
-   ],
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
-    "after": 95,
-    "before": 74,
+    "after": 99,
+    "before": 58,
     "if_pending_confirmed": 99,
     "parts": {
      "education": 5,
      "experience": 10,
      "format": 10.0,
-     "keywords": 45.8,
+     "keywords": 50.0,
      "soft": 9.0,
      "title": 15
     }
@@ -34793,6 +35173,16 @@
      "date": "2026-11-16",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit gagal: error nilai di halaman tidak sama dengan plan: question_70269068",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "ccc4c403",
@@ -34813,7 +35203,7 @@
    },
    "source": "GH:hubspotjobs",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Outbound Business Development Representative - ANZ",
    "url": "https://www.hubspot.com/careers/jobs/8333090?gh_jid=8333090",
@@ -36583,6 +36973,75 @@
    "url": "https://jobs.ashbyhq.com/claylabs/7111f7da-3405-433a-8814-f2504c32210b",
    "workplace": "Hybrid",
    "years_required": 2
+  },
+  "d668c983": {
+   "applied": null,
+   "apply_blocked": [
+    "Address Line 1",
+    "City",
+    "Province/State",
+    "Country",
+    "Are you currently or have you ever provided services to Fivetran (or any of its global subsidiaries or affiliated entiti"
+   ],
+   "ats": {
+    "after": 99,
+    "before": 61,
+    "if_pending_confirmed": 99,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 8.8,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Fivetran",
+   "cv": "out/cv/Fivetran-d668c983/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.\n About Us \n Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on. Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.\nAs we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact. During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.&nbsp;\n About the role: \n We're hiring a Business Development Representative to join our Sydney office and help accelerate pipeline generation across our Commercial and Enterprise business segments. This is a full-time position based out of our Sydney office. Our hybrid work model offers a blend of remote flexibility and in-person collaboration, including two-three days in the office each week to connect and build as a team.\nAs a BDR you’ll partner closely with Sales Directors to identify and engage target accounts, multi-thread into strategic organizations, and generate qualified pipeline through personalized outreach across phone, email, LinkedIn, and video. You’ll work directly with modern data leaders and technical buyers at fast-growing and enterprise organizations evaluating cloud data infrastructure, analytics modernization, AI initiatives, and data integration strategies.\n &nbsp;\n Technologies You’ll Use \n Salesforce, Outreach, LinkedIn Sales Navigator, ZoomInfo, Lusha, Nooks, ChatGPT and AI prospecting tools, Gong, Google Workspace, Slack, Vidyard / Loom\n In this role, you can expect to: \n Generate qualified pipeline through outbound prospecting across target accounts\n Research accounts, industries, and personas to craft personalized outreach\n Partner closely with Sales Directors to build account strategies and prioritize opportunities\n Execute multi-channel outbound campaigns using phone, email, LinkedIn, and video\n Conduct discovery conversations to uncover business challenges, technical pain points, and initiatives\n Engage data, analytics, engineering, IT, RevOps, and executive personas\n Maintain accurate activity, contact, and opportunity data within Salesforce\n Collaborate cross-functionally with Marketing, Partnerships, and Sales leadership\n Leverage AI tools and sales technologies to improve prospecting efficiency and messaging quality\n Consistently achieve and exceed activity, meeting generation, and pipeline target\n You are a good fit if you: \n 9+ months of experience in SaaS, cloud, infrastructure, or technology sales development\n Strong written and verbal communication skills with the ability to engage technical and business stakeholders\n Ability to learn and articulate technical concepts related to data, analytics, cloud, and AI infrastructure\n Experience with outbound prospecting and multi-threaded account engagement\n Strong organizational skills and ability to manage multiple accounts and priorities simultaneously\n Comfortable using AI tools such as ChatGPT or sales engagement platforms to improve research, messaging, and productivity\n Coachable, curious, resilient, and motivated by a high-performance sales environment\n Fluent in English. Bonus points if you're bilingual&nbsp;\n You'll have an edge if: \n Experience selling into data, analytics, engineering, or IT organizations\n Familiarity with modern data stack technologies such as Snowflake, Databricks, dbt, or cloud data warehouses\n Experience using Outreach, Sales Navigator, ZoomInfo, or Gong\n Previous experience working in a high-growth SaaS environment\n Demonstrated success exceeding outbound pipeline generation targets\n Compensation &amp; Benefits: \n Salary: We offer competitive compensation packages commensurate with experience, including salary, equity, and performance-based pay. Our Talent Acquisition Team can answer questions around dbt Lab’s total rewards during your interview process.\n Equity StakeBenefits - dbt Labs + Fivetran offers: \n 20 PTO days annually\n Excellent healthcare\n Paid Parental Leave&nbsp;\n What to expect in the interview process (all video interviews unless accommodations are needed):&nbsp; \n Interview with Talent Acquisition Partner&nbsp;\n Interview with Hiring Manager\n Interview with Peer\n Final Interview - SDR Challenge\n #LI-HYBRID\n &nbsp;\n Perks and Benefits \n 100% employer-paid medical insurance * \n Generous paid time away from work, including paid vacation or flexible/unlimited vacation depending on role and country, plus paid sick time, inclusive parental leave, paid holidays, including a year-end Global Week of Rest, and volunteer days off.\n RSU stock grants*\n Professional development and training opportunities\n Company virtual happy hours, free food, and fun team-building activities\n Monthly cell phone stipend\n Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.\n * May vary by country and worker type - please reach out to your recruiter for more information \n Click here to learn more about Fivetran's Benefits by Region. \n We’re honored to be valued at over $5.6 billion , but more importantly, we’re proud of our&nbsp; core values of Get Stuck In, Do the Right Thing, and One Team, One Dream . Read about us in&nbsp; Forbes .&nbsp; &nbsp; &nbsp;\n Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.\n To learn more about Fivetran’s culture and what it’s like to be part of the team, click here and enjoy our video.\n To learn more about our candidate privacy policy, you can read our statement here .\n We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this form . We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 82 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    }
+   ],
+   "id": "d668c983",
+   "kit": null,
+   "location": "Sydney, New South Wales, Australia, APAC",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-08-31",
+   "red_flags": [],
+   "score": 76,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 30
+   },
+   "source": "GH:fivetran",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "B",
+   "title": "Business Development Representative (Sydney)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7981431003",
+   "workplace": "",
+   "years_required": null
   },
   "d6c3786e": {
    "applied": null,

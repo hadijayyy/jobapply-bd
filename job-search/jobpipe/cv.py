@@ -45,6 +45,9 @@ SALES = ["business development", "B2B sales", "enterprise sales", "full-cycle sa
          "renewals / retention", "quota attainment", "forecasting", "go-to-market", "proposals / RFP", "business case", "market sizing"]
 PARTNER = ["channel partnerships", "partner management", "partner recruitment", "co-selling / joint plans", "QBR",
            "resellers / distributors", "MSP / managed services", "alliances"]
+SDR = ["lead generation", "account research", "ICP / personas", "cold calling", "social selling", "email sequencing",
+       "inbound leads", "meeting booking", "objection handling", "SQL / MQL handoff", "account-based", "events",
+       "activity KPIs", "Sales Navigator", "ZoomInfo", "Gong"]
 DOMAIN = ["software sales", "cloud", "AWS / GCP / Azure", "IT infrastructure", "healthcare"]  # "cloud" phrase already says Managed Services
 SOFT = [c for c, k, *_ in ats.LEX if k == "soft"]
 TOOLS_LINE = "Salesforce & HubSpot CRM, Power BI, Advanced Excel, AI Sales Workflows (ChatGPT, Claude), Prompt Engineering"
@@ -123,6 +126,9 @@ def spec_for(job):
         ("Solutions & Industries", ", ".join(_pick(DOMAIN, want, DOMAIN, 5))),
         ("Core Strengths", ", ".join(_pick(SOFT, want, DEFAULT_SOFT, 7))),
     ]
+    sdr_hits = [c for c in want if c in SDR]
+    if sdr_hits:  # JD asks for prospecting terms: one extra line, only JD-matched terms
+        skills.insert(1, ("Prospecting & SDR Tools", ", ".join(ats.TERM[c][3] for c in sdr_hits)))
     if partner_role:
         skills[0], skills[1] = skills[1], skills[0]
     log.append("Skills disusun dari keyword JD yang punya bukti (evidence=yes); Salesforce ditambahkan (dikonfirmasi Ryan 14 Nov 2026).")

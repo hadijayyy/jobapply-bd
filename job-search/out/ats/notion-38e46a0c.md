@@ -1,15 +1,15 @@
 # ATS: notion | Business Development Representative
 - Link: https://jobs.ashbyhq.com/notion/a9b33d2b-cfef-435f-8fff-5b79aad19d3b
 - CV: out/cv/Notion-38e46a0c/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 61 (CV master) -> 90 (CV tailored)** | jika item pending dikonfirmasi: 90
-- Rincian: keywords 40.0, title 15, soft 10.0, experience 10, education 5, format 10.0
+- **Skor ATS: 51 (CV master) -> 98 (CV tailored)** | jika item pending dikonfirmasi: 98
+- Rincian: keywords 47.8, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Business Development Representative"
 
 ## Keyword audit
-- **Matched:** AI tools, Salesforce, business development, channel partnerships, communication, cross-functional collaboration, discovery, outbound prospecting, pipeline generation
+- **Matched:** AI tools, ICP / personas, SQL / MQL handoff, Salesforce, business development, channel partnerships, cold calling, communication, cross-functional collaboration, discovery, events, go-to-market, outbound prospecting, pipeline generation, social selling
 - **Missing tapi benar (harus 0):** -
 - **Pending (Ryan bilang benar, detail belum ada, TIDAK ditulis):** -
-- **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** affiliates, go-to-market
+- **Missing dan tidak benar (jangan ditulis; bahas di cover letter/interview):** affiliates
 
 ## Perubahan dari CV master
 - Summary diakhiri "Native Indonesian speaker targeting Business Development Representative roles across APAC." agar judul role JD (Business Development Representative) terbaca ATS. Ini target, bukan klaim jabatan.

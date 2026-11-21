@@ -187,7 +187,7 @@ def resolve(label, options, job, files, required=False, prior=None):
     if s(r"(fluent|proficient|professional).{0,30}english|english.{0,30}(fluen|proficien)"):
         return ("pick", YES) if options else ("text", "Yes, professional working proficiency")
     if s(r"how did you (first |initially |originally )?(hear|find|learn)|where did you (hear|find|learn)|source of (application|referral)"):
-        return ("pick", [r"direct to careers", r"career(s)? ?(page|site|website)", r"company (web)?site", r"greenhouse", r"job board", r"^other"]) if options else ("text", P["how_heard"])
+        return ("pick", [r"direct to careers", r"^(?!college).*career(s)? ?(page|site|website)", r"company (web)?site", r"greenhouse", r"job board", r"^other"]) if options else ("text", P["how_heard"])
     if s(r"remote location, do you plan to work remotely|intend to work remotely"):
         return ("pick", [r"^yes"] if is_remote(job) else [r"office"])
     if s(r"relocat"):
