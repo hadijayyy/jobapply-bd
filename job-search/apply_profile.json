@@ -49,5 +49,12 @@
   "school_option": "Other",
   "degree_option": "Bachelor's Degree",
   "_note": "Greenhouse school list has no UPH, so the form gets 'Other'."
+ },
+ "employment": {
+  "company": "Sinar Mas Land (OneSmartServices)",
+  "title": "Business Development Manager, B2B Partnerships",
+  "start_month": "March",
+  "start_year": "2023",
+  "current": true
  }
 }
