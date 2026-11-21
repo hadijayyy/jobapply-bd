@@ -1,8 +1,8 @@
 # ATS: Ninja Van | Head of B2B Sales (East & Central Java)
 - Link: https://jobs.lever.co/ninjavan/538fd3f6-cf8d-4257-9d5c-075d67271000
 - CV: out/cv/Ninja-Van-b538cc8d/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 51 (CV master) -> 90 (CV tailored)** | jika item pending dikonfirmasi: 90
-- Rincian: keywords 50.0, title 15, soft 10.0, experience 0, education 5, format 10.0
+- **Skor ATS: 61 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
+- Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Head of B2B Sales"
 
 ## Keyword audit

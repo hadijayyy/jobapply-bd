@@ -1,8 +1,8 @@
 # ATS: Grab | Region Commercial Manager - West Java
 - Link: https://jobs.smartrecruiters.com/Grab/744000161813659
 - CV: out/cv/Grab-bc0b4873/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 58 (CV master) -> 90 (CV tailored)** | jika item pending dikonfirmasi: 90
-- Rincian: keywords 50.0, title 15, soft 10.0, experience 0, education 5, format 10.0
+- **Skor ATS: 68 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
+- Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Region Commercial Manager"
 
 ## Keyword audit

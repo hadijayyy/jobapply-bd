@@ -5372,16 +5372,17 @@
    "years_required": 3
   },
   "21d4f7e7": {
-   "applied": null,
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
-    "after": 84,
-    "before": 59,
-    "if_pending_confirmed": 86,
+    "after": 97,
+    "before": 69,
+    "if_pending_confirmed": 98,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
-     "keywords": 45.5,
+     "keywords": 47.7,
      "soft": 9.0,
      "title": 15
     }
@@ -5408,6 +5409,11 @@
      "date": "2026-11-21",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "21d4f7e7",
@@ -5427,7 +5433,7 @@
    },
    "source": "GH:edb",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "C",
    "title": "Sr Account Executive",
    "url": "https://www.enterprisedb.com/careers/job-openings?gh_jid=7969956003",
@@ -5585,14 +5591,14 @@
   "2330c9b5": {
    "applied": null,
    "ats": {
-    "after": 85,
-    "before": 67,
-    "if_pending_confirmed": 85,
+    "after": 98,
+    "before": 77,
+    "if_pending_confirmed": 98,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
-     "keywords": 47.1,
+     "keywords": 50.0,
      "soft": 8.3,
      "title": 15
     }
@@ -9391,7 +9397,8 @@
    "years_required": null
   },
   "34f1a0bf": {
-   "applied": null,
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
     "after": 100,
     "before": 72,
@@ -9431,6 +9438,11 @@
      "date": "2026-11-21",
      "note": "auto-submit gagal: needs_code ",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "34f1a0bf",
@@ -9450,7 +9462,7 @@
    },
    "source": "GH:cloudflare",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Territory Account Executive, Digital Native (Indonesia)",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8168940?gh_jid=8168940",
@@ -9458,7 +9470,8 @@
    "years_required": null
   },
   "35197b50": {
-   "applied": null,
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
     "after": 100,
     "before": 69,
@@ -9497,6 +9510,11 @@
      "date": "2026-11-21",
      "note": "auto-submit gagal: needs_code ",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "35197b50",
@@ -9516,7 +9534,7 @@
    },
    "source": "GH:elastic",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Mid Market Account Executive - Indonesia",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8092159&gh_jid=8092159",
@@ -9769,12 +9787,12 @@
   "361c9b69": {
    "applied": null,
    "ats": {
-    "after": 90,
-    "before": 64,
-    "if_pending_confirmed": 90,
+    "after": 100,
+    "before": 74,
+    "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
      "keywords": 50.0,
      "soft": 10.0,
@@ -10935,12 +10953,12 @@
   "3c48e160": {
    "applied": null,
    "ats": {
-    "after": 90,
-    "before": 67,
-    "if_pending_confirmed": 90,
+    "after": 100,
+    "before": 77,
+    "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
      "keywords": 50.0,
      "soft": 10.0,
@@ -10991,7 +11009,8 @@
    "years_required": 10
   },
   "3c5eeab4": {
-   "applied": null,
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
     "after": 100,
     "before": 70,
@@ -11030,6 +11049,11 @@
      "date": "2026-11-21",
      "note": "auto-submit gagal: needs_code ",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "3c5eeab4",
@@ -11049,7 +11073,7 @@
    },
    "source": "GH:inmobi",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Sales Manager - Microsoft Ads - Jakarta, Indonesia",
    "url": "https://job-boards.greenhouse.io/inmobi/jobs/8204049",
@@ -18009,12 +18033,12 @@
   "6792db39": {
    "applied": null,
    "ats": {
-    "after": 85,
-    "before": 62,
-    "if_pending_confirmed": 89,
+    "after": 95,
+    "before": 72,
+    "if_pending_confirmed": 99,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
      "keywords": 46.4,
      "soft": 8.6,
@@ -20627,7 +20651,8 @@
    "years_required": 5
   },
   "77692301": {
-   "applied": null,
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
     "after": 100,
     "before": 79,
@@ -20668,6 +20693,11 @@
      "date": "2026-11-21",
      "note": "auto-submit gagal: needs_code ",
      "status": "rejected"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "77692301",
@@ -20687,7 +20717,7 @@
    },
    "source": "GH:databricks",
    "sponsorship_mentioned": false,
-   "status": "rejected",
+   "status": "applied",
    "tier": "C",
    "title": "Hunter Account Executive - Indonesia",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878066002",
@@ -22918,14 +22948,15 @@
    "years_required": null
   },
   "849dc99d": {
-   "applied": null,
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
-    "after": 89,
-    "before": 64,
-    "if_pending_confirmed": 89,
+    "after": 99,
+    "before": 74,
+    "if_pending_confirmed": 99,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
      "keywords": 50.0,
      "soft": 8.9,
@@ -22953,6 +22984,11 @@
      "date": "2026-11-21",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "849dc99d",
@@ -22972,7 +23008,7 @@
    },
    "source": "GH:mixpanel",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Enterprise Account Executive, Malaysia & Indonesia",
    "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080833",
@@ -30287,12 +30323,12 @@
   "b538cc8d": {
    "applied": null,
    "ats": {
-    "after": 90,
-    "before": 51,
-    "if_pending_confirmed": 90,
+    "after": 100,
+    "before": 61,
+    "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
      "keywords": 50.0,
      "soft": 10.0,
@@ -31648,12 +31684,12 @@
   "bc0b4873": {
    "applied": null,
    "ats": {
-    "after": 90,
-    "before": 58,
-    "if_pending_confirmed": 90,
+    "after": 100,
+    "before": 68,
+    "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
-     "experience": 0,
+     "experience": 10,
      "format": 10.0,
      "keywords": 50.0,
      "soft": 10.0,

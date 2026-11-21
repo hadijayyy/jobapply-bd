@@ -1,8 +1,8 @@
 # ATS: Amazon Web Services | Senior Account Manager, Telco
 - Link: https://www.amazon.jobs/en/jobs/10525133/senior-account-manager-telco
 - CV: out/cv/Amazon-Web-Services-361c9b69/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 64 (CV master) -> 90 (CV tailored)** | jika item pending dikonfirmasi: 90
-- Rincian: keywords 50.0, title 15, soft 10.0, experience 0, education 5, format 10.0
+- **Skor ATS: 74 (CV master) -> 100 (CV tailored)** | jika item pending dikonfirmasi: 100
+- Rincian: keywords 50.0, title 15, soft 10.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Manager"
 
 ## Keyword audit

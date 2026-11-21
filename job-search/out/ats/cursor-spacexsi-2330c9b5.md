@@ -1,8 +1,8 @@
 # ATS: Cursor (SpaceXSI) | Strategic Account Executive, Enterprise - Indonesia
 - Link: https://jobs.ashbyhq.com/cursor/73276c7b-2e2a-4891-9d33-3739c9053baf
 - CV: out/cv/Cursor-Spacexsi-2330c9b5/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 67 (CV master) -> 88 (CV tailored)** | jika item pending dikonfirmasi: 88
-- Rincian: keywords 50.0, title 15, soft 8.3, experience 0, education 5, format 10.0
+- **Skor ATS: 77 (CV master) -> 98 (CV tailored)** | jika item pending dikonfirmasi: 98
+- Rincian: keywords 50.0, title 15, soft 8.3, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"
 
 ## Keyword audit

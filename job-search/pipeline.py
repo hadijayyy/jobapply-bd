@@ -6,7 +6,7 @@
 Daily:    python3 job-search/pipeline.py run
 Judgment steps (Claude does these, see WORKFLOW.md): review, fill kit placeholders, Gmail drafts.
 `autoapply run` fills and submits Greenhouse applications (Ryan chose auto-submit, 16 Nov 2026). When Greenhouse asks
-for its human-verification code it stops and waits for Ryan. It never sends email.
+for its human-verification code it waits; Claude reads the code from Ryan's inbox (allowed 21 Nov 2026). It never sends email.
 """
 import argparse, sys
 from pathlib import Path

@@ -1,8 +1,8 @@
 # ATS: EDB | Sr Account Executive
 - Link: https://www.enterprisedb.com/careers/job-openings?gh_jid=7969956003
 - CV: out/cv/Edb-21d4f7e7/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 59 (CV master) -> 87 (CV tailored)** | jika item pending dikonfirmasi: 88
-- Rincian: keywords 47.7, title 15, soft 9.0, experience 0, education 5, format 10.0
+- **Skor ATS: 69 (CV master) -> 97 (CV tailored)** | jika item pending dikonfirmasi: 98
+- Rincian: keywords 47.7, title 15, soft 9.0, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"
 
 ## Keyword audit

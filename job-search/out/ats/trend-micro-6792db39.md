@@ -1,8 +1,8 @@
 # ATS: Trend Micro | Strategic Account Manager (Government)
 - Link: https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Strategic-Account-Manager--Government-_R0010400
 - CV: out/cv/Trend-Micro-6792db39/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 62 (CV master) -> 85 (CV tailored)** | jika item pending dikonfirmasi: 89
-- Rincian: keywords 46.4, title 15, soft 8.6, experience 0, education 5, format 10.0
+- **Skor ATS: 72 (CV master) -> 95 (CV tailored)** | jika item pending dikonfirmasi: 99
+- Rincian: keywords 46.4, title 15, soft 8.6, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Manager"
 
 ## Keyword audit

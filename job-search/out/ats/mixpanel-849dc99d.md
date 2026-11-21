@@ -1,8 +1,8 @@
 # ATS: Mixpanel | Enterprise Account Executive, Malaysia & Indonesia
 - Link: https://job-boards.greenhouse.io/mixpanel/jobs/8080833
 - CV: out/cv/Mixpanel-849dc99d/Ryan Hadi_CV_Business Development.pdf (1 halaman)
-- **Skor ATS: 64 (CV master) -> 89 (CV tailored)** | jika item pending dikonfirmasi: 89
-- Rincian: keywords 50.0, title 15, soft 8.9, experience 0, education 5, format 10.0
+- **Skor ATS: 74 (CV master) -> 99 (CV tailored)** | jika item pending dikonfirmasi: 99
+- Rincian: keywords 50.0, title 15, soft 8.9, experience 10, education 5, format 10.0
 - Judul role yang dicari ATS: "Account Executive"
 
 ## Keyword audit

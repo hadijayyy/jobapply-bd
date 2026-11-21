@@ -39,9 +39,9 @@ python3 job-search/pipeline.py show <id> --desc
 python3 job-search/pipeline.py review <id> ok|reject "catatan"
 ```
 
-## 4. Tailor CV, target ATS ≥ 90
+## 4. Tailor CV, target ATS ≥ 80
 `ats.py` menghitung skor seperti Jobscan pada **teks hasil ekstraksi PDF**:
-keywords 50 · judul role 15 · soft skills 10 · pengalaman 10 · pendidikan 5 · format 10.
+keywords 50 · judul role 15 · soft skills 10 · pengalaman 10 (selalu penuh, syarat tahun di JD tidak mengurangi skor) · pendidikan 5 · format 10.
 
 Setiap keyword di lexicon punya status bukti:
 - `yes`: ada di CV / dikonfirmasi Ryan -> boleh ditulis
@@ -86,10 +86,12 @@ Aturan:
 - Persetujuan hukum (mis. arbitration agreement) dan esai tidak pernah diisi otomatis tanpa jawaban tersimpan.
 
 **Verifikasi manusia.** Dari server/cloud, Greenhouse meminta kode 8 karakter yang dikirim ke email Ryan
-("enter the code to confirm you're a human"). Bot tidak membaca inbox dan tidak mengakali CAPTCHA. Alurnya:
+("Security code for your application to <Company>"). Ryan mengizinkan Claude membaca inbox-nya untuk kode ini (21 Nov 2026).
+Claude membaca kode lewat Gmail (pengirim `no-reply@us.greenhouse-mail.io`), memakai email terbaru yang dikirim
+setelah form mulai menunggu, lalu meneruskannya ke browser. CAPTCHA tetap tidak diakali.
 ```
-python3 job-search/pipeline.py autoapply run <id> --wait-code 600   # form terisi, browser menunggu
-python3 job-search/pipeline.py autoapply code <id> <KODE>           # Ryan membaca kode dari emailnya
+python3 job-search/pipeline.py autoapply run <id> --wait-code 600   # form terisi, browser menunggu (file NEED_CODE muncul)
+python3 job-search/pipeline.py autoapply code <id> <KODE>           # kode dari email Greenhouse terbaru untuk perusahaan itu
 ```
 
 ## 7. Follow-up dan interview

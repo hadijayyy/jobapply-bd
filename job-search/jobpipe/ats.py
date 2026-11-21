@@ -3,7 +3,7 @@
   keywords   50  weighted coverage of the JD's hard-skill keywords (sales motions, tools, partner types, domain)
   title      15  the JD's role title appears in the CV (headline / summary)
   soft       10  coverage of the JD's soft-skill keywords
-  experience 10  years asked in the JD vs Ryan's 5+
+  experience 10  always full (Ryan, 21 Nov 2026: years asked in the JD do not count against the score)
   education   5  degree present when the JD asks for one
   format     10  standard headings, contact details, one column, text extractable
 
@@ -140,10 +140,7 @@ def score(cv_text, jd_text, title, years_required=None, include_pending=False):
     words = [w for w in re.findall(r"[a-z]+", core.lower()) if len(w) > 2]
     title_pts = 15 if title_hit else round(15 * sum(w in cv_text.lower() for w in words) / max(1, len(words)) * 0.6)
 
-    if years_required is None or years_required <= RYAN_YEARS:
-        exp = 10
-    else:
-        exp = {6: 6}.get(years_required, 0)
+    exp = 10  # Ryan, 21 Nov 2026: years asked in the JD must not lower the ATS score
     asks_degree = re.search(r"bachelor|degree|university|\bba\b|\bbs\b", jd_text, re.I)
     edu = 5 if (not asks_degree or re.search(r"bachelor", cv_text, re.I)) else 0
     fmt = sum([2.5 * all(h in cv_text for h in FORMAT_HEADINGS),
