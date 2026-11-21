@@ -10551,6 +10551,16 @@
      "date": "2026-11-17",
      "note": "discovered",
      "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "ashby submit: filled ",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "ashby submit: captcha (reCAPTCHA image challenge muncul saat submit; tidak diakali, belum terkirim)",
+     "status": "new"
     }
    ],
    "id": "38e46a0c",

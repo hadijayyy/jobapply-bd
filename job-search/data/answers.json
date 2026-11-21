@@ -17,6 +17,12 @@
   "scope": "HubSpot | Outbound Business Development Representative - ANZ",
   "source": "ai"
  },
+ "1f36f60035a1": {
+  "answer": "Require a sponsorship (EP/SP)",
+  "label": "Work Eligibility",
+  "scope": "airwallex | Sales Development Representative, Mid-Market",
+  "source": "claude: dari profil (WNI, butuh sponsor di luar Indonesia)"
+ },
  "3c3a12940489": {
   "answer": "Yes",
   "label": "Are you comfortable working 5 days from Jakarta office?",
@@ -46,6 +52,12 @@
   "label": "How should we communicate with you?",
   "scope": "Elastic | Mid Market Account Executive - Indonesia",
   "source": "ai"
+ },
+ "4ef1e75031f6": {
+  "answer": "At Sinar Mas Land (OneSmartServices) I built AI workflows with ChatGPT and Claude for three parts of my sales process: researching target accounts before outreach, drafting first-touch messages that I edit before sending, and turning discovery notes into proposal drafts. Measured results: monthly prospect research volume tripled, discovery meetings doubled, proposal turnaround dropped from several days to one, and I save 10+ hours a week.",
+  "label": "What is the most impressive thing you’ve personally built or automated with AI? Describe exactly what you did, how it worked, and the measurable outcome",
+  "scope": "Deepgram | Sales Development Representative",
+  "source": "claude: dari candidate.json proofs.ai"
  },
  "5096e9b8fb17": {
   "answer": "None of the above",
@@ -179,6 +191,12 @@
   "scope": "Elastic | Sales Development Representative (Public Sector)",
   "source": "ai"
  },
+ "c102645b3c96": {
+  "answer": "About one month after accepting an offer (one-month notice period at my current employer).",
+  "label": "When would you be available to start working full-time?",
+  "scope": "semua lowongan",
+  "source": "claude: dari profil (notice 1 bulan)"
+ },
  "c306864ce61b": {
   "answer": "Yes",
   "label": "Are you willing to undergo a background check as part of this hiring process?",
@@ -196,6 +214,12 @@
   "label": "Which passport(s) do you currently hold?",
   "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
   "source": "ai"
+ },
+ "cf3729570814": {
+  "answer": "Yes",
+  "label": "We encourage you to use AI tools to help research, prepare, or refine your application materials. However, we ask that you do not use AI tools during live, real-time interviews unless you've been explicitly told otherwise. Our goal during live conversations is to get a true sense of how you think on",
+  "scope": "semua lowongan",
+  "source": "claude: pernyataan tidak pakai AI saat interview live"
  },
  "ddc1f142d477": {
   "answer": "Ryan",
@@ -220,5 +244,11 @@
   "label": "Do you have at least 6+ years of full time relevant working experience?",
   "scope": "Dropbox | Senior Account Executive - ANZ",
   "source": "ai"
+ },
+ "fd49c5799827": {
+  "answer": "Yes",
+  "label": "We encourage you to use AI tools to help research, prepare, or refine your application materials. However, we ask that you do not use AI tools during live, real-time interviews unless you've been explicitly told otherwise. Our goal during live conversations is to get a true sense of how you think on",
+  "scope": "semua lowongan",
+  "source": "claude: pernyataan tidak pakai AI saat interview live"
  }
 }
