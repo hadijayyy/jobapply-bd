@@ -41,7 +41,14 @@ async function fill(page, f) {
     if (await box.count()) await box.check({ force: true }); else notes.push('checkbox tidak ada di halaman: ' + f.name);
     return;
   }
-  if (f.kind === 'select') return pick(page, page.locator(q(f.name)), f.value[0]);
+  if (f.kind === 'select') {
+    // Education comboboxes word the same choice differently per board ("Bachelor's Degree" vs "Bachelor"): try each.
+    const tries = [f.value[0], ...(f.alts || [])];
+    for (let i = 0; i < tries.length; i++) {
+      try { await pick(page, page.locator(q(f.name)), tries[i]); f.value = [tries[i]]; return; }
+      catch (e) { await page.keyboard.press('Escape'); if (i === tries.length - 1) throw e; }
+    }
+  }
   if (f.kind === 'multi') {
     for (let i = 0; i < f.value.length; i++) {
       const box = page.locator(q(`${f.name}_${f.value_ids[i]}`));
@@ -77,6 +84,17 @@ async function errors(page) {
         await page.screenshot({ path: path.join(out, 'error.png'), fullPage: true });
         return done('error', { detail: `field ${f.name} (${f.label}): ${e.message.split('\n')[0]}` });
       }
+    }
+    // Employment history block (some boards require it): current role from the profile, only if the form has it.
+    const emp = plan.employment;
+    if (emp && await page.locator('#company-name-0').count()) {
+      await page.locator('#company-name-0').fill(emp.company);
+      await page.locator('#title-0').fill(emp.title);
+      await pick(page, page.locator('#start-date-month-0'), emp.start_month);
+      await page.locator('#start-date-year-0').fill(emp.start_year);
+      const cur = page.locator('[id="current-role-0_1"]');
+      if (emp.current && await cur.count()) await cur.check({ force: true });
+      notes.push('employment: ' + emp.company + ' since ' + emp.start_month + ' ' + emp.start_year);
     }
     if (plan.location_search) {
       const loc = page.locator('#candidate-location');

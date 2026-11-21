@@ -105,8 +105,9 @@ def plan(job):
     if form.get("education") == "education_required":
         ed = P.get("education") or {}
         if ed.get("school_option") and ed.get("degree_option"):
-            fields.append({"name": "school--0", "kind": "select", "label": "School", "value": [ed["school_option"]], "value_ids": []})
-            fields.append({"name": "degree--0", "kind": "select", "label": "Degree", "value": [ed["degree_option"]], "value_ids": []})
+            fields.append({"name": "school--0", "kind": "select", "label": "School", "value": [ed["school_option"]], "value_ids": [], "alts": ["Other - Not Listed", "Other School", "Others"]})
+            fields.append({"name": "degree--0", "kind": "select", "label": "Degree", "value": [ed["degree_option"]], "value_ids": [],
+                           "alts": ["Bachelor", "Bachelor's", "Bachelors Degree", "Bachelor of Engineering", "Bachelor's degree"]})
         else:
             block("Education (school, degree)", "education", "pendidikan wajib, profil belum punya school_option/degree_option")
     # Demographic survey: only answered when the form makes it mandatory, and then always "decline to answer".
@@ -129,7 +130,7 @@ def plan(job):
     out = OUT / job["id"]
     return {"id": job["id"], "company": job["company"], "title": job["title"], "url": url, "out_dir": str(out),
             "location_search": P["location_search"] if form.get("location_questions") else None,
-            "phone_country": P["phone_country"], "fields": fields, "blocked": blocked, "skipped": skipped,
+            "phone_country": P["phone_country"], "employment": P.get("employment"), "fields": fields, "blocked": blocked, "skipped": skipped,
             "code_wait_s": CFG.get("code_wait_s", 0)}
 
 

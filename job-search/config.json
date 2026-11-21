@@ -431,6 +431,8 @@
  },
  "sources_enabled": [
   "greenhouse",
+  "ashby",
+  "lever",
   "hiringcafe_import"
  ],
  "_sources_note": "Pilihan: greenhouse, lever, ashby, smartrecruiters, remotive, himalayas, remoteok, wwr, hiringcafe_import. Hiring Cafe diblokir Cloudflare untuk akses otomatis; paste link-nya ke data/hiringcafe_import.txt.",
@@ -445,11 +447,12 @@
    "B"
   ],
   "min_score": 50,
-  "max_per_run": 10,
+  "max_per_run": 1000,
   "max_per_company": 2,
   "pause_s": 20,
   "timeout_s": 240,
-  "code_wait_s": 0
+  "code_wait_s": 0,
+  "_note_limit": "Batas 10 per putaran dihapus atas permintaan Ryan (21 Nov 2026). Batas 2 per perusahaan per putaran tetap."
  },
  "region_apac": "\\bapac\\b|asean|southeast asia|\\bsea\\b|\\basia\\b|singapore|malaysia|kuala lumpur|thailand|bangkok|vietnam|philippines|manila|hong kong|australia|sydney|melbourne|\\banz\\b|new zealand|\\bindia\\b|bangalore|bengaluru|mumbai|indonesia|jakarta",
  "region_other": "united states|\\busa?\\b|u\\.s\\.|americas?|\\bamer\\b|north america|canada|toronto|emea|europe|\\beu\\b|\\buk\\b|\\buki\\b|united kingdom|london|ireland|dublin|germany|berlin|munich|france|paris|netherlands|amsterdam|belux|benelux|nordics?|spain|madrid|barcelona|italy|portugal|lisbon|poland|sweden|switzerland|austria|israel|tel aviv|turkey|uae|dubai|saudi|middle east|\\bmea\\b|\\bmena\\b|africa|nigeria|lagos|kenya|egypt|colombia|bogot|mexico|monterrey|brazil|s[aã]o paulo|argentina|chile|latam|japan|tokyo|korea|seoul|china|taiwan|new york|san francisco|seattle|austin|chicago|boston|denver|atlanta|dallas|texas|california|florida|georgia|tennessee|illinois|ohio|virginia|washington|colorado|arizona|carolina|\\b(east|west|central|midwest|northeast|northwest|southwest|tola|pnw|norcal|socal|mid-?atlantic)\\b|southeast(?! asia)",
