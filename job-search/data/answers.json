@@ -11,10 +11,46 @@
   "scope": "semua lowongan",
   "source": "claude: dari profil (WNI)"
  },
+ "065618c6b609": {
+  "answer": "No",
+  "label": "In your current role, do you engage with Mastercard or Recorded Future employees to negotiate, influence and/or sign commercial contracts or government contracts?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
+  "source": "Ryan 21 Nov 2026: semua conflict-of-interest No"
+ },
  "0739dbd73416": {
   "answer": "Decline to Self Identify",
   "label": "Are you of Aboriginal and/or Torres Strait Islander origin?",
   "scope": "HubSpot | Outbound Business Development Representative - ANZ",
+  "source": "ai"
+ },
+ "077f13c401da": {
+  "answer": "Jakarta, Indonesia",
+  "label": "Where is your permanent (City, Country) work location?",
+  "scope": "LaunchDarkly | Sales Development Representative - APAC",
+  "source": "ai"
+ },
+ "08ce527c8588": {
+  "answer": "No",
+  "label": "Do you currently reside in Sinagpore?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
+  "source": "ai"
+ },
+ "16bebcd6465b": {
+  "answer": "No",
+  "label": "Are you or were you recently (in the last six months) an employee of a government office or agency that has oversight over Mastercard or Recorded Future?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
+  "source": "ai"
+ },
+ "182dd406f721": {
+  "answer": "No",
+  "label": "Do you have experience working on our platform?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
+  "source": "ai"
+ },
+ "1a6a2f214a0d": {
+  "answer": "Indonesia",
+  "label": "If yes, what country?",
+  "scope": "LaunchDarkly | Sales Development Representative - APAC",
   "source": "ai"
  },
  "1f36f60035a1": {
@@ -22,6 +58,12 @@
   "label": "Work Eligibility",
   "scope": "airwallex | Sales Development Representative, Mid-Market",
   "source": "claude: dari profil (WNI, butuh sponsor di luar Indonesia)"
+ },
+ "31ab4d1e2a5a": {
+  "answer": "Ryan Hadi",
+  "label": "Please Review the NDA and indicate your agreement by typing your full name below",
+  "scope": "Rubrik | Sales Development Representative, Singapore",
+  "source": "ai"
  },
  "3c3a12940489": {
   "answer": "Yes",
@@ -45,6 +87,12 @@
   "answer": "N/A",
   "label": "If you answered yes to being related to a current Qualtrics employee, please specify name and relationship (N/A if not applicable).",
   "scope": "Qualtrics | Enterprise Account Services Associate",
+  "source": "ai"
+ },
+ "44a089927bc9": {
+  "answer": "No",
+  "label": "Are you related to anyone who has the authority to influence and/or sign commercial contracts or government contracts with Mastercard or Recorded Future?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
   "source": "ai"
  },
  "4516e1bfd548": {
@@ -131,6 +179,18 @@
   "scope": "semua lowongan",
   "source": "ai"
  },
+ "840d59911873": {
+  "answer": "No",
+  "label": "Are you currently engaged in any outside employment or activity that you would like to continue if you are hired by Recorded Future?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
+  "source": "ai"
+ },
+ "8585528d75b2": {
+  "answer": "No",
+  "label": "Are you related to anyone who is an employee of a government office or agency that has oversight over Mastercard or Recorded Future?",
+  "scope": "Recorded Future | Business Development Representative, ASEAN",
+  "source": "ai"
+ },
  "8fcccf62aca2": {
   "answer": "No",
   "label": "Please email me about future job openings",
@@ -165,6 +225,12 @@
   "answer": "No. My background is B2B enterprise IT sales and channel partnerships (MSPs, resellers, technology vendors), not digital ad sales.",
   "label": "Do you have Digital ad sales or agency partnership background?",
   "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "ae9f8cb2842b": {
+  "answer": "No",
+  "label": "Do you currently reside in Australia?",
+  "scope": "Breezeway | Sales Development Representative - APAC",
   "source": "ai"
  },
  "aec0731a4df5": {

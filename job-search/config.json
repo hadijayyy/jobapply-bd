@@ -431,11 +431,9 @@
  },
  "sources_enabled": [
   "greenhouse",
-  "ashby",
-  "lever",
   "hiringcafe_import"
  ],
- "_sources_note": "Pilihan: greenhouse, lever, ashby, smartrecruiters, remotive, himalayas, remoteok, wwr, hiringcafe_import. Hiring Cafe diblokir Cloudflare untuk akses otomatis; paste link-nya ke data/hiringcafe_import.txt.",
+ "_sources_note": "Pilihan: greenhouse, lever, ashby, smartrecruiters, remotive, himalayas, remoteok, wwr, hiringcafe_import. Hiring Cafe diblokir Cloudflare untuk akses otomatis; paste link-nya ke data/hiringcafe_import.txt. | 21 Nov 2026: Ryan minta fokus Greenhouse saja; Ashby/Lever dimatikan (CAPTCHA saat submit).",
  "sponsorship_ok": "visa sponsorship|sponsor(ship)? (is )?(available|provided|offered)|(will|can|able to) sponsor|relocation (support|assistance|package|allowance)|employment pass support|work visa support",
  "abroad_onsite_loc": ".",
  "title_geo": "indonesia|jakarta|southeast asia|asean|apac|\\bsea\\b|singapore|malaysia|remote|global",

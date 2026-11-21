@@ -3695,6 +3695,80 @@
    "workplace": "",
    "years_required": 8
   },
+  "17c229b1": {
+   "applied": null,
+   "apply_blocked": [
+    "Are you legally allowed to work in the country where this job is located?",
+    "Can NinjaOne text you updates about your application?",
+    "Current City",
+    "Current Country"
+   ],
+   "ats": {
+    "after": 98,
+    "before": 53,
+    "if_pending_confirmed": 98,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 7.8,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "JD menyatakan tidak ada sponsor visa (untuk lokasi di luar Indonesia)"
+   ],
+   "comp": "",
+   "company": "NinjaOne",
+   "cv": "out/cv/Ninjaone-17c229b1/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About us\n NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries\nThe NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous patching, backup, and remote access in a single console to improve efficiency, increase resilience, and reduce spend. By automating IT and managing all endpoints, organizations give employees a great technology experience at work.\nNinjaOne is obsessed with customer success and has retained a 98% customer satisfaction score for more than 5 years.\n About the Role &nbsp; \n As a Sales Development Representative, you will research potential clients, connect with and educate prospects, and qualify leads. You will do this through outreach in the form of cold calls, emails, or social networking with the purpose of scheduling demos for your Account Executive. \n If you come from a non-tech sales background (such as car sales, insurance sales, phone sales, logistics sales, or similar) or a technical background (cybersecurity, computer science, IT, or similar) and are excited to take a next step into a tech sales career, we'd love to have you apply!\n Location – Singapore, Hybrid (3 days per week in the office) \n What You’ll be Doing&nbsp; &nbsp; \n Grow your individual book of business by proactively generating new qualified leads   \n Identify, connect with, qualify, sort, and track leads . \n Hustle to achieve and exceed various core metrics, quotas, and KPIs as set by your manager, such as a minimum number of daily cold calls, emails, etc.   \n Display exceptional cold-call prospecting using consultative phone skills, including the ability to clearly articulate, inspire, project confidence, influence, overcome objections, and remain resilient throughout . \n Utilize Salesforce to ensure activities are documented properly, contact information remains updated, opportunities are forecast accurately, and adequate information regarding the prospect and/or opportunity is communicated . \n Maintain knowledge of market conditions and competitive activities . \n Other duties as needed . &nbsp; \n About You \n Competitive eagerness to set yourself apart and achieve success &nbsp; \n Aggressive, energetic self-starter who enjoys working in a quota-driven environment, works well under pressure, and enjoys being on a large team \n Superior verbal and written communication skills via phone and email, with a keen attention to detail and excellent follow-up skills\n Excellent listening and analytical skills to assess the interests of prospects\n Experience meeting minimum call volume and/or talk-time goals\n Strong organizational skills and ability to manage time and workload\n Technical aptitude and the ability to successfully demonstrate and convey the value proposition behind NinjaOne's IT management software\n Coachable and eager to learn, with a solid work ethic and positive attitude\n Ability to work independently, prioritize tasks, honour rules of engagement, and follow policies, processes, and procedures\n Bonus skills include experience with Salesforce (or other CRM), SalesLoft, and other sales tools; as well as experience specifically working in or with, or selling, to IT departments, Resellers, MSPs, and Director/C-Level IT executives\n No degree requirement &nbsp; \n What You’ll Love &nbsp; \n We are a collaborative, kind, and curious community &nbsp; \n We prioritise your work/life balance offering a hybrid work environment and free in-office lunches throughout the week \n We reward your work with opportunity for growth and advancement\n Grow personally and together with one of the fastest growing companies globally\n Develop your skills through our renowned training platform\n Receive competitive compensation \n Collaborate with an amazing international workforce  &nbsp;\n Additional Information &nbsp; \n Applicants must hold valid working rights in Singapore at the time of application. We are unable to provide visa sponsorship for this role.\n We are an equal opportunity employer in accordance with Singapore's Employment Act and the Tripartite Guidelines on Fair Employment Practices (TGFEP). All applicants will receive fair consideration for employment regardless of nationality, gender, age, disability, or background. We are committed to fostering an inclusive and respectful workplace for all employees. &nbsp; \n All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, veteran status, or any other status protected by applicable law. We are committed to providing an inclusive and diverse work environment. \n Candidate Privacy \n When you apply, NinjaOne collects and uses your personal information to review your application and manage the hiring process. To learn how we use, store, and protect your data, and what your rights are, please read our Candidate Privacy Policy at https://www.ninjaone.com/candidate-privacy-policy .",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "Ryan skip: JD tidak sponsor visa, role di Singapura",
+     "status": "skipped"
+    }
+   ],
+   "id": "17c229b1",
+   "kit": null,
+   "location": "Singapore",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-11-04",
+   "red_flags": [],
+   "score": 77,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 26
+   },
+   "source": "GH:ninjaone",
+   "sponsorship_mentioned": false,
+   "status": "skipped",
+   "tier": "C",
+   "title": "Sales Development Representative - Singapore",
+   "url": "https://job-boards.greenhouse.io/ninjaone/jobs/4472274009",
+   "workplace": "",
+   "years_required": 5
+  },
   "18140e7b": {
    "applied": null,
    "blockers": [
@@ -15288,6 +15362,73 @@
    "workplace": "",
    "years_required": 3
   },
+  "553f8f82": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 100,
+    "before": 56,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "LaunchDarkly",
+   "cv": "out/cv/Launchdarkly-553f8f82/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About the Job:\n LaunchDarkly is looking for an experienced, self-directed Sales Development Representative to own the first stage of engagement across APAC. You will manage and qualify inbound leads, event MQLs, and accounts showing meaningful engagement through our account-based programs.\n This is not a purely reactive lead-response role. You will combine fast, consultative follow-up with thoughtful, proactive outreach to turn customer interest and buying signals into qualified meetings and pipeline.\n Responsibilities:\n Act as the first point of contact for prospective customers across the region, creating a fast, thoughtful, and credible first impression.\n Respond rapidly to high-intent inbound inquiries, including demo requests, pricing requests, trials, contact forms, and other hand-raisers.\n Own follow-up for event leads, adapting outreach based on the person, account, and engagement history.\n Research and proactively engage targeted accounts that show meaningful engagement and buying intent.\n Convert qualified interest into sales-ready meetings and opportunities for Account Executives.\n Execute coordinated outreach across phone, email, LinkedIn, and other approved channels.\n Maintain complete, accurate, and timely activity, qualification notes, and account context in Salesforce.\n Partner closely with Account Executives, Marketing, Revenue Operations, and the global SDR organization to improve lead quality, routing, messaging, and conversion.\n Share patterns and feedback from prospects so the broader team can improve campaigns, events, content, and the customer journey.\n Qualifications:\n At least 1 year of successful SDR or BDR experience in B2B SaaS or a similar environment.\n A demonstrated record of setting goals, taking ownership, and delivering measurable results.\n Experience communicating with customers, prospects, or other external audiences.\n Strong judgment and the ability to operate independently.\n Excellent written and verbal communication skills in English, with the confidence to engage senior and technical stakeholders.\n About LaunchDarkly: \n Modern software delivery was supposed to be the foundation for a thriving digital business but reality has proven otherwise. Slow, inefficient development cycles, costly outages, and fragmented customer experiences are preventing developers from building their best software. The LaunchDarkly platform helps developers innovate on new features faster while protecting them with a safety valve to instantly rewind when things go wrong. Developers can target product experiences to any customer segment and maximize the business impact of every feature. And by gradually rolling out new application components, they escape nightmare \"big-bang\" technology migrations.&nbsp;\n The LaunchDarkly platform was built to guide engineers to the next frontier of DevOps by:\n Improving the velocity and stability of software releases, without the fear of end customer outages\n Delivering targeted experiences by easily personalizing features to customer cohorts\n Maximizing the business impact of every feature through the ability to experiment and optimize\n Coordinating the release and optimization of software to provide consistent experiences across mobile platforms and device types\n Improving the effectiveness and productivity of engineering teams, by providing insights into engineering cadence and stability\n At LaunchDarkly, we believe in the power of teams. We're building a team that is humble, open, collaborative, respectful and kind. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, or disability status. LD invites any applicant to review our written Affirmative Action Plan. To do so, contact People Ops at hr@launchdarkly.com .&nbsp;\n Do you need a disability accommodation? \n Fill out this&nbsp; accommodations request form &nbsp;and someone from our People Operations team will contact you for assistance.&nbsp;\n Your safety matters to us. To protect yourself from potential scams, LaunchDarkly recruiters will only contact you from @LaunchDarkly .com email addresses or via LinkedIn from \"Verified Recruiter\" accounts. Be cautious of emails from other domains.&nbsp; Legitimate LaunchDarkly recruiters will never ask for money, fees, or banking information before making a job offer. LaunchDarkly will never make a job offer without conducting a formal interview process. Our interview process does not involve asking detailed questions by email. If you are ever unsure about a communication that you receive, don't click any links—visit Careers | LaunchDarkly &nbsp; directly for confirmed job openings and links to apply.\nPlease notify us of any fraudulent representation by sending an email to careers@launchdarkly.com .",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "553f8f82",
+   "kit": null,
+   "location": "Sydney, New South Wales, Australia",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-11-09",
+   "red_flags": [],
+   "score": 76,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 8,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "GH:launchdarkly",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "B",
+   "title": "Sales Development Representative - APAC",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8199239003",
+   "workplace": "",
+   "years_required": null
+  },
   "55fb73be": {
    "applied": null,
    "blockers": [
@@ -18739,6 +18880,77 @@
    "workplace": "",
    "years_required": 10
   },
+  "6a942b8f": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 99,
+    "before": 57,
+    "if_pending_confirmed": 99,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 48.8,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Mandarin wajib",
+    "Wajib residen negara lain"
+   ],
+   "comp": "",
+   "company": "Recorded Future",
+   "cv": "out/cv/Recorded-Future-6a942b8f/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company!\n As part of the APJ sales team at Recorded Future, you will serve as a Business Development Representative (BDR) - the frontline catalyst for revenue growth in named and target accounts. Through deep research, strategic outreach, relationship building and consultative discovery, you will build high‑quality opportunities and pipelines for our Account Directors based across the ASEAN territory.\n We seek a highly driven self‑starter with a passion for cybersecurity, who is eager to learn, develop and grow into a world‑class technology Account Director.&nbsp;\n By mastering Threat Intelligence, you will gain skills to analyse geopolitical shifts, nation-state tactics, and dark web trends, giving you the ability to engage confidently with CISOs, CIOs and IT decision-makers across the region. This isn't just a job; it is an education and career in a fast growing critical sector of the global economy that is projected to double in size by 2030.\n What You’ll Do: \n Prospect &amp; Qualify: Identify, research, and engage C‑suite and VP‑level prospects across target accounts\n Outbound Excellence:  Run multi‑channel sequences (phone, email, LinkedIn, video) to engage prospects and create new sales opportunities to achieve and exceed monthly qualified meeting targets\n Account Mapping:  Collaborate with Account Directors to build deep account intelligence: organisation charts, current technology stack, pain points, and buying committees\n Prospect &amp; Qualify:  Identify, research, and engage C‑suite and VP‑level prospects across target accounts\n Inbound Excellence:  Follow up on hand-raisers and marketing generated leads (MQLs) from events and webinars etc in a timely and efficient manner\n Discovery: Lead first‑call discovery calls, uncovering pain points, exploring how Recorded Future can add value, and secure a next steps meeting\n Sales Methodologies: Learn and apply Recorded Future’s proven sales methodologies and processes\n Collaboration:  Partner closely with Enterprise Account Directors, Marketing, and other cross-functional teams to craft tailored outreach campaigns\n Continuous Improvement:  Leverage coaching, call reviews, and enablement resources to refine messaging and objection‑handling skills\n Prospecting Tools: Utilise sales prospecting tools to identify and research target accounts and contacts\n CRM Hygiene:  Log activities and maintain data accuracy and quality in Salesforce\n What You’ll Bring: \n Minimum 2  years of successful outbound experience as a BDR / SDR, preferably in cybersecurity or technical SaaS products, in the ASEAN enterprise space\n Proven record of surpassing pipeline or quota goals in enterprise or government segments\n Able to engage confidently with executive‑level stakeholders\n Desire to pursue technology sales as a career path\n Ambitious self‑starter mentality with the agility to thrive in a high‑growth, data‑driven culture\n Experience with Salesforce, Outreach, and LinkedIn Sales Navigator and prospecting tools\n Excellent verbal and written communication\n Ability to take direction, be coached, and mentored\n Ability to travel to training and kick-off meetings in US, and marketing events across ASEAN as required\n Must be able to attend the office in Singapore at least 3 days a week as minimum\n Must be based in Singapore only\n Full professional proficiency in written and spoken English is required. Business-level fluency in Mandarin is highly preferred\n &nbsp;\n Why should you join Recorded Future?\n Recorded Future employees (or “Futurists”), represent over 40 nationalities and embody our core values of having high standards, practicing inclusion, and acting ethically. Our dedication to empowering clients with intelligence to disrupt adversaries has earned us a 4.6-star user rating on G2 and more than 50% of Fortune 100 companies as customers.\n Want more info? &nbsp;\n Blog &amp; Podcast : Learn everything you want to know (and maybe some things you’d rather not know) about the world of cyber threat intelligence\n Linkedin , Instagram &nbsp;&amp;&nbsp; Twitter : What’s happening at Recorded Future\n The Record : The Record is a cybersecurity news publication that explores the untold stories in this rapidly changing field\n Timeline : History of Recorded Future\n Recognition : Check out our awards and announcements\n We are committed to maintaining an environment that attracts and retains talent from a diverse range of experiences, backgrounds and lifestyles.&nbsp; By ensuring all feel included and respected for being unique and bringing their whole selves to work, Recorded Future is made a better place every day.\nIf you need any accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to our recruiting team at careers@recordedfuture.com &nbsp;\n Recorded Future is an equal opportunity and affirmative action employer and we encourage candidates from all backgrounds to apply. Recorded Future does not discriminate based on race, religion, color, national origin, gender including pregnancy, sexual orientation, gender identity, age, marital status, veteran status, disability or any other characteristic protected by law.\nRecorded Future will not discharge, discipline or in any other manner discriminate against any employee or applicant for employment because such employee or applicant has inquired about, discussed, or disclosed the compensation of the employee or applicant or another employee or applicant.\n Recorded Future does not administer a lie detector test as a condition of employment or continued employment. This is in compliance with the law of the Commonwealth of Massachusetts, and in alignment with our hiring practices across all jurisdictions. \n Recorded Future maintains a drug-free workplace. \n Note: Our interview process for all final-round candidates requires a mandatory&nbsp; in-person interview &nbsp;or a live, scheduled&nbsp; video conference with the hiring manager . We do not conduct interviews via instant messaging or text. All communications during the application process will come from individuals within our HR department via their Recorded Future email address. \n Notice to Agency and Search Firm Representatives: Recorded Future will not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to Recorded Future, including those sent to our employees or through our website, will become the property of Recorded Future. Recorded Future will not be liable for any fees related to unsolicited resumes. \n Agencies must have a valid written agreement in place with Recorded Future's recruitment team and must receive written authorization before submitting resumes. Submissions made without such agreements and authorization will not be accepted and no fees will be paid.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 51 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "6a942b8f",
+   "kit": null,
+   "location": "Singapore",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-10-01",
+   "red_flags": [],
+   "score": 81,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 30
+   },
+   "source": "GH:recordedfuture",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "C",
+   "title": "Business Development Representative, ASEAN",
+   "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8859090002",
+   "workplace": "",
+   "years_required": 2
+  },
   "6aca2dc2": {
    "applied": null,
    "blockers": [
@@ -19925,6 +20137,74 @@
    "url": "https://sumup.com/careers/positions/8936259002?gh_jid=8936259002",
    "workplace": "",
    "years_required": null
+  },
+  "70e4d14a": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 100,
+    "before": 61,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Breezeway",
+   "cv": "out/cv/Breezeway-70e4d14a/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Breezeway’s award-winning property operations and experience platform helps coordinate, communicate, and verify detailed work at properties. Powering over 55M property care tasks, Breezeway helps thousands of short-term rental managers and hospitality operators increase operational efficiency and boost service revenue while eliminating manual work and elevating the experience at each property.\n Sales Development Representative - Australia \n Breezeway is hiring an SDR to own and develop the APAC market from the ground up.\n Short-term rental is one of the fastest growing property segments across Australia, New Zealand, and South Korea, and Breezeway is building the team to match that opportunity. This is an early career role with real market ownership, not a seat in a call centre. You'll be the person putting Breezeway on the map across the region.\n Fully remote. Based in Australia.\n What You'll Do \n Identify and qualify new sales opportunities through proactive outbound prospecting and inbound follow-up\n Research prospective clients across the APAC region, identify key decision makers, and generate genuine interest\n Collaborate closely with the Sales team to develop and execute lead strategies for the market\n Schedule and conduct online product demonstrations and webinars\n Work with channel and distribution partners to build pipeline and market awareness\n Who You Are \n A strong communicator who can motivate and inspire prospects over the phone and in writing\n Driven to meet and exceed measurable goals\n Comfortable working autonomously across time zones and taking full ownership of your output\n Energetic, curious, and genuinely excited about building a career in sales\n Committed to diversity, equity, inclusion, and belonging\n What You'll Bring \n 1+ years in a sales role or a high-energy, target-driven environment\n Strong time management and ability to juggle multiple priorities across a wide region\n Sharp attention to detail\n Proficient with CRM tools, MS Office, and Google Apps\n Startup or scale-up experience is a plus\n Experience in property management, hospitality, or short-term rental is a strong advantage\n Breezeway is an equal opportunity employer and prohibits discrimination based on race, color, religion, sex, national origin, age, disability, genetic information, or any other protected status. We embrace diversity and are committed to creating an inclusive workplace. &nbsp;We believe that respect fosters open-mindedness and curiosity, enabling us to gain valuable perspectives from our teammates, the market, and our clients. All qualified applicants will receive consideration for employment without regard to these factors. If you need accommodation during the application process, please let us know.\n We're a remote-first company with team members across the U.S. and globe, but we currently hire only in the following states and countries.\n Countries: US and Spain\n United States: Arizona, Arkansas, California, Connecticut, Florida, Georgia, Idaho, Illinois, Maine, Massachusetts, Michigan, Missouri, Nevada, New Hampshire, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Utah, Vermont, Virginia, Washington, and Wisconsin.&nbsp;",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 137 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "70e4d14a",
+   "kit": null,
+   "location": "Remote - Australia",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2026-07-07",
+   "red_flags": [],
+   "score": 77,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 26
+   },
+   "source": "GH:breezeway",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "B",
+   "title": "Sales Development Representative - APAC",
+   "url": "https://job-boards.greenhouse.io/breezeway/jobs/5300603008",
+   "workplace": "",
+   "years_required": 1
   },
   "71c3d41a": {
    "applied": null,
@@ -26763,6 +27043,79 @@
    "workplace": "",
    "years_required": 6
   },
+  "9e0b42ee": {
+   "applied": "2026-11-21",
+   "apply_via": "auto",
+   "ats": {
+    "after": 99,
+    "before": 63,
+    "if_pending_confirmed": 99,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 9.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Lucid Software",
+   "cv": "out/cv/Lucid-Software-9e0b42ee/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Lucid Software is the leader in AI-driven work acceleration, helping teams see and build the future by turning ideas into reality.&nbsp; Its products include the Lucid Visual Collaboration Suite (Lucidchart and Lucidspark) and airfocus. The Lucid Visual Collaboration Suite, combined with powerful accelerators for cloud and process transformation, empowers organizations to streamline work, foster alignment, and drive business transformation at scale. We hold true to our core values: innovation in everything we do, passion &amp; excellence in every area, individual empowerment, initiative and ownership, and teamwork over ego. At Lucid, we value diverse perspectives and are dedicated to creating an environment and culture that is respectful and inclusive for everyone. Lucid is a hybrid workplace. We promote a healthy work-life balance by allowing employees to work remotely, from one of our offices, or a combination of the two depending on the needs of the role and team. \n Lucid Software is ranked #13 on the list of most used business applications among Fortune 500 businesses, and some of the world's largest organizations, such as Google, GE, Siemens, VW, NBC Universal, JLR and T-Mobile, rely on Lucid's solutions to accelerate critical business workflows across product design, process planning, team and infrastructure visualisation. The company boasts more than 100 million users. Despite already having such a dominant position in the market, Lucid is continuing to grow at pace and is acquiring hundreds of thousands of new users each month. \n Are you ready to break into the fast-paced world of SaaS and build the foundation for a lucrative career in tech sales? We are looking for an ambitious, hungry, and strategic Sales Development Representative (SDR) to join our APAC team.&nbsp;This isn't your typical \"smile and dial\" role. At Lucid, you are a strategic partner to our Account Executives, a master of regional territory planning, and the engine behind our expansion across the APAC market. We don’t just want you to find leads; we want to train you to become a world-class Sales professional. \n Responsibilities:&nbsp; \n Strategic Partnership: Collaborate with Account Executives to map out territories and hunt down key accounts \n The Outreach Mix: Master a multi-channel approach—utilizing cold calling, high-touch personalized emails, and LinkedIn social selling to spark curiosity \n Become a Product Pro: Develop an expert-level understanding of the Lucid platform to solve real-world business problems for IT, Operations, and Engineering leaders \n Master the Sales Cycle: You won't just pass leads; you’ll support discovery calls, assist in presentations, and as you grow, independently lead and close foundational transactions \n Operational Excellence: Use a modern tech stack (Salesforce, Salesloft, ZoomInfo) to manage your pipeline with precision \n Other assigned tasks \n Requirements: \n 6–12 months of sales or customer-facing experience where you’ve proven you can handle demand and hit targets \n Communication mastery: You can write a compelling hook and hold your own in a conversation with a C-suite executive \n Coachability: You have a growth mindset. You crave feedback because you know it's the fastest way to the top \n Grit: You’re organized, adaptable, and motivated by the win \n This position is hybrid, combining remote work with in-person collaboration at our Melbourne, AUS office two days per week (Tuesday and Thursday)\n Preferred Qualifications:&nbsp; \n Previous experience in SaaS or tech/software \n A proven track record of smashing quotas and/or generating high-quality pipeline \n A degree (BA/BS) or equivalent experience that shows you can see projects through to the end \n #LI-MG1",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 478 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit gagal: validation ['This field is required.', 'This field is required.', 'This field is required.']",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
+    }
+   ],
+   "id": "9e0b42ee",
+   "kit": null,
+   "location": "Melbourne, Victoria, AUS",
+   "notes": "Search 21 Nov: SDR multinational SaaS",
+   "posted": "2025-07-31",
+   "red_flags": [],
+   "score": 72,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "GH:lucidsoftware",
+   "sponsorship_mentioned": false,
+   "status": "applied",
+   "tier": "B",
+   "title": "APAC Sales Development Representative",
+   "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5603063004",
+   "workplace": "",
+   "years_required": null
+  },
   "9e5221fe": {
    "applied": null,
    "blockers": [
@@ -27003,10 +27356,8 @@
    "years_required": 7
   },
   "9fa82ca6": {
-   "applied": null,
-   "apply_blocked": [
-    "Please Review the NDA and indicate your agreement by typing your full name below"
-   ],
+   "applied": "2026-11-21",
+   "apply_via": "auto",
    "ats": {
     "after": 96,
     "before": 58,
@@ -27041,6 +27392,11 @@
      "date": "2026-11-21",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit: halaman konfirmasi Greenhouse tampil",
+     "status": "applied"
     }
    ],
    "id": "9fa82ca6",
@@ -27060,7 +27416,7 @@
    },
    "source": "GH:rubrik",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "applied",
    "tier": "B",
    "title": "Sales Development Representative, Singapore",
    "url": "https://www.rubrik.com/company/careers/departments/job.8190483?gh_jid=8190483",
@@ -37027,6 +37383,11 @@
      "date": "2026-11-21",
      "note": "auto: form Greenhouse masih aktif",
      "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "Ryan skip: form wajib alamat lengkap",
+     "status": "skipped"
     }
    ],
    "id": "d668c983",
@@ -37046,7 +37407,7 @@
    },
    "source": "GH:fivetran",
    "sponsorship_mentioned": false,
-   "status": "verified",
+   "status": "skipped",
    "tier": "B",
    "title": "Business Development Representative (Sydney)",
    "url": "https://www.fivetran.com/careers/job?gh_jid=7981431003",

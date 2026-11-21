@@ -126,6 +126,8 @@ def resolve(label, options, job, files, required=False, prior=None):
         if s(r"other") and s(r"country") and prior.get("country_other"):
             return ("text", HOME)
         return ("skip", "follow-up dari jawaban 'No'")
+    if s(r"\breferr(al|ed|er)|\breferred (to|by)|name of (the|your) (employee|referr)"):
+        return ("skip", "tidak direferensikan siapa pun")
     if s(r"preferred (first )?name|name you.d prefer|^first name"):
         return ("text", P["first_name"])
     if s(r"last name|surname|family name"):
@@ -160,6 +162,9 @@ def resolve(label, options, job, files, required=False, prior=None):
     if s(r"source of your right to work|basis.{0,30}right to work|work authori[sz]ation status"):
         home, _ = _auth(L, job)
         return ("pick", [r"citizen"] if home else [r"require sponsorship|need sponsorship|do not (currently )?have"])
+    if s(r"without (requiring |needing |the need for |any )?(visa |employer |employment )?sponsor"):
+        home, _ = _auth(L, job)  # "eligible to work ... WITHOUT sponsorship?" -> yes only where Ryan needs none
+        return ("pick", YES if home else NO)
     if s(r"sponsor|immigration|work (permit|visa)|employment pass|visa (support|status)"):
         _, sponsor = _auth(L, job)
         return ("pick", YES if sponsor else NO)

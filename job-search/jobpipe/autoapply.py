@@ -122,6 +122,25 @@ def plan(job):
             continue
         fields.append({"name": str(q["id"]), "kind": "select", "label": answers.norm(q["label"]), "value": dec[:1], "value_ids": []})
         answered_demo = True
+    # US EEOC block (gender, hispanic/latino, veteran, disability): when required, always "decline to self-identify".
+    # Race: Greenhouse renders it as the Hispanic/Latino question; race itself appears only after a "No" there.
+    for c in form.get("compliance") or []:
+        for q in c.get("questions", []):
+            for f in q.get("fields", []):
+                if not q.get("required"):
+                    continue
+                if f["name"] == "race":  # rendered as the Hispanic/Latino question first
+                    fields.append({"name": "hispanic_ethnicity", "kind": "select", "label": "EEO Hispanic/Latino (tidak menjawab)",
+                                   "value": ["Decline To Self Identify"], "value_ids": []})
+                    continue
+                opts = [v["label"] for v in f.get("values", [])]
+                dec = answers.choose(opts, answers.DECLINE)
+                if not dec:
+                    block(q["label"], f["name"], "EEO wajib tanpa opsi 'tidak menjawab'", opts)
+                    continue
+                ids = {v["label"]: v["value"] for v in f["values"]}
+                fields.append({"name": f["name"], "kind": "select", "label": f"EEO {q['label']} (tidak menjawab)",
+                               "value": dec, "value_ids": [ids[d] for d in dec]})
     for dc in form.get("data_compliance") or []:
         if dc.get("requires_processing_consent") or dc.get("requires_consent"):
             fields.append({"name": "gdpr_processing_consent_given_1", "kind": "check", "label": "Persetujuan pemrosesan data (wajib untuk melamar)", "value": True})

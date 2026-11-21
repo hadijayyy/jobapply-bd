@@ -15,7 +15,7 @@ hiringcafe   config.json     + baca JD
 | Greenhouse | `boards-api.greenhouse.io` (API publik resmi), 142 board di `config.json > boards.greenhouse` | Tambah board: probe token dulu, lalu masukkan ke config |
 | Hiring Cafe | Paste link lowongan ke `data/hiringcafe_import.txt` (satu per baris) | hiringcafe.com memblokir akses otomatis (Cloudflare, 403). Link yang mengarah ke Greenhouse otomatis ditarik JD-nya lewat API resmi; link lain masuk sebagai "isi manual" |
 
-Sumber lain (Lever, Ashby, Remotive, dll.) masih ada di kode; aktifkan lewat `config.json > sources_enabled`.
+Fokus Greenhouse (Ryan, 21 Nov 2026). Ashby/Lever dimatikan di `config.json > sources_enabled`: form mereka memunculkan reCAPTCHA/hCaptcha saat submit dari server. `jobpipe/ashby.py` tetap ada (isi form + berhenti di CAPTCHA).
 
 ## 2. Filter + score (otomatis, deterministik)
 - Judul: `title_include` / `title_exclude` (buang SDR/BDR, junior, region non-APAC, bahasa lokal tertentu)
