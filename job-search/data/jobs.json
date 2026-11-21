@@ -1,5 +1,59 @@
 {
  "jobs": {
+  "001901fd": {
+   "applied": null,
+   "ats": {
+    "after": 98,
+    "before": 64,
+    "if_pending_confirmed": 98,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 8.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Mastercard",
+   "cv": "out/cv/Mastercard-001901fd/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Our Purpose \n Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential. \n Title and Summary \nDirector, Services Business Development \nOverview\nThe Business Development Director is part of the South East Asia Business Development team. As part of this team the Business Development Director is responsible for customer engagement at Senior Management level with key Issuers and Merchants.\nMastercard Services, the professional services arm of Mastercard, provides payments-focused consulting services to financial institutions and merchants worldwide. With its unique category expertise, deep understanding of customer needs and successful track record in addressing complex challenges throughout the payments lifecycle, Mastercard Services addresses the challenges and opportunities of its clients, enhances Mastercard's strategic and tactical performance and establishes Mastercard's global thought-leadership pre-eminence.\n- Are you motivated by developing new insights into issues and developing recommendations that add real value to clients?\n- Can you develop strategies and programs for regional and global clients?\n- Do you want to play a key role in powering economies and empowering people?\nRole-The Director, Business Development is an active team member who contributes to sales targets and opportunity generation and closing with Mastercard Services clients. Whilst this individual is not expected to be a subject matter expert in the payment cards industry, they will demonstrate expertise in consulting sales management experience and professional problem-solving skills.\nDevelop relevant and value-creating analysis and insight for our clients\nBuild strategies, propositions & operating models independently or as part of a consulting team\nApply a range of quantitative and qualitative analytical techniques to rigorously identify client issues\nSynthesize analysis into clear, sound proposals and recommendations, taking responsibility for structuring and writing reports and steering committee presentations to high accuracy and quality standards\nFor small to medium engagements, assumes overall project management responsibilities for projects; identifies project staffing resources. Develops, defines and reviews required analyses\nDevelop effective working relationships with mid to senior level client management\nImplements/communicates strategies to achieve goals, acts as advisor to and maintains ongoing relationships with client executives.\nProactively seek new knowledge and skills and facilitate the development of intellectual capital\nSupport Mastercard Services and local market account teams in client relationship management and business development effort\nExperience\nProven consulting experience at a top-rated firm or equivalent business management experience and internal consulting experience in a major financial institution\nBachelors degree or equivalent qualification. Advanced degree or MBA preferred\nProfessional level English language capability is required\nStrong analytical, interpretive and problem solving skills, including the proven ability to interpret large amounts of data, some of it ambiguous, and translate it into concise rational output that includes recommendations based upon core findings.\nStrong presence & communication skills – both interpersonal & written\nExcellent client management & engagement management skills\nProven team player with proven ability to work with all levels in a highly intellectual, collaborative, and fast paced\nCorporate Security Responsibility\nAll Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And, Therefore, It Is Expected That Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security And Must:\nAbide by Mastercard’s security policies and practices;\nEnsure the confidentiality and integrity of the information being accessed;\nReport any suspected information security violation or breach, and\nComplete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.\n#servicesbd \n Corporate Security Responsibility \nAll activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:\n Abide by Mastercard’s security policies and practices;\n Ensure the confidentiality and integrity of the information being accessed;\n Report any suspected information security violation or breach, and\n Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.",
+   "discovered": "2026-11-21",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "001901fd",
+   "kit": null,
+   "location": "Jakarta, Indonesia (6th Floor)",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-10-27",
+   "red_flags": [],
+   "score": 76,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 30
+   },
+   "source": "Workday:mastercard",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "A",
+   "title": "Director, Services Business Development",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Jakarta-Indonesia-6th-Floor/Director--Services-Business-Development_R-294573",
+   "workplace": "",
+   "years_required": null
+  },
   "0077915c": {
    "applied": null,
    "blockers": [
@@ -4939,6 +4993,60 @@
    "workplace": "",
    "years_required": 7
   },
+  "206dc926": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 81,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Insider One",
+   "cv": "out/cv/Insider-One-206dc926/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Before jumping into all the information about the role and what you can bring to the table, let us introduce ourselves real quick. \n About us \n Insider One is the #1 platform that brings everything marketing and customer engagement teams need in one place so they can reach their peak potential and become unstoppable.  \n Our story began with six desks and a vision to create a single platform to make industry-first technologies and emerging channels accessible to marketers worldwide. Today, Insider One is powered by 1,500+ team members representing 50+ nationalities across 30+ offices .  With AI at its core and an integrated Customer Data Platform (CDP), Insider One unites data, personalization, and journey orchestration across the most extensive set of natively supported channels , including WhatsApp, SMS, Email, Web, App, and Site Search.  \n We recently raised one of the largest funding rounds in the industry, a $500M Series E led by General Atlantic . We are backed by top-notch investors, including Sequoia Capital, QIA, Riverwood, and Endeavor Catalyst , and trusted by 2000+ customers from high-growth startups to the most prestigious Fortune 500 companies such as Samsung, Nike, L’Oreal, Singapore Airlines, Nestlé, Nissan, Lenovo, Puma, IKEA, Allianz, Domino's, and the list goes on. \n Insider One was congratulated for becoming one of the only woman-founded, women-led B2B SaaS unicorns in the world. Loved by customers, recognized by analysts, we are the only vendor recognized as the #1 leader in all the capabilities marketing and customer engagement teams need. Don’t just take our word for it — see for yourself . We consistently outperform and continue our leadership, and   the results speak for themselves . \n From day one, Insider One’s mission has not only been to build a world-class product company, but also to create one of the most socially progressive technology communities in the world. Through our social responsibility initiatives like 100 Social Responsibility Projects, AI Training for Teachers, Code Academy, SheCodes, SheLeads, and SheMarkables , our community has committed to scaling its impact on our communities across 30+ countries, driving initiatives in health, education, farming, animal rights, and increasing women’s representation in STEM. \n Behind all these achievements is an exceptionally talented, visionary team of overachievers that moves fast and agile, creating cutting-edge products, and focuses on making an impact. If you want to be a part of this journey, just keep reading. \n The person, who takes this position, will be based in our Jakarta Office and work as an Inside Sales Specialist for our Jakarta office.   \n JOB DESCRIPTION\n Source new sales opportunities through inbound lead follow-up and outbound cold calls and emails;\n Understand customer needs and requirements;\n Research accounts, identify key players and generate interest;\n Maintain and expand your database of prospects within your assigned duty.\n REQUIREMENTS\n New Graduates are highly encouraged;\n University degree in related fields;\n Inside sales experience is a plus;\n A good exposure to the e-commerce society will be an advanatge;\n Ability to multi-task and manage time effectively;\n Excellent oral and written communication skills;\n Strong phone presence and experience dialing dozens of calls per day;\n Should be creative about researching markets, identifying key players and generating lead;\n Ability to be flexible and adapt quickly in a fast-paced, start-up environment;\n Strong problem identification and objection resolution skills;\n Preferably digital marketing related experience in a customer oriented position;,\n Excellent command of written and spoken English and Bahasa Indonesia is required.\n We provide equal opportunity in a zero-discrimination workplace and not just welcome but also embrace everyone without regard to sex, race, color, nationality, religion, gender identity, sexual orientation, disability status, citizenship, or marital status. \n Please follow Insider One on LinkedIn , Instagram , X , Facebook and Medium !",
+   "discovered": "2026-11-21",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "206dc926",
+   "kit": null,
+   "location": "Jakarta, Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-11-02",
+   "red_flags": [],
+   "score": 72,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "Lever:insiderone",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "A",
+   "title": "Sales Development Representative - Indonesia",
+   "url": "https://jobs.lever.co/insiderone/99e0a8f5-85b1-4fb7-a8b6-a75158c11080",
+   "workplace": "onsite",
+   "years_required": null
+  },
   "20ebdfe1": {
    "applied": null,
    "ats": {
@@ -5263,6 +5371,69 @@
    "workplace": "",
    "years_required": 3
   },
+  "21d4f7e7": {
+   "applied": null,
+   "ats": {
+    "after": 84,
+    "before": 59,
+    "if_pending_confirmed": 86,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 45.5,
+     "soft": 9.0,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Syarat 8+ tahun"
+   ],
+   "comp": "",
+   "company": "EDB",
+   "cv": "out/cv/Edb-21d4f7e7/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "A Little About Us \n EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to the vibrant and fast-growing PostgreSQL community, EDB supports major government organizations, financial services, media and information technology companies. EDB’s data-driven solutions enable customers to modernize legacy systems and break data silos while leveraging enterprise-grade open source technologies. EDB delivers the confidence of up to 99.999% high availability with mission critical capabilities built in such as security, compliance controls, and observability. For more information, visit&nbsp; www.enterprisedb.com \n Sr Account Executive (Enterprise)- Jakarta, Indonesia&nbsp; \n This EAE will be responsible for driving growth and ongoing transformation of the Indonesian market to achieve critical business objectives, actively develop and lead execution of the go-to-market strategy and provide strong coverage in the region.\n Reporting to Indonesian Sales Leader - you will work collaboratively with leaders and other members of the Sales team along with key internal stakeholders across our organization. You will be responsible to build effective relationships in order to ensure the business meets and exceeds targets, which includes accelerating sales growth through strategic account growth, new customer acquisition and maintaining strong relationships with the current client base to build long-term customer loyalty and renewals.&nbsp;\n Responsibilities \n Sales Execution Performance: \n Achieve plan and overall revenue targets for your region (New Recurring Revenue, Renewal Recurring Revenue and Consulting Services)\n Creating Account Plans for strategic accounts in the region assigned to him/her and working through an account-based growth/quota to achieve the overall country quota assigned\n The candidate must have strong C-suite relationships, connections, and networks, with the ability to drive expansion, growth, and retention.&nbsp;\n Identifying, qualifying, developing and closing new opportunities for software subscriptions and associated consulting services.\n Ensure on-going optimization and structural alignment that capitalizes on growth opportunities within existing customer expansion and new logo acquisition based on market needs and opportunities.\n Create and sustain a sales performance culture that consistently exceeds the expectations of all stakeholders (employees, customers, shareholders).\n Interact and work effectively with all regional and global resources to maximize customer success and company revenue growth throughout the region.\n Person will be assigned to Indonesian major large customers in the industry as per the territory and will drive business from that territory.\n Sales motion is \"High Touch! meaning that he/she will directly&nbsp;contact with customer and increase our opportunities there.\n Collaboration: \n Work with your leadership and management of the sales function, setting a unified direction for the team based on global organizational guidance and ensure priorities are clear at all times\n Proactively seek out and seize opportunities to collaborate with partners across the region to ensure the voice of the customer influences our efforts and investments in product, innovation and proposition development\n Establish strong partnerships across matrixed functions to collaborate on solutions that help remove roadblocks/barriers to sales execution\n Manage account and contact information through the entire sales lifecycle process using Salesforce.com and other related selling tools: ensure that the sales team maintains detailed account profiles, account plans and prepares sales and activity reports as required.\n Properly and effectively manage your forecast and roadmap of opportunities, setting accurate quarterly and annual expectations for delivery with very little variance.\n Strategic Account Management \n Serve as the primary executive contact for assigned enterprise accounts, cultivating strong relationships with C-suite stakeholders.\n Develop and execute comprehensive account strategies to drive revenue growth, retention, and expansion opportunities.\n Understand customers’ business priorities and align solutions to address strategic objectives.\n Sales Leadership \n Lead complex deal cycles with enterprise corporations, including contract negotiations, multi-stakeholder alignment, and long sales cycles.\n Partner with pre-sales, delivery, and support teams to ensure customer success and value realization.\n Consistently achieve and exceed annual sales targets and performance metrics.\n Executive Engagement \n Build trusted advisor relationships with CEOs, CIOs, CTOs, and other senior executives to influence long-term business direction.\n Represent the company at key industry events, forums, and executive briefings.\n Provide regular business reviews and performance updates to both internal leadership and customer executives.\n Knowledge, Skills &amp; Qualifications: \n 10+ years of hands-on experience as a seller with Indonesian Customers in high touch sales of IT solutions in a highly complex and competitive marketplace with focus on\n 5+ years of selling database to enterprise customers\n Proven experience selling into BFSI and Telecom , with an established network of enterprise customers.\n Experience with understanding of&nbsp;subscription-based models &amp; working with System Integrators &amp; Partner.\n Person should be familiar with working with Indonesian large customers as well as working with Indonesian distributor of softwares and SelIers to the customers.\n Collaboration with Indonesia software distributors and Sellers are required.\n Strong, tested sales experience in high growth&nbsp;organizations focused on landing new logos and&nbsp;maximizing&nbsp;customer&nbsp;expansion.\n Experience in a disruptive market approach selling infrastructure software that displaces older technologies is a plus.\n Experience selling open-source software is a plus.\n Solutions sales approach with a deep understanding and appreciation for the value of packaging consulting services to drive greater differentiation, value and success.\n Graduate degree is a must, Post graduate degree is a plus\n Ability to foresee, interpret and rapidly respond to market changes by adjusting strategies and realigning priorities and resources accordingly.\n Demonstrated ability to work collaboratively and resolve conflict across different functional areas in a highly matrixed organization as well as with external stakeholders.\n Advanced written and verbal communication skills.\n Strong business and analytical acumen.\n &nbsp;\n &nbsp;\n EDB is committed to supporting our employees' overall well being by offering a range of benefits and resources to promote a healthy work-life balance and wellness. We provide access to CuraLinc to aid employees in health and wellness tips and practices, as well as Wellness Fridays extending to December 2026! Check out our career site for more information on perks and benefits and reach out to our Talent Acquisition team for region specific benefits. \n We know it takes a unique mix of people and skills to help us in our mission to supercharge Postgres, and we understand that not everyone will check every box. We’d love to hear from you and we want you to apply! \n EDB is proud to be an equal opportunity workplace. We celebrate diversity and are committed to creating an inclusive environment for all employees. EDB was built on a commitment to trust and respect each other and to embrace an array of people and ideas. These values remain at the center of our culture and are key to our company’s integrity.&nbsp; \n EDB does not seek or accept unsolicited resumes or CVs from recruitment agencies. EDB and its affiliates are not responsible for, and will not pay, any fees, commissions, or any other similar payment related to unsolicited resumes or CVs except as required in a written signed agreement between EDB and the recruitment agency or party requesting payment of a fee. \n #LI-Remote",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 87 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    }
+   ],
+   "id": "21d4f7e7",
+   "kit": null,
+   "location": "Jakarta, Jakarta, Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-08-26",
+   "red_flags": [],
+   "score": 62,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 0,
+    "title": 26
+   },
+   "source": "GH:edb",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "C",
+   "title": "Sr Account Executive",
+   "url": "https://www.enterprisedb.com/careers/job-openings?gh_jid=7969956003",
+   "workplace": "",
+   "years_required": 10
+  },
   "229ab8a4": {
    "applied": null,
    "blockers": [
@@ -5408,6 +5579,62 @@
    "tier": "C",
    "title": "Enterprise Sales Manager- FSI & Insurance",
    "url": "https://stripe.com/jobs/search?gh_jid=8352045",
+   "workplace": "",
+   "years_required": 10
+  },
+  "2330c9b5": {
+   "applied": null,
+   "ats": {
+    "after": 85,
+    "before": 67,
+    "if_pending_confirmed": 85,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 47.1,
+     "soft": 8.3,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Syarat 8+ tahun"
+   ],
+   "comp": "",
+   "company": "Cursor (SpaceXSI)",
+   "cv": "out/cv/Cursor-Spacexsi-2330c9b5/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.\nSpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.\n STRATEGIC ACCOUNT EXECUTIVE, ENTERPRISE - INDONESIA \n As a Strategic Account Executive for Indonesia, you'll be one of the foundational members of SpaceXSI's enterprise sales team in the region. You'll help large engineering organizations discover, adopt, and expand their use of SpaceXSI, owning strategic accounts across Indonesia and working directly with engineering leaders, CTOs, developer platform teams, and procurement stakeholders. This is a rare opportunity to bring a product engineers already love into some of the most sophisticated technology, financial services, enterprise, and digital-native organizations and to help shape how software gets built in the AI era.\n RESPONSIBILITIES: \n Own a named book of strategic enterprise accounts across Indonesia, driving new logo acquisition and expansion revenue; run a disciplined, full-cycle sales process from prospecting and discovery through evaluation, negotiation, and close\n Build and execute account strategies that connect SpaceXSI's capabilities to the technical and business priorities of engineering leaders, CTOs, and developer platform teams\n Create pipeline through outbound prospecting, executive mapping, inbound follow-up, partner referrals, and your own network; partner closely with Sales Engineering, Product, and Customer Success to deliver high-quality evaluations and ensure customers realize value quickly\n Navigate complex enterprise buying processes, including security reviews, legal negotiations, procurement, and multi-stakeholder approval cycles\n Serve as the voice of Indonesia's enterprise customers internally, sharing market feedback and deal learnings with Product, Marketing, Customer Success, and GTM leadership\n Help establish SpaceXSI's enterprise presence in Indonesia by building repeatable motions, local market insights, and early customer references; consistently meet and exceed quarterly and annual revenue targets\n BASIC QUALIFICATIONS: \n 7 to 10 years of enterprise B2B sales experience\n Professional working proficiency in English and in Bahasa (spoken and written), as this role works directly with customers in Indonesia \n PREFERRED SKILLS AND EXPERIENCE: \n Ideally selling developer tools, infrastructure, cloud, security, AI, or other technical SaaS products to engineering-led organizations\n Experience selling into strategic or large enterprise accounts in Indonesia\n Comfortable navigating complex buying committees across engineering, IT, security, legal, procurement, finance, and executive stakeholders\n A true hunter: you proactively build pipeline from scratch through outbound prospecting, creative sourcing, executive engagement, and persistent follow-up\n Strong command of pipeline management, account planning, and forecasting across a strategic book of business\n Energized by technical products and can hold credible conversations with senior engineers, platform leaders, and CTOs about how SpaceXSI fits into modern development workflows\n A self-starter who thrives in an early-stage, resource-constrained environment and can build process, playbooks, and regional learnings as you go\n Care deeply about AI and believe transforming how software is written is one of the most important problems to work on right now",
+   "discovered": "2026-11-21",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "2330c9b5",
+   "kit": null,
+   "location": "Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-11-09",
+   "red_flags": [],
+   "score": 66,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 8,
+    "industry": 10,
+    "location": 22,
+    "seniority": 0,
+    "title": 26
+   },
+   "source": "Ashby:cursor",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "C",
+   "title": "Strategic Account Executive, Enterprise - Indonesia",
+   "url": "https://jobs.ashbyhq.com/cursor/73276c7b-2e2a-4891-9d33-3739c9053baf",
    "workplace": "",
    "years_required": 10
   },
@@ -9163,6 +9390,139 @@
    "workplace": "",
    "years_required": null
   },
+  "34f1a0bf": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 72,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Cloudflare",
+   "cv": "out/cv/Cloudflare-34f1a0bf/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About Us\n At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.\n At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.\n Available Locations: Singapore\n About the Department \n The Cloudflare APAC sales organisation operates as one integrated revenue system. Account Executives, Customer Engineers, Partner Account Managers, Business Development Representatives, Customer Experience Managers, Professional Services and Revenue Operations work as a continuous engine - winning, deploying, adopting, expanding, and scaling platform commitments across the full customer lifecycle.\n The system is supported by an AI-embedded operating model. The work itself, however, remains human. The role of every seller at Cloudflare is to bring critical thinking, judgment, and trust to customer relationships and outcomes.\n About This Role \n In this role, you will be responsible for driving significant growth by landing and expanding a portfolio of assigned customers in the Digital Native territory for Indonesia . The ideal candidate possesses a strong blend of sales acumen and technical understanding, enabling them to engage effectively with both technical and non-technical buyers. As an Account Executive, you will drive revenue velocity by utilizing foundational sales data layers for accurate forecasting, proactive pipeline management, and consistently exceeding attainment targets.\n You are the kind of operator who uses AI as a force multiplier every day, cares more about customer outcomes than job boundaries, and demonstrates curiosity, judgment, and high agency.\n Role Responsibilities \n Own and execute a comprehensive territory plan to consistently achieve and exceed sales and revenue targets.\n Cultivate long-term strategic relationships with key accounts and partners. Lead executive-level transformation narratives that earn the right to be in the architecture conversation. &nbsp;\n Leverage top partners as an extension of the sales team to co-sell alongside where they bring customer relationships, services capability, or procurement leverage. Drive regular forecast &amp; pipeline cadences with top partners.\n Understand customer network architectures, the problems that Cloudflare can solve and effectively translate Cloudflare’s solutions to drive successful platform sales, ensuring clients can secure and scale their own AI-driven workloads.\n Manage contract negotiations and structure platform-level commercial commitments (multi-year, multi-product, outcome-anchored) rather than point-product deals.\n Stay engaged through onboarding, adoption, and the first renewal. Partner with Customer Engineers, Professional Services on a deployment plan with milestones tied to measurable outcomes.\n Proactively build and manage a robust sales pipeline by leveraging internal tools, AI-assisted research and pipeline sources (BDR, Channel, Marketing).\n Maintain high standards in pipeline discipline, CRM hygiene and forecasting accuracy.&nbsp;\n Required Experience \n Bachelor's degree required.\n Experience selling technology solutions in high-growth technology firms.\n Demonstrated track record of consistently meeting and exceeding multi-million dollar quota targets.\n Proficient in discovery, positioning, competitive selling, negotiation, closing, and multi-threaded land and expand strategies.\n Strong understanding of computer networking, cloud security technology, and how enterprise infrastructure adapts to automated data workflows.\n Exceptional interpersonal communication skills and value selling skills.\n Proficiency in modern sales software, customer data environments, and core systems (e.g., Salesforce, Tableau, G-suite).\n Thinks critically rather than reacting, exercises judgment under uncertainty, names risks honestly, shows genuine empathy for customers as people, can point to relationships built over time on trust, and demonstrates visible curiosity in how they prepare, sell, and learn.\n Willingness to actively engage with AI tools and experiment.\n Ability to travel as required.\n The portfolio for this role consists of customers based in Indonesia. Proficiency in Bahasa Indonesia to communicate with these customers would be an added bonus.\n What Makes Cloudflare Special?\n We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet. \n Project Galileo : Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost. \n Athenian Project : In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states. \n 1.1.1.1 : We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers. \n Sound like something you’d like to be a part of? We’d love to hear from you! \n Please note that applicants who progress to the offer stage of the interview process may be asked to attend an in-person interview within one of the Cloudflare Offices or Cloudflare Hubs.&nbsp; More details about this will be available at that stage of the interview process. \n This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license. \n Cloudflare is proud to be an equal opportunity employer. &nbsp;We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. &nbsp;All qualified applicants will be considered for employment without regard to their, or any other person's, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AA/Veterans/Disabled Employer. \n Cloudflare provides reasonable accommodations to qualified individuals with disabilities. &nbsp;Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. &nbsp;If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hr@cloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 76 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit gagal: needs_code ",
+     "status": "verified"
+    }
+   ],
+   "id": "34f1a0bf",
+   "kit": null,
+   "location": "Hybrid",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-09-06",
+   "red_flags": [],
+   "score": 72,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "GH:cloudflare",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "B",
+   "title": "Territory Account Executive, Digital Native (Indonesia)",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8168940?gh_jid=8168940",
+   "workplace": "",
+   "years_required": null
+  },
+  "35197b50": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 69,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Elastic",
+   "cv": "out/cv/Elastic-35197b50/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.\n The Role: \n Elastic, the Search Analytics company, is seeking a dynamic Mid-Market Account Executive who will focus on Indonesia and living in Jakarta . To excel as an Account Executive at Elastic , you need a blend of high-level technical curiosity and the gravitas of a value-based seller. Because Elastic isn't just a \"product\" but a versatile search, observability, and security platform, the role requires moving beyond simple transactions to solving complex data problems.\n As a dynamic Mid-Market Account Executive, you will be an integral part of our growth strategy. You will drive net-new revenue and expansion within Mid-Market Accounts in an assigned territory. This is an opportunity for those passionate about empowering companies through innovative search technology and analytics, enabling them to unlock the full potential of their data.\n What You Will Be Doing \n Drive Adoption: Fuel the adoption of Elastic’s AI-powered search solutions, Observability and Security solutions within (new) Mid-Market accounts in INDONESIA while deepening engagement with existing ones.\n Be a Trusted Advisor: Assist users and customers in harnessing the full power of search analytics to transform data into actionable insights.&nbsp;\n Domain &amp; cloud acumen: Position Elastic as the Search AI platform of choice by speaking fluently about cloud economics, usage-based pricing, and modern data architectures.&nbsp;\n Solve Complex Problems: Move beyond simple transactions to address the intricate data challenges our customers face.&nbsp;\n Champion Open Source: Articulate the value of our advanced commercial features while advocating for our Open-Source offerings.&nbsp;\n Identify New Use Cases: Showcase how Elastic’s solutions enable users to work more efficiently and intelligently.&nbsp;\n Strategic Planning: Develop comprehensive business plans using community, customer, and partner ecosystems to drive significant territory growth.&nbsp;\n Navigate Sales Cycles: Proactively identify new opportunities and successfully manage complex sales cycles.&nbsp;\n Deep discovery &amp; qualification: Uncover pain, business impact, budget, and decision criteria using frameworks like MEDDPICC so you chase only the highest-confidence deals.&nbsp;\n Cross-functional partnership: Work hand-in-glove with Solutions Architects, Customer Success, Marketing, and RevOps to accelerate deals and drive exceptional customer outcomes.\n &nbsp;\n What You Bring \n The Right Blend: A combination of high-level technical curiosity and the gravitas of a value-based seller.&nbsp;\n Proven Track record: Mid-Market Accounts in&nbsp; Indonesia!&nbsp; \n Proven Track Record: Success in SaaS subscription sales in Mid-Market accounts, evidenced by overachievement.&nbsp;\n Value Storytelling: The ability to craft tailored narratives that link Elastic’s technical capabilities (Search, Observability, Security) to measurable business outcomes like revenue gain or risk mitigation is critical.&nbsp;\n Executive negotiation &amp; closing: Lead high-stakes contract and pricing discussions&nbsp;\n Technical &amp; cloud fluency: Comfortable discussing a broad range of technical topics including security, observability, vector/traditional search, and cloud cost optimization.&nbsp;\n Relationship Building: Adept at establishing credibility with both technical developers and executive leadership.&nbsp;\n Mutual deal strategy &amp; forecast accuracy: Consistent, predictable and accurate sales forecasting skills. Collaborate with customers to build formal close plans and keep your CRM up to date.&nbsp;Ability to create alignment across teams to accelerate deals&nbsp;\n AI Mentality:&nbsp; Use new technologies for performance advantage and deal structuring.&nbsp;\n Open-Source Appreciation: Enthusiasm for the Open-Source model and the community relying on our solutions.\n Additional Information - We Take Care of Our People \n As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.\n We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.\n Competitive pay based on the work you do here and not your previous salary\n Health coverage for you and your family in many locations\n Ability to craft your calendar with flexible locations and schedules for many roles\n Generous number of vacation days each year\n Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service\n Up to 40 hours each year to use toward volunteer projects you love\n Embracing parenthood with minimum of 16 weeks of parental leave\n Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.\n We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email candidate_accessibility@elastic.co . &nbsp;We will reply to your request within 24 business hours of submission.\n Applicants have rights under Federal Employment Laws, view posters linked below: Family and Medical Leave Act (FMLA) Poster; &nbsp; Pay Transparency Nondiscrimination Provision Poster; Employee Polygraph Protection Act (EPPA) Poster and Know Your Rights (Poster) \n Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People's Republic (DNR), The Luhansk People's Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic. \n Please see&nbsp; here &nbsp;for our Privacy Statement.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 115 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit gagal: needs_code ",
+     "status": "verified"
+    }
+   ],
+   "id": "35197b50",
+   "kit": null,
+   "location": "Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-07-29",
+   "red_flags": [],
+   "score": 72,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "GH:elastic",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "B",
+   "title": "Mid Market Account Executive - Indonesia",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8092159&gh_jid=8092159",
+   "workplace": "",
+   "years_required": null
+  },
   "3583ea8e": {
    "applied": null,
    "blockers": [
@@ -9405,6 +9765,62 @@
    "url": "https://job-boards.greenhouse.io/boomilp/jobs/6250831004",
    "workplace": "",
    "years_required": 5
+  },
+  "361c9b69": {
+   "applied": null,
+   "ats": {
+    "after": 90,
+    "before": 64,
+    "if_pending_confirmed": 90,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Amazon Web Services",
+   "cv": "out/cv/Amazon-Web-Services-361c9b69/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "As Senior Account Manager at AWS, you will drive growth and adoption of AWS services among cross industry customers in Indonesia.\nYou'll build strong relationships with C-level executives and technical leaders, understand their business objectives, and provide tailored cloud solutions to address their unique challenges. Your expertise will help customers accelerate digital transformation, drive innovation, and achieve cost optimization. You'll work collaboratively with AWS teams, partners, and customers to develop and execute go-to-market strategies, identify new opportunities, and expand existing relationships.\nWith a deep understanding of enterprise landscape, you'll provide thought leadership, drive deal closure, and ensure exceptional customer satisfaction. If you're a motivated relationship-builder with a passion for cloud innovation, this role is a great fit\nKey job responsibilities\n- Build and maintain strong relationships with C-level executives and technical leaders for Telco customers\n- Understand customer business objectives, challenges, and cloud adoption goals\n- Develop tailored AWS solutions to address customer needs and drive business outcomes\n- Drive growth and adoption of AWS services among assigned customers\n- Collaborate with AWS teams (sales, solutions architecture, professional services) to execute customer deals and projects\n- Identify new business opportunities and expand existing relationships\n- Provide thought leadership and expertise on AWS services and cloud innovation\n- Manage deal pipeline, forecast, and reporting\n- Ensure exceptional customer satisfaction and success with AWS services\n- Stay up-to-date on industry trends, market developments, and competitor activity in Telco and enterprise sectors\nAbout the team\nDiverse Experiences\nAmazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.\nWhy AWS\nAmazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.\nWork/Life Balance\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.\nInclusive Team Culture\nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.\nMentorship and Career Growth\nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Basic qualifications\n- 4+ years of stakeholder or account management experience, or experience with AWS services or other cloud offerings\n- 7+ years of direct sales or business development in software, cloud or SaaS markets selling to C-level executives experience Preferred qualifications\n- BA or BS degree in a related field\n- 7+ years of B2B sales\n- Experience implementing cloud services including migrations and modernization projects or equivalent\n- Experience navigating prospective accounts from and into a senior executive level to identify new customer opportunities\n- Experience using Salesforce or other CRM tools\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 80 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "361c9b69",
+   "kit": null,
+   "location": "ID, Jakarta",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-09-02",
+   "red_flags": [],
+   "score": 68,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 6,
+    "title": 26
+   },
+   "source": "Amazon",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "B",
+   "title": "Senior Account Manager, Telco",
+   "url": "https://www.amazon.jobs/en/jobs/10525133/senior-account-manager-telco",
+   "workplace": "",
+   "years_required": 7
   },
   "36aa7ac1": {
    "applied": null,
@@ -10320,14 +10736,14 @@
   "3b90efdc": {
    "applied": null,
    "ats": {
-    "after": 94,
+    "after": 100,
     "before": 76,
-    "if_pending_confirmed": 98,
+    "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
      "experience": 10,
      "format": 10.0,
-     "keywords": 44.2,
+     "keywords": 50.0,
      "soft": 10.0,
      "title": 15
     }
@@ -10336,7 +10752,7 @@
    "comp": "",
    "company": "pragmatike",
    "cv": "out/cv/Pragmatike-3b90efdc/Ryan Hadi_CV_Business Development.pdf",
-   "desc": "Location: Fully Remote (Singapore or Pacific time zones)\nStart Date: ASAP\nLanguages: Fluent English required\nIndustry: AI / Data Infrastructure\nTeam: Sales\nType: Full-time (Independent Contractor)\nABOUT THE OPPORTUNITY\nPragmatike is hiring an Outbound Account Executive on behalf of a fast-growing AI company building reliable, fair and open infrastructure for AI training data.\nIts marketplace connects data providers with leading AI companies, including startups, Fortune 500 companies and frontier AI labs. Backed by leading venture investors, including Y Combinator, the company is scaling rapidly and building its commercial team from the ground up.\nThis is an opportunity to join as one of the first commercial hires and take ownership of deals from the first serious conversation through to close. You'll manage a pipeline of data-provider opportunities, lead commercial discussions, negotiate terms and turn qualified interest into signed agreements and live listings that match current buyer demand.\nUnlike an entry-level sales development role, this position requires someone who can independently manage opportunities, drive negotiations and take responsibility for closing deals.\nThe role is fully remote, with working hours aligned with either Singapore or US Pacific business hours, depending on your location. The exact daily schedule will be agreed during hiring.\nWHAT YOU'LL DO\n - Own a pipeline of data-provider opportunities, managing qualification, follow-ups, forecasting and deal closure.\n - Lead commercial conversations with businesses and individuals who have data that AI buyers are looking for.\n - Drive opportunities from initial interest through negotiations, signed agreements and completed, live listings.\n - Negotiate scope, pricing and commercial terms, with support from senior teammates on technical assessments and contract-related questions.\n - Prioritise opportunities based on current buyer demand, focusing on accounts with the highest potential to close.\n - Maintain accurate pipeline records, including deal stages, expected close dates, risks and next steps.\n - Work closely with Sales Development to ensure qualified opportunities and warm introductions progress smoothly through the sales cycle.\n - Help establish the company's sales process and playbook as one of its first commercial hires.\nWHAT WE'RE LOOKING FOR\n - Proven experience owning and closing deals, ideally in B2B sales, marketplaces, data, SaaS or other commercial environments with structured sales cycles.\n - Confidence leading discovery calls, commercial discussions and negotiations, handling objections and driving opportunities towards a close.\n - Strong pipeline management skills, with the ability to prioritise opportunities, forecast accurately and maintain clear next steps.\n - Excellent spoken and written English, with the ability to communicate confidently with senior and technical stakeholders.\n - Ability to work independently and take ownership in a fast-moving, early-stage environment.\n - Familiarity with sales tools and CRM systems, with a proactive approach to improving commercial processes.\n - Experience with contracts, pricing discussions or multi-stakeholder deals is a plus.\n - Previous experience in AI or the data industry is beneficial but not required.\nWHY THIS OPPORTUNITY\n - Own the full sales cycle: Take responsibility for opportunities from qualification through negotiation and close, with a focus on measurable commercial results.\n - Build from the ground up: Join one of the first commercial hires and help establish the company's sales processes and playbook.\n - Work with leading AI companies: Close deals that support real data demand from some of the world's most advanced AI labs.\n - High ownership and impact: Work closely with senior teammates and founders, helping shape how the company approaches sales as it scales.\n - Remote flexibility: Work fully remotely, aligned with either Singapore or US Pacific business hours depending on your location.\nEQUAL OPPORTUNITY & PRIVACY\nPragmatike is an Equal Opportunity Employer and is committed to providing equal employment opportunities to all applicants without discrimination. We recruit on behalf of our clients and prohibit discrimination and harassment based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.\nThis policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\nWe are committed to a fair and inclusive hiring process. We process your personal data solely for recruitment purposes, in accordance with applicable privacy laws, and maintain reasonable safeguards to protect your information. Your data may be shared with our client(s) for hiring consideration, but will not be disclosed to third parties outside of the recruitment process.",
+   "desc": "Location: Fully Remote (Singapore or Pacific time zones)\n Start Date: ASAP\n Languages: Fluent English required\n Industry: AI / Data Infrastructure\n Team: Sales\n Type: Full-time (Independent Contractor)\n About the Opportunity\n Pragmatike is hiring an Outbound Account Executive on behalf of a fast-growing AI company building reliable, fair and open infrastructure for AI training data.\n Its marketplace connects data providers with leading AI companies, including startups, Fortune 500 companies and frontier AI labs. Backed by leading venture investors, including Y Combinator, the company is scaling rapidly and building its commercial team from the ground up.\n This is an opportunity to join as one of the first commercial hires and take ownership of deals from the first serious conversation through to close. You'll manage a pipeline of data-provider opportunities, lead commercial discussions, negotiate terms and turn qualified interest into signed agreements and live listings that match current buyer demand.\n Unlike an entry-level sales development role, this position requires someone who can independently manage opportunities, drive negotiations and take responsibility for closing deals.\n The role is fully remote, with working hours aligned with either Singapore or US Pacific business hours, depending on your location. The exact daily schedule will be agreed during hiring.\n What You'll Do\n Own a pipeline of data-provider opportunities, managing qualification, follow-ups, forecasting and deal closure.\n Lead commercial conversations with businesses and individuals who have data that AI buyers are looking for.\n Drive opportunities from initial interest through negotiations, signed agreements and completed, live listings.\n Negotiate scope, pricing and commercial terms, with support from senior teammates on technical assessments and contract-related questions.\n Prioritise opportunities based on current buyer demand, focusing on accounts with the highest potential to close.\n Maintain accurate pipeline records, including deal stages, expected close dates, risks and next steps.\n Work closely with Sales Development to ensure qualified opportunities and warm introductions progress smoothly through the sales cycle.\n Help establish the company's sales process and playbook as one of its first commercial hires.\n What We're Looking For\n Proven experience owning and closing deals, ideally in B2B sales, marketplaces, data, SaaS or other commercial environments with structured sales cycles.\n Confidence leading discovery calls, commercial discussions and negotiations, handling objections and driving opportunities towards a close.\n Strong pipeline management skills, with the ability to prioritise opportunities, forecast accurately and maintain clear next steps.\n Excellent spoken and written English, with the ability to communicate confidently with senior and technical stakeholders.\n Ability to work independently and take ownership in a fast-moving, early-stage environment.\n Familiarity with sales tools and CRM systems, with a proactive approach to improving commercial processes.\n Experience with contracts, pricing discussions or multi-stakeholder deals is a plus.\n Previous experience in AI or the data industry is beneficial but not required.\n Why This Opportunity\n Own the full sales cycle: Take responsibility for opportunities from qualification through negotiation and close, with a focus on measurable commercial results.\n Build from the ground up: Join one of the first commercial hires and help establish the company's sales processes and playbook.\n Work with leading AI companies: Close deals that support real data demand from some of the world's most advanced AI labs.\n High ownership and impact: Work closely with senior teammates and founders, helping shape how the company approaches sales as it scales.\n Remote flexibility: Work fully remotely, aligned with either Singapore or US Pacific business hours depending on your location.\n Equal Opportunity & Privacy\n Pragmatike is an Equal Opportunity Employer and is committed to providing equal employment opportunities to all applicants without discrimination. We recruit on behalf of our clients and prohibit discrimination and harassment based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. \n This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. \n We are committed to a fair and inclusive hiring process. We process your personal data solely for recruitment purposes, in accordance with applicable privacy laws, and maintain reasonable safeguards to protect your information. Your data may be shared with our client(s) for hiring consideration, but will not be disclosed to third parties outside of the recruitment process.",
    "discovered": "2026-11-17",
    "flags": [
     "Jam kerja US/EU"
@@ -10515,6 +10931,130 @@
    "url": "https://job-boards.greenhouse.io/contentful/jobs/8330490",
    "workplace": "",
    "years_required": 4
+  },
+  "3c48e160": {
+   "applied": null,
+   "ats": {
+    "after": 90,
+    "before": 67,
+    "if_pending_confirmed": 90,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Syarat 8+ tahun"
+   ],
+   "comp": "",
+   "company": "Kong",
+   "cv": "out/cv/Kong-3c48e160/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Are you ready to unlock intelligence? \n If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others.\n About the Role: \n We are looking for an experienced sales professional, ideally with open source experience, who will be selling into enterprise accounts. The ideal candidate has been a part of the sales efforts for other early-stage enterprise software products in an entrepreneurial setting. The Enterprise Account Executive will be integral to our growth plan and in acquiring new customers. Kong’s Account Executive will be the primary point of contact and the face of Kong for our prospects.\n What You’ll Do: \n Sell Kong Enterprise Platform to enterprise customers by developing and executing a pipeline generation strategy that will create a viable and long-term business.\n Meet individual quotas and objectives.\n Responsible for assigned territory account planning and forecasting.\n Take ownership of your book of business, which includes understanding and documenting the buying criteria and process, determining the appropriate motions and patterns, ensuring pipeline accuracy based on evidence, and working the leads to closure.\n Collaborate with internal teams, including product, marketing, and customer success, to ensure a seamless sales experience and alignment with customer needs.\n Represent Kong most professionally and support our customers to the best of your ability.\n Ability to travel to customer sites as required.\n What You’ll Bring: \n A true desire to see customers benefit from the investment they make with Kong.\n 10 years or more of experience in selling enterprise software with a strong network in the enterprise domain.\n Demonstrated success in selling to assigned named accounts, particularly to senior-level executives and across multiple departments.\n Ability to leverage established relationships and proven sales techniques for success.\n Ability to thrive in a fast-paced, entrepreneurial environment, taking ownership of your sales territory and adapting to changing market dynamics.\n Analytical and strategic thinking, with a knack for identifying business growth opportunities and devising plans to capitalise on them.\n Effective communicator and strong interpersonal skills.\n Excellent negotiation, presentation, and closing skills.\n Motivated, driven and results-oriented.\n #LI-SP1\n About Kong: \n Kong Inc., the AI Connectivity Company, is building the connectivity layer of AI. Trusted by the Fortune 500® and AI-native startups alike, Kong’s unified API and AI platform enables organizations to secure, manage, accelerate, govern, and monetize the flow of intelligence across APIs and AI traffic — on any model, any cloud. For more information, visit www.konghq.com .",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 120 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "3c48e160",
+   "kit": null,
+   "location": "Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-07-24",
+   "red_flags": [],
+   "score": 62,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 0,
+    "title": 26
+   },
+   "source": "Ashby:kong",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "C",
+   "title": "Territory Account Manager",
+   "url": "https://jobs.ashbyhq.com/kong/afee4e76-30d8-44ec-8b1d-b92af3766252",
+   "workplace": "OnSite",
+   "years_required": 10
+  },
+  "3c5eeab4": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 70,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "InMobi",
+   "cv": "out/cv/Inmobi-3c5eeab4/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "InMobi (Corporate) \n InMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform Glance — InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd.\n InMobi Advertising \n InMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach — including flagship consumer platform Glance — InMobi Advertising delivers the omnichannel performance defining what's next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com.\n Glance \n Glance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by Mithril Capital, Google and Jio Platforms. To learn more, visit glance.com.\n &nbsp;\n What do we promise? \n Microsoft and InMobi have entered into a strategic partnership. As per this, InMobi will be the exclusive partner for Microsoft’s search and display inventory. Microsoft Advertising empowers the largest advertisers around the world to reach their maximum potential through paid search engine marketing (Bing Ads and Ads in Copilot), Native, Display, Video and Connected TV Ads on the Microsoft Advertising Platform (MAP). InMobi will be responsible for complete business management/transaction across Microsoft Advertising ecosystem.\n As a Sales Manager in Indonesia, you are expected to drive new client acquisition and grow incremental revenue against a targeted list of high potential agencies and advertisers through continuous engagement. You are expected to continually build and maintain a pipeline of clients and agencies to be onboarded to the Microsoft Advertising platform. Collaborate with internal Account Managers and Strategy teams to develop quality customer plans targeted at revenue growth and customer satisfaction. Cultivating strategic client relationships, revenue generation and delivering customized search solutions will be key to your core function. Your success will be measured by specific key performance&nbsp;indicators focused on driving new customer acquisition, product adoption, emphasizing customer experience and optimizing opportunities.\n What is expected out of you? \n In the first quarter: \n Understand the Microsoft Advertising Ecosystem in SEA and collaborate with internal stakeholders.\n Leverage your current relationships in the advertising ecosystem to drive revenue conversations as well as open up new relationships in the industry\n You will be expected to build a healthy predictable pipeline of clients to initiate and successfully close partnership and onboarding discussions.\n Consistently create high value revenue-generating opportunities that will work towards delivering quota expectations.\n Lead regular, impactful engagements with key clients.\n Coordinate with the required teams to help achieve targets.\n Second Quarter Onwards: \n Master and grow the activities initiated in the first quarter\n Grow Microsoft Advertising’s share of wallet by continuing to onboard new clients and agencies\n Strengthen relationships with key client and agency stakeholders like (budget decision makers, media planners and senior leadership)\n Collaborate with internal account managers and client poc's to ensure opportunities are leveraged effectively\n Continually strengthen your Search Industry expertise, take personal accountability for your career and personal development;\n Complete required and recommended trainings and apply what you learn to further your growth in role and career progression\n Role Requirement: \n 5+ years of work experience with 3+ years of online media sales/digital advertising experience. Strong network of clientele in the Indonesia marketplace and an understanding of the key digital players (Brands, agencies etc.)\n Experience and ability to build a client base from scratch.\n Experience in lead generation, networking, and ad-agency relationship management.\n Experienced Digital media solution seller and talented in storytelling and delivering engaging presentations across all levels of leadership\n Ability to handle and manage key/strategic client relationships and revenue\n Ensure a strong metrics focused approach is applied in business planning and execution\n Proven ability to understand customer needs, create and deliver customized, customer-focused pitches and solutions\n Proven track record of exceptional performance, high productivity, communications skills, and meeting deadlines. Demonstrated ability to consistently meet or exceed revenue goals or targets\n Passion for technology as an enabler for company growth\n Effectively navigate through ambiguity and complexities related to client management\n Practice freedom with responsibility, entrepreneurial mindset and thought leadership.\n Possess excellent communication skills providing transparency and enabling information radiators\n Travel across SEA markets to meet and strengthen partnerships with new and existing clients.\n Preferred: \n MBA or Advanced degree preferred\n Search Engine Marketing Experience\n Understanding of the Digital Ecosystem\n Ad-Agency Experience\n Location: \n Jakarta, Indonesia (will require frequent travel across Indonesia)\n &nbsp;\n Since 2007, InMobi has built the extraordinary. Beyond just technology. It has built a way of working.\n Across 16 offices globally, through every pivot and breakthrough, one thing has remained constant: we are builders, dreamers, doers. We are fluid enough to move fast, grounded enough to own outcomes, and human enough to care deeply about the work and about one another.\n Culture is at the core of that ethos. It has been co-created by the people who built this company and by those continuing to shape it every day. It lives in how we work, how decisions are made, how teams show up for one another, and how seriously we take the responsibility to build the best.\n This is a place where ambition and belonging occupy the same space. Where the bar is high and the support is real. Where freedom comes with trust, and trust comes with accountability. Where you are valued not only for what you do, but for the perspective, judgment and humanity you bring to the work. Where you will be challenged by the work and supported by the communities, passions and experiences that shape who you are beyond your role.\n If this sounds like the place you have been looking for, join us.\n Find out more here: InMobi Culture",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 58 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit gagal: needs_code ",
+     "status": "verified"
+    }
+   ],
+   "id": "3c5eeab4",
+   "kit": null,
+   "location": "Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-09-24",
+   "red_flags": [],
+   "score": 71,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 20
+   },
+   "source": "GH:inmobi",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "B",
+   "title": "Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8204049",
+   "workplace": "",
+   "years_required": 5
   },
   "3c8b3ef6": {
    "applied": null,
@@ -12322,7 +12862,7 @@
    "applied": null,
    "ats": {
     "after": 100,
-    "before": 86,
+    "before": 81,
     "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
@@ -12337,7 +12877,7 @@
    "comp": "",
    "company": "ampd-energy",
    "cv": "out/cv/Ampd-Energy-4728a247/Ryan Hadi_CV_Business Development.pdf",
-   "desc": "About Ampd Energy\nAmpd Energy is transforming how cities build - cleaner, smarter, and more sustainably. We are trailblazers in making the construction industry emission-free. Our products are advanced, compact, and connected battery energy storage system (BESS) designed to replace the dirty, noisy, and hazardous diesel generators that power construction sites around the world. By combining connected hardware with advanced software and AI, we reduce emissions, noise, and operational complexity.\nWe envision an emission-free future across all industries. Our mission is to develop robust, versatile, and easy-to-use products that deliver clean energy - empowering businesses and people to achieve more. We're seeking individuals who bring entrepreneurial drive, adaptability, and enthusiasm, and who thrive in an environment of continuous learning and evolution.\nRole Overview:\nAmpd Energy is growing and seeking a Regional Manager to join our Asia team. This role is focused on driving growth within the power solutions market for mining, construction and industrial applications, and we’re specifically looking for someone with experience in power systems, energy solutions, or equipment supporting mining operations across Singapore and Malaysia.\nYou will support our Asia Business Development team in achieving and exceeding sales targets, building long-term relationships with mining, construction and industrial clients, and managing and updating the sales pipeline within our CRM system.  You will be training distributors on the product/consultative selling, understanding customer’s pain points, and preparing proposals and quotations to address those. You will gather market intelligence required for business development. \nWe’re looking for someone who is motivated, reliable, and excited to be part of bringing game-changing power solutions into the mining sector. You should be comfortable operating with a high degree of autonomy and be a clear, candid, and effective communicator in both spoken and written English and Chinese.\nYou won’t get bored in this role. Come join our mission-driven team!\nAmpd Energy offers competitive benefits, strong opportunities for professional growth, and a collaborative, multinational work environment.\nAll information provided will be treated in strict confidence and used solely for recruitment purposes. \nAmpd Energy is an equal-opportunity employer. All candidates will be assessed on merit without regard to age, race, gender, sexual orientation, religion, nationality, marital status, political affiliation, or any other factor protected by law.",
+   "desc": "About Ampd Energy \n Ampd Energy is transforming how cities build - cleaner, smarter, and more sustainably. We are trailblazers in making the construction industry emission-free. Our products are advanced, compact, and connected battery energy storage system (BESS) designed to replace the dirty, noisy, and hazardous diesel generators that power construction sites around the world. By combining connected hardware with advanced software and AI, we reduce emissions, noise, and operational complexity.\n We envision an emission-free future across all industries. Our mission is to develop robust, versatile, and easy-to-use products that deliver clean energy - empowering businesses and people to achieve more. We're seeking individuals who bring entrepreneurial drive, adaptability, and enthusiasm, and who thrive in an environment of continuous learning and evolution.\n Role Overview:\n Ampd Energy is growing and seeking a Business Development Manager to join our Asia team. This role is focused on driving growth within the power solutions market for mining, construction and industrial applications, and we’re specifically looking for someone with experience in power systems, energy solutions, or equipment supporting mining operations across Indonesia. \n You will support our Asia Business Development team in achieving and exceeding sales targets, building long-term relationships with mining, construction and industrial clients, and managing and updating the sales pipeline within our CRM system.  You will be training distributors on the product/consultative selling, understanding customer’s pain points, and preparing proposals and quotations to address those. You will gather market intelligence required for business development. \n We’re looking for someone who is motivated, reliable, and excited to be part of bringing game-changing power solutions into the mining sector. You should be comfortable operating with a high degree of autonomy and be a clear, candid, and effective communicator.\n You won’t get bored in this role. Come join our mission-driven team!\n What You’ll Do:\n Build Relationships : Develop long-term relationships with mining operators, construction contractors, and power solution stakeholders by actively engaging clients, understanding site-specific power needs, and translating requirements into strong technical and commercial solutions.\n Business Development : Execute sales strategies focused on power solutions within mining environments, driving opportunities from early engagement through to close and consistently achieving/exceeding targets.\n Nurture Pipelines : Own, manage and nurture the sales pipelines, tracking the full sales cycle from lead generation to deal close; maintain accurate, up-to-date pipeline reporting in the CRM.\n Own Sales Process : Lead end-to-end sales activities including pre-sales consultation on power systems, site discussions, preparing client quotations, collaborating with the Application Team on technical proposals, and negotiating tenders, payment schedules, and contracts with clients\n Partner with Distributors : Collaborate with distributors and partners to forecast demand, align on market opportunities, and enable them to effectively position Ampd’s power solutions to their end-users. \n Support Sales Ops : Support sales operations including site visits, coordination of submission of technical and regulatory requirements, and ensuring solutions are delivered in line with committed timelines; prepare internal reports to support commercial decision-making.\n Who you are:\n Experienced : Proven sales or business development experience in the power industry supporting mining operations (e.g. generators, hybrid systems, microgrids, rental power, or similar).\n Industry Knowledge: Demonstrated understanding of mining operations and site power needs, with a strong interest in the energy transition and clean power solutions.\n Technically Curious: Able to quickly learn and translate power system concepts into simple, customer-facing solutions.\n Commercially Driven : Strong consultative selling skills with a customer-first mindset; analytical and solution-oriented in approach.\n Educated : Bachelor’s degree in business, engineering or related field\n Multilingual : Must have good command in written and spoken English and Bahasa Indonesia.\n Communicator : Clear, confident communicator with strong interpersonal and presentation skills, able to engage both technical and commercial stakeholders.\n Digitally Fluent : Comfortable using CRM systems and digital tools (ex: HubSpot, Google Workspace) to manage pipelines and reporting.\n Self-Starter : Proactive, driven, and comfortable operating with autonomy in a fast-paced environment; eager to learn and take on new challenges.\n Ampd Energy offers competitive benefits, strong opportunities for professional growth, and a collaborative, multinational work environment.\n All information provided will be treated in strict confidence and used solely for recruitment purposes. \n Ampd Energy is an equal-opportunity employer. All candidates will be assessed on merit without regard to age, race, gender, sexual orientation, religion, nationality, marital status, political affiliation, or any other factor protected by law.",
    "discovered": "2026-11-17",
    "flags": [],
    "followups_sent": [],
@@ -12532,6 +13072,62 @@
    "url": "https://job-boards.greenhouse.io/braze/jobs/8365280",
    "workplace": "",
    "years_required": 5
+  },
+  "4987dc26": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 77,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Ninja Van",
+   "cv": "out/cv/Ninja-Van-4987dc26/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About the job \n Ninja Van is a tech-enabled logistics company on a mission to provide hassle-free delivery services for businesses of all sizes across Southeast Asia. Launched in 2014, we started operations in Singapore and have become the region's largest and fastest growing last-mile logistics company, partnering with over 35,000 merchants and delivering more than 1,000 parcels every minute across six countries. \n At our core, we are a technology company that is disrupting a massive industry with cutting-edge software and operational concepts. Powered by algorithm-based optimisation, dynamic routing, end-to-end tracking and a data-driven approach, we provide best-of-class delivery services that delight both the shippers and end customers. But we are just getting started! We have much room for improvement and many ideas that will further shape the industry\n Requirements\n Minimum Bachelor’s degree of all major\n Strong communication and interpersonal skills to build relationships with internal and external stakeholders\n Excellent knowledge in B2B, LTL and Trucking Services\n A self-motivated, result-oriented individual, passionate about sourcing new business\n Excellent listening, negotiation and presentation abilities with strong verbal and written communication skills\n Proactive, resourceful with the ability to work well independently or in groups\n Strong networker & relationship builder and highly goal-driven and work well in fast-paced environment\n Key Result Areas\n Revenue / volume Achievement\n Weekly activities and pipeline\n Sales Force Completion\n Retention Rate\n Major Activities\n Responsible for achievement on sales target\n Responsible on fulfilling activities assigned to the individual sales person\n Responsible for shipper acquisition and shipper growth\n Responsible for shipper retention",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 289 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "4987dc26",
+   "kit": null,
+   "location": "Jakarta, Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-02-05",
+   "red_flags": [],
+   "score": 76,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 30
+   },
+   "source": "Lever:ninjavan",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "B",
+   "title": "Business Development Assistant Manager (Electronics & Telco Industries)",
+   "url": "https://jobs.lever.co/ninjavan/e1f2ae02-fce6-4c76-99dd-e67e5334c414",
+   "workplace": "onsite",
+   "years_required": null
   },
   "49c36f3c": {
    "applied": null,
@@ -12890,6 +13486,60 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8284970",
    "workplace": "",
    "years_required": 5
+  },
+  "4be03686": {
+   "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 81,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Grab",
+   "cv": "out/cv/Grab-4be03686/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About Grab and Our Workplace \n Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excellence, while harnessing the power of Technology and AI to deliver the mission of driving Southeast Asia forward by economically empowering everyone, with heart, hunger, honour, and humility.\n Get to Know the Team \n The Partner Engagement Business Partner team connects Indonesia's central operations priorities with city teams and driver-partners. We provide engagement guidance, coordinate program launches, manage issue escalation, and use field feedback to improve our program continuously. You will work closely with regional and central teams to ensure alignment and execution excellence.\n Get to Know the Role \n Reporting to the Manager, Partner Engagement, you will transform engagement priorities into clear, actionable plans across your assigned territories. You will guide city teams on engagement best practices, monitor community-engagement quality and effectiveness, and translate driver feedback into practical improvements that enhance our partnership ecosystem. You will be based onsite in our Jakarta Office.\n The Critical Tasks You Will Perform \n Drive planning and governance: Track engagement plans, identify owners and deadlines, monitor risks and decisions, and follow up consistently until actions are completed as agreed.\n Improve community engagement: Guide city teams on Kopdar planning and execution; review attendance, feedback, follow-up activities, and quality metrics—focusing on meaningful engagement outcomes, not just activity counts.\n Support program launches: Prepare comprehensive briefings, FAQs, and readiness checklists for new programs or changes affecting drivers; relay city team feedback to program owners to ensure successful implementation.\n Turn feedback into action: Summarize territory insights and unresolved issues for internal and regional leaders; coordinate escalation processes where needed to drive resolution and continuous improvement.\n Improve team processes: Maintain current engagement guides, stakeholder maps, and tracking systems; streamline recurring reporting to enhance team efficiency and effectiveness.\n What Essential Skills You Will Need \n Bachelor's degree from any major\n Minimum 3-5 years of experience in coordinating operations, partner/ community programs\n Proficiency in data analysis tools such as Ms. Excel and comfortable with spreadsheets (can maintain complex spreadsheets) and presentation tools.\n Experience with KPI tracking and reporting\n Experience in facilitating briefings and write concise updates.\n Working proficiency in Bahasa Indonesia and English\n Willingness to visit cities when the work requires it.\n Preferably has experience with driver-partner engagement, community programs or CRM/issue-tracking workflows\n Life at Grab \n We care about your well-being at Grab, here are some of the global benefits we offer:\n We have your back with Term Life Insurance and comprehensive Medical Insurance. \n With GrabFlex, create a benefits package that suits your needs and aspirations.\n Celebrate moments that matter in life with loved ones through Parental and Birthday leave , and give back to your communities through Love-all-Serve-all (LASA) volunteering leave\n We have a confidential Grabber Assistance Programme to guide and uplift you and your loved ones through life's challenges.\n Balancing personal commitments and life's demands are made easier with our FlexWork arrangements such as differentiated hours\n What We Stand For At Grab \n We are committed to building an inclusive and equitable workplace that provides equal opportunity for Grabbers to grow and perform at their best. We consider all candidates fairly and equally regardless of nationality, ethnicity, race, religion, age, gender, family commitments, physical and mental impairments or disabilities, and other attributes that make them unique.",
+   "discovered": "2026-11-21",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "4be03686",
+   "kit": null,
+   "location": "Jakarta, Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-11-05",
+   "red_flags": [],
+   "score": 81,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 15,
+    "title": 30
+   },
+   "source": "SR:Grab",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "A",
+   "title": "Partner Engagement Business Partner Assistant Manager",
+   "url": "https://jobs.smartrecruiters.com/Grab/744000159792660",
+   "workplace": "",
+   "years_required": 3
   },
   "4c081f0d": {
    "applied": null,
@@ -14604,6 +15254,62 @@
    "title": "Enterprise Account Executive-Rockies",
    "url": "https://jobs.ashbyhq.com/clickhouse/0c43faa1-e44d-4c2f-8c52-2a3a3cb18d6a",
    "workplace": "Remote",
+   "years_required": null
+  },
+  "590c9f8b": {
+   "applied": null,
+   "ats": {
+    "after": 97,
+    "before": 72,
+    "if_pending_confirmed": 97,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 7.1,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Lalamove",
+   "cv": "out/cv/Lalamove-590c9f8b/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Lalamove is disrupting the logistics industry by connecting customers and drivers directly through our technology. We offer customers a lightning fast and convenient way to book delivery and moving services whether they are at their home, at work or on the go. People talk about O2O, we live it! \n Our strength lies in our internal values, namely  Passion  in serving local communities, empowering SMEs and our driver partners,  Execution  and  Grit  because that is how we differentiate ourselves by never giving up and striving for excellence, and  Humility  - awareness in ourselves to learn from others and never stop improving.\n At Lalamove, we strongly believe in the power of community. Millions of drivers and customers use our technology every day to connect with one another and move things that matter. Delivery is what we do best and we ensure it is always fast and simple. Since 2013, we have tackled the logistics industry head on to find the most innovative solutions for the world’s delivery needs. \n Our vision is to bring communities closer and make city life easier by allowing fast and convenient circulation of goods. We realize this vision with a ‘glocal’ approach, building a robust operations team to adapt our product to local networks of businesses and delivery contractors. At the same time, we have ambition to build an international brand by establishing  an even more global presence.\n As an Account Executive , you will be in charge of growing and retaining our demand from Business Clients in Indonesia and report to the Business Development Manager.  Quick wits, problem solving and a “team first” mentality will be critical to your success.  This role is a unique opportunity to have a measurable impact on your market through the growth of business clients on the Lalamove platform.\n Think you are up for it? Apply now and join us as #OneLalamove!\n The recruitment process will be carried out in English, and only shortlisted candidates will be notified. \n What you'll do\n Act as the primary point of contact for customer account management and establish trusted relationships with key accounts and stakeholders\n Ensure timely and successful delivery of solutions aligned with client needs and objectives\n Identify opportunities in existing accounts for cross-selling and upselling, driving revenue growth and customer value\n Negotiate contracts and close agreements to maximize profits\n Clearly communicate the progress of monthly/quarterly initiatives to internal and external stakeholders\n Proactively develop new business with existing clients and identify areas for improvement\n Forecast and track key account metrics to inform strategic decision-making and drive business growth\n Assist with challenging client requests or issue escalations as needed\n Planning, executing and evaluating retention program\n What we seek\n Leadership skill to deal with a large and diverse Lalamove community\n Strong sense of prioritization and structured mindset to cover multiple things at the same time, without compromising on quality\n Ability to stand firm with integrity when deciding for the company in every situation\n Data-driven to identify leverages and make decisions for the business in every situation\n Strong verbal and communication skill to articulate ideas clearly through the use of a structured approach with proven ability to create framework\n What you'll need\n BA/BS degree in Business Administration or relevant field\n Proven work experience as an Account Manager, Key Account Manager, Sales Account Manager, Junior Account Manager or relevant role\n Skilled in data analytics tools and reporting\n Solid experience with CRM software (e.g. Freshworks, Salesforce, or Zoho CRM) and MS Office (particularly MS Excel and MS Powerpoint)\n To all candidates- Lalamove respects your privacy and is committed to protecting your personal data.\n This Notice will inform you how we will use your personal data, explain your privacy rights and the protection you have by the law when you apply to join us. Please take time to read and understand this Notice. Candidate Privacy Notice:  https://www.lalamove.com/en-hk/candidate-privacy-notice \n Untuk semua kandidat- Lalamove menghormati privasi Anda dan berkomitmen untuk melindungi data pribadi Anda. Pemberitahuan ini akan memberi tahu Anda bagaimana kami akan menggunakan data pribadi Anda, menjelaskan hak privasi Anda dan perlindungan hukum yang Anda miliki saat Anda mendaftar untuk bergabung dengan kami. Mohon luangkan waktu untuk membaca dan memahami Pemberitahuan ini. Pemberitahuan Privasi Kandidat:  https://www.lalamove.com/id/candidate-privacy-notice",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Posting 38 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "590c9f8b",
+   "kit": null,
+   "location": "Jakarta",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-10-14",
+   "red_flags": [],
+   "score": 72,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 10,
+    "title": 26
+   },
+   "source": "Lever:lalamove",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "B",
+   "title": "Account Executive",
+   "url": "https://jobs.lever.co/lalamove/919963ac-3e72-4b5d-91e8-5c509e097aa7",
+   "workplace": "onsite",
    "years_required": null
   },
   "5918c830": {
@@ -17300,6 +18006,62 @@
    "workplace": "Remote",
    "years_required": 8
   },
+  "6792db39": {
+   "applied": null,
+   "ats": {
+    "after": 85,
+    "before": 62,
+    "if_pending_confirmed": 89,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 46.4,
+     "soft": 8.6,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Syarat 8+ tahun"
+   ],
+   "comp": "",
+   "company": "Trend Micro",
+   "cv": "out/cv/Trend-Micro-6792db39/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "TrendAI™, the global AI security leader and enterprise business unit of Trend Micro, empowers organizations with full AI visibility and consolidated security that inspires confidence, drives innovation, and eliminates risk.\n At TrendAI™, we’re always seeking exceptional talent; people who want to collaborate with the best and push boundaries together. Here, your work goes beyond building a career. You will help protect what matters and play a vital role in shaping a safer, more trustworthy AI-powered future.\n AI Fearlessly.\n About the Role \n We are looking for a high-impact Strategic Account Manager to drive growth within Indonesia’s Government sector. This role is responsible for developing and executing account strategies across central and regional government agencies, positioning our cybersecurity solutions, and building long-term trusted relationships with key stakeholders.\n You will play a critical role in expanding our footprint, navigating complex procurement environments, and aligning our solutions with national digital transformation and cybersecurity priorities.\n Key Responsibilities \n Develop and execute a strategic account plan for Indonesia Government (central, ministries, agencies, and key regional entities)\n Identify, qualify, and close large, complex deals involving AI and cybersecurity solutions\n Build and maintain C-level and senior stakeholder relationships across government bodies\n Navigate public sector procurement processes , tenders, and compliance requirements\n Collaborate with internal teams (pre-sales, product, marketing, partners) to deliver tailored solutions\n Drive pipeline generation and forecasting accuracy aligned with quarterly and annual targets\n Position the company as a trusted advisor in AI-driven cybersecurity and digital transformation\n Leverage and manage SI partners, local partners, and ecosystem alliances to scale engagement\n Monitor market trends, policy changes, and competitive landscape within Indonesia’s public sector\n Requirements \n 8–12+ years of enterprise sales experience, with a strong focus on Indonesia Government/Public Sector \n Proven track record of closing large, strategic deals (multi-year / high-value contracts)\n Strong understanding of Indonesia government procurement processes and regulatory landscape\n Experience in cybersecurity, enterprise software, or AI-related solutions preferred\n Established network within government agencies, ministries, and/or SOEs \n Ability to engage and influence senior stakeholders and decision-makers \n Strong commercial acumen, negotiation, and deal structuring skills\n Experience working with partners, system integrators, and channel ecosystem \n Preferred Qualifications \n Experience selling security platforms, cloud security, or other IT solutions \n Familiarity with national cybersecurity frameworks and digital transformation initiatives \n Background working with or alongside global vendors or regional SI partners \n Success Profile \n Strategic thinker with strong execution capability\n High ownership and accountability for revenue outcomes\n Skilled in navigating complex, multi-stakeholder environments\n Credible, consultative, and able to build long-term trust\n Resilient and adaptable in a dynamic market\n Why Join Us \n Opportunity to shape AI-driven cybersecurity adoption in Indonesia’s public sector\n Work with a high-growth, innovation-led organization\n Comprehensive medical and insurance for employee and their dependents.\n Competitive compensation, and career growth opportunities\n Trend AI strive to build an environment of equity and inclusion, which reflects diverse points of view. We welcome, value, promote, and celebrate diversity - the very experiences and attributes that make us who we are, including but not limited to race, ethnicity, nationality, gender, gender identification, sexual orientation, level of ability, age, religion, veteran status, socio-economic status, and political philosophy.   \n #LI-ZA1\n#LI-Hybrid \n We embrace change, empower people, and encourage innovation. Join Trend Micro and Thrive with us.",
+   "discovered": "2026-11-21",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "6792db39",
+   "kit": null,
+   "location": "Jakarta",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-11-11",
+   "red_flags": [],
+   "score": 66,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 8,
+    "industry": 10,
+    "location": 22,
+    "seniority": 0,
+    "title": 26
+   },
+   "source": "Workday:trendmicro",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "C",
+   "title": "Strategic Account Manager (Government)",
+   "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Jakarta/Strategic-Account-Manager--Government-_R0010400",
+   "workplace": "",
+   "years_required": 12
+  },
   "681e8b01": {
    "applied": null,
    "blockers": [
@@ -18915,14 +19677,14 @@
   "72d7927a": {
    "applied": null,
    "ats": {
-    "after": 78,
-    "before": 60,
-    "if_pending_confirmed": 78,
+    "after": 100,
+    "before": 68,
+    "if_pending_confirmed": 100,
     "parts": {
      "education": 5,
      "experience": 10,
      "format": 10.0,
-     "keywords": 27.8,
+     "keywords": 50.0,
      "soft": 10.0,
      "title": 15
     }
@@ -18931,7 +19693,7 @@
    "comp": "",
    "company": "BTSE",
    "cv": "out/cv/Btse-72d7927a/Ryan Hadi_CV_Business Development.pdf",
-   "desc": "About BTSE:\nBTSE Group is a global leader in fintech and blockchain technology, anchored by three core business pillars: Exchange, Payments, and Infrastructure Development. Serving over 100 corporate clients worldwide, we provide white-label exchange and payment solutions. Our offerings encompass everything from exchange infrastructure hosting and development to custody, wallets, payments, blockchain integration, trading, and more.\nBTSE has pioneered multiple trading technologies that have been widely adopted across the industry, establishing new benchmarks for innovation, performance, and security in digital asset trading. Consistently ranked among the top 10 global exchanges, BTSE is expanding rapidly and invites ambitious, driven professionals to become valuable members of its B2C and B2B businesses.\nAbout the Opportunity:\nJoin our team as a Token Listing Manager and play a key role in the dynamic blockchain and cryptocurrency industry. Conduct in-depth market research, identify emerging trends, and collaborate with top crypto funds to list innovative projects. Leverage your strong analytical and communication skills to provide strategic insights and detailed reports. If you thrive in a fast-paced environment and have a keen understanding of the crypto market, this opportunity is perfect for you. \n#LI-JY1",
+   "desc": "About BTSE: \n BTSE Group is a global leader in fintech and blockchain technology, anchored by three core business pillars: Exchange, Payments, and Infrastructure Development. Serving over 100 corporate clients worldwide, we provide white-label exchange and payment solutions. Our offerings encompass everything from exchange infrastructure hosting and development to custody, wallets, payments, blockchain integration, trading, and more.\n BTSE has pioneered multiple trading technologies that have been widely adopted across the industry, establishing new benchmarks for innovation, performance, and security in digital asset trading. Consistently ranked among the top 10 global exchanges, BTSE is expanding rapidly and invites ambitious, driven professionals to become valuable members of its B2C and B2B businesses.\n About the Opportunity: \n Join our team as a Token Listing Manager and play a key role in the dynamic blockchain and cryptocurrency industry. Conduct in-depth market research, identify emerging trends, and collaborate with top crypto funds to list innovative projects. Leverage your strong analytical and communication skills to provide strategic insights and detailed reports. If you thrive in a fast-paced environment and have a keen understanding of the crypto market, this opportunity is perfect for you. \n Responsibilities:\n Conduct research about the blockchain industry, crypto market, and trending projects in Web3, NFT; and continue to monitor the market as it grows.\n Provide insights to projects globally, provide listing reports and work closely with internal stakeholders to list the relevant projects.\n Develop blockchain projects around the globe and conduct business negotiations.\n Establish a good relationship with top crypto funds and platforms.\n Analyze user needs, along with data and make recommendations to improve our products\n Any other tasks as assigned by the Company.\n Requirement:\n Industry Experience : A minimum of 3 years of experience in the blockchain, and cryptocurrency. Experience in industry research or investment is highly advantageous.\n Market Knowledge : In-depth understanding of the crypto market and emerging trends, with strong analytical skills to conduct thorough market research.\n Communication and Negotiation : Exceptional communication and negotiation skills, capable of developing and maintaining relationships with top crypto funds and platforms.\n Research and Writing : Proficient in writing research reports and publications, with the ability to provide detailed insights and analysis.\n Data Analysis : Skilled in analyzing user needs and data to make strategic recommendations for product enhancements.\n Language Skills : Fluency in English is required; proficiency in Mandarin is highly desirable.\n Team Collaboration : Strong collaborative abilities to work closely with internal stakeholders and support the listing of relevant projects.\n Adaptability : Ability to adapt to a dynamic and fast-paced market environment, with flexibility to handle other tasks as assigned by the company.\n Perks & Benefits \n Competitive total compensation package\n Various team-building programs and company events\n And many more! Apply and let us tell you more!\n #LI-JY1",
    "discovered": "2026-11-17",
    "flags": [
     "Luar Indonesia: sponsor visa tidak disebut"
@@ -18966,7 +19728,7 @@
    "title": "Listing Business Development Manager",
    "url": "https://jobs.lever.co/BTSE/8cc49283-4de0-40db-a45e-c5d09551a103",
    "workplace": "remote",
-   "years_required": null
+   "years_required": 3
   },
   "72e14a1b": {
    "applied": null,
@@ -19866,12 +20628,25 @@
   },
   "77692301": {
    "applied": null,
+   "ats": {
+    "after": 100,
+    "before": 79,
+    "if_pending_confirmed": 100,
+    "parts": {
+     "education": 5,
+     "experience": 10,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
    "blockers": [
     "Wajib pengalaman industri spesifik (SaaS-essential / adtech / iGaming)"
    ],
    "comp": "",
    "company": "Databricks",
-   "cv": null,
+   "cv": "out/cv/Databricks-77692301/Ryan Hadi_CV_Business Development.pdf",
    "desc": "SLSQ427R902\n Databricks Enterprise Sales team is looking for an Account Executive to join us in Singapore. This is a role to double down on the opportunity identified in the Indonesian market.\n As an Account Executive, you will have a strong command of the SaaS sales process. You know how to present innovation and change through customer vision expansion and can guide opportunities forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners, and importantly, the business value that technology can unlock. Always prospecting for new opportunities, you will engage new accounts whilst continuing to increase value within existing accounts.&nbsp;\n The impact you will have: \n Assess your accounts and develop a strategy to identify and engage\n Use a solution approach and create value for customers\n Identify the most valuable use cases in each account to maximize Databricks' impact\n Orchestrate and work with teams to maximize the impact on your ecosystem\n Build value with all engagements to promote successful negotiations to close\n Promote Databricks' enterprise cloud data platform powered by Apache Spark\n Be customer-focused by delivering technical and business results using the Databricks Platform\n What we look for: \n You have previously worked in an early-stage company, and you know how to navigate and be successful in a fast-growing organization\n Sales experience within Big Data, Cloud, or SaaS\n Experience working with C-Level executives\n Simply articulate intricate cloud technologies and big data\n Success in breaking into new accounts whilst growing existing accounts\n Experience exceeding sales targets\n Bachelor's Degree and 5+ years of experience selling SaaS solutions is essential\n &nbsp;\n About Databricks \n Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram .\n Benefits\n At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here .\n Our Commitment to Diversity and Inclusion \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.\n Compliance \n If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.",
    "discovered": "2026-11-14",
    "flags": [
@@ -19887,6 +20662,11 @@
     {
      "date": "2026-11-14",
      "note": "tier C: Wajib pengalaman industri spesifik (SaaS-essential / adtech / iGaming)",
+     "status": "rejected"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto-submit gagal: needs_code ",
      "status": "rejected"
     }
    ],
@@ -22136,6 +22916,68 @@
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8398863",
    "workplace": "",
    "years_required": null
+  },
+  "849dc99d": {
+   "applied": null,
+   "ats": {
+    "after": 89,
+    "before": 64,
+    "if_pending_confirmed": 89,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 8.9,
+     "title": 15
+    }
+   },
+   "blockers": [],
+   "comp": "",
+   "company": "Mixpanel",
+   "cv": "out/cv/Mixpanel-849dc99d/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About Mixpanel \n Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com .\n About the Team \n Our Sales team manages the full sales cycle, helping prospects and existing customers leverage Mixpanel to analyse, measure, and improve their customer experience. The Enterprise team focuses on targeting and working with our largest organisations — 1,000+ employees — with an emphasis on high-growth technology companies who are changing the world around us.\n We are building a high-performing, customer-obsessed sales organisation with a strong sense of ownership and ambition. We partner closely with Solutions Engineering, Customer Success, and Marketing to deliver meaningful outcomes for our customers across Indonesia and Malaysia.\n About the Role \n As a Senior Enterprise Account Executive, you’ll help our future customers understand the power of Mixpanel as the best-in-class product analytics solution in the market. You’ll focus on enterprise organisations across Indonesia and Malaysia, with an emphasis on high-growth technology companies in sectors such as Fintech, eCommerce, Media &amp; Entertainment, and SaaS.\n Collaboration is key — from building strong relationships with prospects and key stakeholders to working with internal cross-functional partners like Solutions Engineering to win together as one team. You’ll leverage your prospecting skills selling SaaS to technology companies alongside strong knowledge of Mixpanel’s product and ecosystem to close new business, powering the next generation of innovative Indonesian and Malaysian companies.\n This is a great opportunity for an experienced enterprise seller who thrives in complex, multi-stakeholder sales cycles and wants to play a visible role in building Mixpanel’s presence across the Indonesian and Malaysian markets.\n Responsibilities \n Generate new business opportunities by selling directly to top-tier digital analytics decision-makers, including C-level executives and other key stakeholders\n Manage 6–18 month sales cycles, including aligning customer requirements with Mixpanel’s current or adjusted product roadmap\n Manage the customer-side buying process from discovering and creating need, building a business case, through to formal RFP, procurement, and IT security review\n Maintain accurate Salesforce records related to new business opportunities and deliver accurate weekly forecasts against revenue targets\n Approach all deals with a customer-focused mentality — develop relationships and uncover the needs of multiple key stakeholders to find and articulate value moments\n Collaborate cross-functionally with Solutions Engineering, Customer Success, Product, Marketing, and Legal to understand strategic enterprise use cases and needs\n Develop an intimate understanding of Mixpanel’s competitive landscape and technology partner ecosystem to consult customers on our position in the broader analytics market\n Contribute to building Mixpanel’s brand and market presence across Indonesia and Malaysia through customer engagement, industry events, and community participation\n &nbsp;\n We’re Looking For Someone Who Has \n 7+ years of experience in full-cycle SaaS sales from prospect to close, as an Enterprise Account Executive or in related cross-functional roles\n Proven ability to succeed in outbound prospecting and generating significant deal outcomes in the Indonesian and/or Malaysian markets\n A passion for communicating value to senior stakeholders and finding creative ways to develop new business cases\n Proven ability to own and manage a complex sales cycle utilising solution and value-selling approaches, resulting in exceeding activity, pipeline, and revenue targets\n Expertise in engaging with C-level executives and managing high-stakes negotiations\n Effective communicator and strong presenter, with a proven ability to influence senior stakeholders\n Adaptability — you understand that change is constant, and you embrace it\n Agility and resilience — you move quickly and encourage continued improvement\n Strong work ethic, desire to learn, and a drive to excel\n Curiosity for the product analytics space and how data-driven companies build better customer experiences\n Bonus Points For \n Speak fluent Bahasa Indonesia / Melayu\n Experience selling into high-growth technology companies across sectors such as Fintech, eCommerce/Retail, Media &amp; Entertainment, or SaaS\n Familiarity with the enterprise technology landscape, including key accounts, buying cycles, and local procurement practices\n Experience with Mixpanel or other product analytics tools (e.g., Amplitude, Heap, Pendo)\n Existing relationships with senior technology or product leaders in the Indonesian market\n Experience working in high-growth SaaS environments (Series B–E or beyond)\n #PC-LI\n Benefits and Perks \n Comprehensive Medical, Vision, and Dental Care\n Mental Wellness Benefit\n Generous Vacation Policy &amp; Additional Company Holidays\n Enhanced Parental Leave\n Volunteer Time Off\n Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break\n *please note that benefits and perks for contract positions will vary* \n Culture Values \n Make Bold Bets: We choose courageous action over comfortable progress.\n Innovate with Insight: We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive&nbsp;powerful outcomes.\n One Team: We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.\n Candor with Connection: We build meaningful relationships that enable honest feedback and direct conversations.\n Champion the Customer: We seek to deeply understand our customers’ needs, ensuring their success is our north star.\n Powerful Simplicity: We find elegant solutions to complex problems, making sophisticated things accessible.\n Why choose Mixpanel? \n We’re a leader in analytics with over 29,000 customers and $277M invested from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.\n Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Luar Indonesia: sponsor visa tidak disebut",
+    "Posting 121 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    },
+    {
+     "date": "2026-11-21",
+     "note": "auto: form Greenhouse masih aktif",
+     "status": "verified"
+    }
+   ],
+   "id": "849dc99d",
+   "kit": null,
+   "location": "Singapore (Hybrid)",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-07-23",
+   "red_flags": [],
+   "score": 68,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 6,
+    "title": 26
+   },
+   "source": "GH:mixpanel",
+   "sponsorship_mentioned": false,
+   "status": "verified",
+   "tier": "B",
+   "title": "Enterprise Account Executive, Malaysia & Indonesia",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080833",
+   "workplace": "",
+   "years_required": 7
   },
   "85568f1e": {
    "applied": null,
@@ -29442,6 +30284,65 @@
    "workplace": "",
    "years_required": null
   },
+  "b538cc8d": {
+   "applied": null,
+   "ats": {
+    "after": 90,
+    "before": 51,
+    "if_pending_confirmed": 90,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Syarat 8+ tahun"
+   ],
+   "comp": "",
+   "company": "Ninja Van",
+   "cv": "out/cv/Ninja-Van-b538cc8d/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "Ninja Xpress is a leading last-mile delivery service company in Indonesia. Since 2015, Ninja Xpress has been delivering success for local SMEs by organising various programs that are ready to support the quick and strategic development of SMEs.\n Ninja Xpress provides flexible service options and an easy-to-use system that enables real-time package tracking. These options are supported by professional and dedicated customer service. As a form of Ninja Xpress’s commitment to care for our loyal SMEs, we also have various Ninja Rewards programs such as Point Rewards, Creative Hub, Prima Benefit, Aksilerasi, and Capital Loans, to help our local SMEs with their businesses. \n Job Descriptions\n Oversees and drives the B2B strategy to achieve revenue targets and maximise growth opportunities\n Defines the strategy and direction of the sales team in the Non-Jabo area\n Involved in hiring and performance managing the sales team to achieve the sales strategy and objectives as defined\n Plays a critical role in expanding the company’s footprint in the B2B market, identifying new business opportunities and delivering exceptional customer service\n Develop our LTL, Same Day & Cargo business & services\n Requirements\n Bachelor’s degree in Business Administration, Marketing, or a related field\n Having experiences min. 7-10 years in B2B sales, with at least 3-5 years in a sales leadership role for Logistics and/or manufacturing industry\n Experiences in developing a Go To Market sales plan and In-depth knowledge of sales strategies, CRM software (e.g., Salesforce), and sales forecasting tools\n Strong leadership and team management capabilities with excellent communication, negotiation, and presentation skills\n Ability to build and maintain long-term client relationships\n Strong analytical and problem-solving skills, with a focus on driving results\n Strong in B2B background and have undestanding of market outside Jabodetabek especially East & Central Java area\n Willing to travel frequently",
+   "discovered": "2026-11-21",
+   "flags": [
+    "Perlu willingness to travel (tidak ada di profil)",
+    "Posting 68 hari (risiko ghost job, cek masih buka)"
+   ],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "b538cc8d",
+   "kit": null,
+   "location": "East Java, Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-09-14",
+   "red_flags": [],
+   "score": 62,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 4,
+    "industry": 10,
+    "location": 22,
+    "seniority": 6,
+    "title": 20
+   },
+   "source": "Lever:ninjavan",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "C",
+   "title": "Head of B2B Sales (East & Central Java)",
+   "url": "https://jobs.lever.co/ninjavan/538fd3f6-cf8d-4257-9d5c-075d67271000",
+   "workplace": "onsite",
+   "years_required": 7
+  },
   "b547a550": {
    "applied": null,
    "blockers": [
@@ -30743,6 +31644,62 @@
    "url": "https://jobs.elastic.co/jobs?gh_jid=8303268&gh_jid=8303268",
    "workplace": "",
    "years_required": 2
+  },
+  "bc0b4873": {
+   "applied": null,
+   "ats": {
+    "after": 90,
+    "before": 58,
+    "if_pending_confirmed": 90,
+    "parts": {
+     "education": 5,
+     "experience": 0,
+     "format": 10.0,
+     "keywords": 50.0,
+     "soft": 10.0,
+     "title": 15
+    }
+   },
+   "blockers": [
+    "Syarat 8+ tahun"
+   ],
+   "comp": "",
+   "company": "Grab",
+   "cv": "out/cv/Grab-bc0b4873/Ryan Hadi_CV_Business Development.pdf",
+   "desc": "About Grab and Our Workplace \n Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excellence, while harnessing the power of Technology and AI to deliver the mission of driving Southeast Asia forward by economically empowering everyone, with heart, hunger, honour, and humility.\n Get to Know the Team \n GrabFood's Region Commercial teams help Food and Mart merchants grow their businesses with us. We work with merchant partners on Campaigns, Ads, and lending solutions, alongside coordinating with merchant operations, marketing, and central teams.\n Get to Know the Role \n You will lead commercial performance for West Java. You will have team leads who lead daily field operations and manage most of the sales team. Your focus will be to align priorities across both teams, coordinate regional sales plans, facilitate OKR-setting discussions, and drive strategic projects with your team and central partners. You will report to the Territory Commercial Head overseeing these regions and represent your region in cross-region and cross-territory discussions. This is a field-based role with regular travel across the assigned region.\n The Critical Tasks You Will Perform \n Lead regional commercial execution through the Food Sales Manager, Mart Sales Manager, and Partner Operations, coaching them and aligning priorities across their teams.\n Coordinate sales planning across Food and Mart, and facilitate OKR-setting discussions to establish clear goals and ownership\n Drive strategic projects with your team, coordinating plans and dependencies with central stakeholders.\n Represent your region in cross-region and cross-territory discussions, sharing learnings and aligning on joint priorities.\n Support merchant growth through Campaigns, Ads, and lending solutions, working with the relevant product and lending teams.\n Oversee region merchant acquisition and portfolio growth, supporting key relationships with top merchant partners and escalations\n Build sound sales operations that aligns with central initiatives, yet applicable to the region's local nuances and team needs\n Use approved AI tools to prepare account briefs, streamline workflows, and develop merchant engagement ideas and data-protection practices.\n What Essential Skills You Will Need \n 8+ years of experience in commercial sales, business development, or account management, including 4+ years leading teams or managers.\n Experience delivering sales growth through merchant acquisition and development of existing accounts.\n Experience coordinating strategic projects and cross-functional initiatives from planning through delivery.\n Strong stakeholder management and negotiation skills, including the ability to align teams without direct authority.\n Fluency in Bahasa Indonesia and basic proficiency in English.\n Experience engaging with AI tools and emerging technologies to enhance productivity, improve workflows, and contribute new ideas.\n Good to Have \n Experience in food delivery, e-commerce, restaurants, retail, or another consumer-facing platform business\n Experience in B2B selling advertising, merchant campaigns, or lending products to businesses\n Experience working across major cities and smaller markets\n Life at Grab \n We care about your well-being at Grab, here are some of the global benefits we offer:\n We have your back with Term Life Insurance and comprehensive Medical Insurance. \n With GrabFlex, create a benefits package that suits your needs and aspirations.\n Celebrate moments that matter in life with loved ones through Parental and Birthday leave , and give back to your communities through Love-all-Serve-all (LASA) volunteering leave\n We have a confidential Grabber Assistance Programme to guide and uplift you and your loved ones through life's challenges.\n Balancing personal commitments and life's demands are made easier with our FlexWork arrangements such as differentiated hours\n What We Stand For at Grab \n We are committed to building an inclusive and equitable workplace that enables diverse Grabbers to grow and perform at their best. As an equal opportunity employer, we consider all candidates fairly and equally regardless of nationality, ethnicity, religion, age, gender identity, sexual orientation, family commitments, physical and mental impairments or disabilities, and other attributes that make them unique.",
+   "discovered": "2026-11-21",
+   "flags": [],
+   "followups_sent": [],
+   "history": [
+    {
+     "date": "2026-11-21",
+     "note": "discovered",
+     "status": "new"
+    }
+   ],
+   "id": "bc0b4873",
+   "kit": null,
+   "location": "Bandung, Indonesia",
+   "notes": "Search 21 Nov: tech asing, lokasi Indonesia",
+   "posted": "2026-11-16",
+   "red_flags": [],
+   "score": 64,
+   "score_parts": {
+    "comp": 0,
+    "fresh": 12,
+    "industry": 10,
+    "location": 22,
+    "seniority": 0,
+    "title": 20
+   },
+   "source": "SR:Grab",
+   "sponsorship_mentioned": false,
+   "status": "new",
+   "tier": "C",
+   "title": "Region Commercial Manager - West Java",
+   "url": "https://jobs.smartrecruiters.com/Grab/744000161813659",
+   "workplace": "",
+   "years_required": 8
   },
   "bc1b9794": {
    "applied": null,

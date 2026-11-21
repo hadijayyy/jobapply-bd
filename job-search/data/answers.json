@@ -1,8 +1,20 @@
 {
+ "3c3a12940489": {
+  "answer": "Yes",
+  "label": "Are you comfortable working 5 days from Jakarta office?",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
  "43600bd626ad": {
   "answer": "N/A",
   "label": "If you answered yes to being related to a current Qualtrics employee, please specify name and relationship (N/A if not applicable).",
   "scope": "Qualtrics | Enterprise Account Services Associate",
+  "source": "ai"
+ },
+ "4516e1bfd548": {
+  "answer": "Email",
+  "label": "How should we communicate with you?",
+  "scope": "Elastic | Mid Market Account Executive - Indonesia",
   "source": "ai"
  },
  "5096e9b8fb17": {
@@ -11,11 +23,35 @@
   "scope": "semua lowongan",
   "source": "ai"
  },
+ "51c752f3d382": {
+  "answer": "No",
+  "label": "Will you require Elastic's sponsorship to continue or extend your work authorization status?",
+  "scope": "Elastic | Mid Market Account Executive - Indonesia",
+  "source": "ai"
+ },
  "580b21cfd760": {
   "answer": "None of the above",
   "label": "Where have you seen Qualtrics prior to applying? Select all that apply.",
   "scope": "Qualtrics | Enterprise Account Services Associate",
   "source": "ai"
+ },
+ "6779dbb9c4b9": {
+  "answer": "Jakarta, Indonesia",
+  "label": "Present Location",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "70342dc12a02": {
+  "answer": "Indonesia",
+  "label": "In what countries do you have the unrestricted right to work?",
+  "scope": "Elastic | Mid Market Account Executive - Indonesia",
+  "source": "claude: dari profil"
+ },
+ "7813fca33780": {
+  "answer": "Indonesia (Jakarta-based enterprise and corporate clients, plus international technology vendors as partners). Languages: Bahasa Indonesia (native) and English (professional working proficiency).",
+  "label": "Which markets or client geographies have you worked with previously, and in what language(s) did you operate?",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "claude: dari profil"
  },
  "7eb1ee592dd4": {
   "answer": "Yes",
@@ -47,10 +83,40 @@
   "scope": "Qualtrics | Enterprise Account Services Associate",
   "source": "ai"
  },
+ "a0dd6c467cca": {
+  "answer": "No. My background is B2B enterprise IT sales and channel partnerships (MSPs, resellers, technology vendors), not digital ad sales.",
+  "label": "Do you have Digital ad sales or agency partnership background?",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "b3c16d0a283f": {
+  "answer": "My current work authorization requires a renewal or sponsorship now or in the future (ie: H1-B, OPT, TN, etc.)",
+  "label": "Are you currently authorized to work in the country outlined for this job (e.g. H-1B status)?",
+  "scope": "Mixpanel | Enterprise Account Executive, Malaysia & Indonesia",
+  "source": "ai"
+ },
+ "b6587f0141c5": {
+  "answer": "5+ years (B2B sales and channel partnerships since Apr 2021)",
+  "label": "Total experience?",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
  "c306864ce61b": {
   "answer": "Yes",
   "label": "Are you willing to undergo a background check as part of this hiring process?",
   "scope": "semua lowongan",
+  "source": "ai"
+ },
+ "cd87cd820b14": {
+  "answer": "No experience - willing to learn",
+  "label": "Do you have experience Digital Ads Sales? If yes, please rate your proficiency",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
+  "source": "ai"
+ },
+ "ce44cde140c1": {
+  "answer": "Indonesia",
+  "label": "Which passport(s) do you currently hold?",
+  "scope": "InMobi | Sales Manager - Microsoft Ads - Jakarta, Indonesia",
   "source": "ai"
  },
  "ddc1f142d477": {

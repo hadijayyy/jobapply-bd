@@ -39,11 +39,11 @@ LEX = [
     ("quota attainment", "hard", r"quota|(sales|revenue) targets?|exceed\w* targets?|over[- ]?achiev", "yes", "Quota Attainment (115%+ in 2025)"),
     ("demos / POC", "hard", r"\bdemos?\b|proofs? of concept|\bpocs?\b", "yes", "Demos & POCs (with presales)"),
     ("sales cycle", "hard", r"sales cycles?", "yes", "3-6 Month Enterprise Sales Cycles"),
-    ("forecasting", "hard", r"forecast", "pending", "Sales Forecasting"),
+    ("forecasting", "hard", r"forecast", "yes", "Sales Forecasting"),
     ("proposals / RFP", "hard", r"\brfp\b|\brfi\b|tender|proposal", "yes", "Proposals & Tenders"),
     ("business case", "hard", r"business case|\broi\b|value (case|realization)", "yes", "Business Case Development"),
     ("market sizing", "hard", r"market (sizing|analysis|research|intelligence|mapping)|\btam\b", "yes", "Market Sizing & Analysis"),
-    ("go-to-market", "hard", r"go[- ]to[- ]market|\bgtm\b", "no", "Go-to-Market Planning"),
+    ("go-to-market", "hard", r"go[- ]to[- ]market|\bgtm\b", "yes", "Go-to-Market Planning"),
     ("sales methodology", "hard", r"meddp?icc?|\bbant\b|\bspin\b|challenger|command of the message|sandler|value selling framework|sales methodolog", "yes", "MEDDIC / BANT / SPIN"),
     # ---- partnerships ----
     ("channel partnerships", "hard", r"channel|partner(ship)?s? (program|ecosystem|network)", "yes", "Channel Partnerships"),
@@ -79,7 +79,7 @@ LEX = [
     ("SEA / APAC markets", "hard", r"southeast asia|\bsea\b|asean|apac|asia[- ]pacific|\bapj\b|regional", "pending", "Southeast Asia Markets"),
     ("Bahasa Indonesia", "hard", r"bahasa|indonesian", "yes", "Bahasa Indonesia (Native)"),
     ("English", "hard", r"\benglish\b", "yes", "English (Professional)"),
-    ("travel", "hard", r"travel", "pending", "Regional Travel"),
+    ("travel", "hard", r"travel", "yes", "Open to Regional Travel"),
     # ---- soft skills ----
     ("communication", "soft", r"communicat|presentation skills|written and verbal", "yes", "Communication"),
     ("cross-functional collaboration", "soft", r"cross[- ]functional|collaborat|work closely with", "yes", "Cross-functional Collaboration"),

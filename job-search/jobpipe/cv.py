@@ -42,7 +42,7 @@ SILOAM = {
 SALES = ["business development", "B2B sales", "enterprise sales", "full-cycle sales", "new business", "closing",
          "outbound prospecting", "pipeline generation", "pipeline management", "discovery", "consultative selling",
          "negotiation", "multi-stakeholder", "executive engagement", "account management", "cross-sell", "upsell / expansion", "sales methodology", "demos / POC", "sales cycle",
-         "renewals / retention", "quota attainment", "proposals / RFP", "business case", "market sizing"]
+         "renewals / retention", "quota attainment", "forecasting", "go-to-market", "proposals / RFP", "business case", "market sizing"]
 PARTNER = ["channel partnerships", "partner management", "partner recruitment", "co-selling / joint plans", "QBR",
            "resellers / distributors", "MSP / managed services", "alliances"]
 DOMAIN = ["software sales", "cloud", "AWS / GCP / Azure", "IT infrastructure", "healthcare"]  # "cloud" phrase already says Managed Services
@@ -52,6 +52,13 @@ DEFAULT_SALES = ["full-cycle sales", "outbound prospecting", "discovery", "consu
                  "account management", "cross-sell", "upsell / expansion", "sales methodology", "renewals / retention"]
 DEFAULT_PARTNER = PARTNER
 DEFAULT_SOFT = ["cross-functional collaboration", "communication", "relationship building", "leadership"]
+
+
+TARGET_INDUSTRIES = {"SaaS": "SaaS", "cybersecurity": "cybersecurity", "payments / fintech": "payments", "public sector": "public sector", "adtech": "adtech", "crypto / web3": "crypto"}
+
+
+def _join(xs):
+    return xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " and " + xs[-1]
 
 
 def _ok(c):
@@ -92,6 +99,10 @@ def spec_for(job):
     if "AI tools" in want or not partner_role:
         middle.append(CV["summary"]["ai"])
     target = f"Native Indonesian speaker targeting {core} roles {_market(jd)}."
+    # Industries Ryan has not sold into are stated as a target, never as experience (Ryan approved 21 Nov 2026).
+    new_inds = [TARGET_INDUSTRIES[c] for c in TARGET_INDUSTRIES if ats.TERM[c][1].search(jd)]
+    if new_inds:
+        target += " Ready to sell into " + _join(new_inds) + " accounts."
     summary = " ".join([first] + middle + [target])
     log.append(f'Summary diakhiri "{target}" agar judul role JD ({core}) terbaca ATS. Ini target, bukan klaim jabatan.')
 
@@ -106,7 +117,7 @@ def spec_for(job):
 
     skills = [
         ("B2B Sales" if not partner_role else "Sales & Account Growth",
-         ", ".join(_pick(SALES, want, DEFAULT_SALES, max(9, min(13, sum(c in SALES for c in want)))))),
+         ", ".join(_pick(SALES, want, DEFAULT_SALES, max(9, min(16, sum(c in SALES for c in want)))))),
         ("Channel Partnerships", ", ".join(_pick(PARTNER, want, DEFAULT_PARTNER, 5))),
         ("Tools & Analytics", TOOLS_LINE),
         ("Solutions & Industries", ", ".join(_pick(DOMAIN, want, DOMAIN, 5))),
@@ -116,7 +127,8 @@ def spec_for(job):
         skills[0], skills[1] = skills[1], skills[0]
     log.append("Skills disusun dari keyword JD yang punya bukti (evidence=yes); Salesforce ditambahkan (dikonfirmasi Ryan 14 Nov 2026).")
     return {"headline": headline, "summary": summary, "bullets": [BULLETS[k] for k in order],
-            "siloam": [SILOAM[k] for k in sil], "skills": skills}, log
+            "siloam": [SILOAM[k] for k in sil], "skills": skills,
+            "travel": bool(ats.TERM["travel"][1].search(jd))}, log
 
 
 def render(spec, path):
@@ -169,7 +181,10 @@ def render(spec, path):
     row("Bachelor of Engineering (S.T.), Civil Engineering", "2021")
     f.append(Paragraph("Universitas Pelita Harapan | Tangerang, Indonesia | GPA 3.53/4.00", body))
     sec("LANGUAGES")
-    f.append(Paragraph("Indonesian (Native) | English (Professional Working Proficiency)", body))
+    langs = "Indonesian (Native) | English (Professional Working Proficiency)"
+    if spec.get("travel"):
+        langs += " | Open to regional travel"
+    f.append(Paragraph(langs, body))
     doc.build(f)
     return path
 
